@@ -1,6 +1,6 @@
 # Plant-Disease-Detection
 ABSTRACT
-—————————————————————————————————
+
 Plant diseases are a huge problem for farmers and can seriously impact our food
 supply. To prevent devastating crop losses, it's vital to catch these diseases early. We
 decided to tackle this challenge using machine learning, building a smart system that
@@ -55,7 +55,7 @@ classifications.
 
 
 RESULT AND DISCUSSION
-—————————————————————————————————
+
 The Random Forest Classifier was trained on the plant disease dataset using features
 such as plant type, leaf colour, leaf spot size, humidity, and temperature. The
 following outcomes were observed:
