@@ -1,0 +1,3001 @@
+Plant_ID,Plant_Type,Leaf_Color,Leaf_Spot_Size,Humidity,Temperature,Disease_Status
+3000,Pepper,Green,5.97,50.09,35.15,Healthy
+3001,Potato,Yellowish,3.34,45.5,28.1,Healthy
+3002,Cucumber,Yellowish,8.32,41.13,39.34,Healthy
+3003,Potato,Dark Green,3.04,50.0,22.03,Healthy
+3004,Potato,Green,6.12,63.76,24.41,Mild Infection
+3005,Potato,Yellowish,2.0,65.08,35.27,Healthy
+3006,Pepper,Green,1.71,42.55,31.37,Healthy
+3007,Pepper,Dark Green,8.08,92.19,39.24,Severe Infection
+3008,Tomato,Dark Green,4.4,45.37,33.05,Healthy
+3009,Pepper,Green,3.91,85.83,21.81,Mild Infection
+3010,Potato,Dark Green,5.68,63.38,22.57,Mild Infection
+3011,Tomato,Yellowish,3.95,86.33,27.89,Mild Infection
+3012,Cucumber,Dark Green,5.7,80.0,25.18,Mild Infection
+3013,Cucumber,Green,7.47,92.86,36.58,Severe Infection
+3014,Pepper,Green,6.07,72.27,39.24,Mild Infection
+3015,Tomato,Green,0.16,56.3,21.64,Healthy
+3016,Tomato,Green,8.15,50.93,18.12,Healthy
+3017,Tomato,Yellowish,9.26,83.46,31.33,Severe Infection
+3018,Potato,Green,4.49,90.32,36.7,Mild Infection
+3019,Tomato,Yellowish,7.3,57.1,25.15,Healthy
+3020,Cucumber,Dark Green,1.2,88.8,28.39,Healthy
+3021,Potato,Yellowish,7.71,81.84,30.35,Severe Infection
+3022,Pepper,Yellowish,0.25,68.75,27.41,Healthy
+3023,Tomato,Yellowish,3.14,41.73,32.0,Healthy
+3024,Cucumber,Dark Green,5.4,47.66,31.3,Healthy
+3025,Tomato,Green,1.61,44.23,24.37,Healthy
+3026,Potato,Dark Green,8.71,84.45,31.93,Severe Infection
+3027,Cucumber,Dark Green,1.22,88.58,25.14,Healthy
+3028,Tomato,Yellowish,6.48,89.88,23.99,Severe Infection
+3029,Tomato,Green,5.11,87.34,18.15,Mild Infection
+3030,Tomato,Dark Green,3.38,52.22,20.64,Healthy
+3031,Pepper,Yellowish,7.03,57.78,29.41,Healthy
+3032,Tomato,Dark Green,2.52,93.45,39.17,Healthy
+3033,Potato,Yellowish,0.37,56.55,24.27,Healthy
+3034,Tomato,Dark Green,2.79,67.65,19.13,Healthy
+3035,Tomato,Green,4.89,53.18,21.19,Healthy
+3036,Cucumber,Dark Green,7.62,53.31,32.79,Healthy
+3037,Pepper,Green,6.32,80.05,26.09,Severe Infection
+3038,Potato,Dark Green,8.35,69.47,19.99,Mild Infection
+3039,Cucumber,Yellowish,5.91,50.26,18.9,Healthy
+3040,Pepper,Yellowish,3.49,79.11,35.81,Mild Infection
+3041,Pepper,Green,9.37,78.0,26.51,Severe Infection
+3042,Tomato,Yellowish,9.25,58.76,20.5,Healthy
+3043,Potato,Dark Green,8.17,54.19,32.52,Healthy
+3044,Tomato,Green,8.97,53.3,20.05,Healthy
+3045,Tomato,Yellowish,7.0,50.38,24.14,Healthy
+3046,Cucumber,Yellowish,8.88,87.1,26.9,Severe Infection
+3047,Cucumber,Yellowish,6.69,91.46,35.28,Severe Infection
+3048,Potato,Yellowish,9.74,60.48,38.68,Mild Infection
+3049,Potato,Dark Green,6.52,70.18,33.22,Mild Infection
+3050,Tomato,Green,1.79,40.99,28.87,Healthy
+3051,Cucumber,Yellowish,5.43,79.65,24.78,Mild Infection
+3052,Pepper,Yellowish,5.9,75.0,23.51,Mild Infection
+3053,Potato,Green,4.34,66.77,37.93,Mild Infection
+3054,Tomato,Dark Green,8.64,75.48,32.72,Severe Infection
+3055,Cucumber,Green,7.69,67.46,30.58,Mild Infection
+3056,Cucumber,Green,2.8,94.7,28.34,Healthy
+3057,Potato,Yellowish,3.31,81.12,38.97,Mild Infection
+3058,Potato,Green,0.75,71.48,39.57,Healthy
+3059,Tomato,Green,4.85,50.5,23.91,Healthy
+3060,Potato,Green,9.3,61.71,36.57,Mild Infection
+3061,Potato,Dark Green,1.4,73.83,39.78,Healthy
+3062,Pepper,Dark Green,6.97,88.26,34.3,Severe Infection
+3063,Pepper,Dark Green,8.09,59.77,24.46,Healthy
+3064,Pepper,Dark Green,5.11,87.69,38.09,Mild Infection
+3065,Tomato,Green,3.97,50.69,19.56,Healthy
+3066,Potato,Yellowish,0.94,58.59,26.26,Healthy
+3067,Pepper,Yellowish,5.43,41.98,28.24,Healthy
+3068,Tomato,Dark Green,0.37,72.5,18.67,Healthy
+3069,Potato,Yellowish,5.22,59.81,20.8,Healthy
+3070,Tomato,Green,1.94,65.15,36.52,Healthy
+3071,Potato,Yellowish,1.33,78.47,21.04,Healthy
+3072,Potato,Dark Green,2.71,57.76,35.49,Healthy
+3073,Cucumber,Dark Green,9.63,44.32,18.56,Healthy
+3074,Pepper,Yellowish,1.73,78.28,27.0,Healthy
+3075,Tomato,Yellowish,7.15,53.76,30.08,Healthy
+3076,Cucumber,Green,7.38,55.4,39.01,Healthy
+3077,Pepper,Green,2.48,73.64,27.23,Healthy
+3078,Cucumber,Yellowish,1.16,81.68,18.32,Healthy
+3079,Tomato,Yellowish,7.04,42.24,36.82,Healthy
+3080,Cucumber,Dark Green,3.46,81.99,35.75,Mild Infection
+3081,Potato,Dark Green,9.49,75.74,19.06,Severe Infection
+3082,Cucumber,Dark Green,9.33,54.35,18.34,Healthy
+3083,Cucumber,Green,6.16,69.67,33.05,Mild Infection
+3084,Cucumber,Yellowish,6.36,91.93,37.08,Severe Infection
+3085,Cucumber,Dark Green,8.11,71.54,20.83,Mild Infection
+3086,Pepper,Green,6.51,74.43,36.05,Mild Infection
+3087,Pepper,Green,0.18,43.81,20.22,Healthy
+3088,Pepper,Dark Green,3.19,77.57,19.57,Mild Infection
+3089,Potato,Dark Green,2.82,41.28,35.92,Healthy
+3090,Cucumber,Dark Green,8.77,78.32,31.84,Severe Infection
+3091,Cucumber,Green,1.77,84.19,24.2,Healthy
+3092,Tomato,Yellowish,3.72,94.48,27.08,Mild Infection
+3093,Pepper,Yellowish,4.29,91.19,36.89,Mild Infection
+3094,Tomato,Yellowish,9.03,81.5,20.27,Severe Infection
+3095,Potato,Green,3.89,57.6,37.7,Healthy
+3096,Cucumber,Green,3.19,89.8,20.01,Mild Infection
+3097,Potato,Yellowish,6.32,92.28,30.62,Severe Infection
+3098,Tomato,Green,6.73,56.13,25.23,Healthy
+3099,Cucumber,Green,0.91,83.54,35.37,Healthy
+3100,Potato,Dark Green,4.42,43.17,30.09,Healthy
+3101,Pepper,Green,1.43,59.3,20.58,Healthy
+3102,Potato,Dark Green,0.84,74.0,20.22,Healthy
+3103,Tomato,Dark Green,1.47,61.82,37.62,Healthy
+3104,Tomato,Green,8.63,52.83,30.79,Healthy
+3105,Potato,Green,7.53,92.1,39.69,Severe Infection
+3106,Potato,Yellowish,7.05,66.49,26.32,Mild Infection
+3107,Potato,Dark Green,2.54,58.16,27.56,Healthy
+3108,Potato,Dark Green,1.18,43.1,20.61,Healthy
+3109,Tomato,Yellowish,9.62,81.03,30.83,Severe Infection
+3110,Pepper,Green,4.36,44.56,29.62,Healthy
+3111,Potato,Green,8.91,93.34,18.95,Severe Infection
+3112,Potato,Green,5.54,94.61,19.62,Mild Infection
+3113,Cucumber,Green,6.96,68.77,31.85,Mild Infection
+3114,Pepper,Green,9.01,74.52,30.85,Mild Infection
+3115,Tomato,Yellowish,8.9,55.45,38.91,Healthy
+3116,Cucumber,Green,4.64,55.26,22.14,Healthy
+3117,Potato,Dark Green,2.6,54.63,25.93,Healthy
+3118,Pepper,Dark Green,4.11,41.78,24.15,Healthy
+3119,Tomato,Green,9.41,47.33,19.68,Healthy
+3120,Pepper,Green,9.33,73.74,27.2,Mild Infection
+3121,Potato,Yellowish,3.76,42.49,18.58,Healthy
+3122,Tomato,Dark Green,5.94,94.3,21.31,Mild Infection
+3123,Pepper,Green,8.38,93.35,36.53,Severe Infection
+3124,Potato,Green,0.56,62.82,24.01,Healthy
+3125,Potato,Green,9.13,69.39,34.5,Mild Infection
+3126,Pepper,Green,3.78,79.94,34.66,Mild Infection
+3127,Tomato,Dark Green,2.75,51.28,23.53,Healthy
+3128,Cucumber,Dark Green,0.47,88.3,34.65,Healthy
+3129,Pepper,Yellowish,7.72,76.94,29.45,Severe Infection
+3130,Pepper,Dark Green,5.61,86.87,30.14,Mild Infection
+3131,Potato,Yellowish,0.29,62.19,20.95,Healthy
+3132,Pepper,Green,2.13,74.12,33.49,Healthy
+3133,Potato,Dark Green,3.92,59.28,30.98,Healthy
+3134,Pepper,Yellowish,5.14,89.73,25.66,Mild Infection
+3135,Cucumber,Yellowish,8.62,61.81,31.69,Mild Infection
+3136,Tomato,Green,4.92,48.09,38.38,Healthy
+3137,Cucumber,Green,3.29,93.9,28.84,Mild Infection
+3138,Pepper,Yellowish,1.29,53.21,19.67,Healthy
+3139,Pepper,Yellowish,1.8,62.02,33.35,Healthy
+3140,Cucumber,Green,6.68,89.32,28.43,Severe Infection
+3141,Potato,Green,1.69,50.58,18.9,Healthy
+3142,Cucumber,Dark Green,1.21,49.74,19.95,Healthy
+3143,Tomato,Dark Green,3.3,89.18,20.83,Mild Infection
+3144,Pepper,Green,6.88,45.08,28.59,Healthy
+3145,Cucumber,Dark Green,0.03,48.63,26.3,Healthy
+3146,Cucumber,Green,9.86,44.65,31.14,Healthy
+3147,Pepper,Yellowish,7.6,90.82,23.19,Severe Infection
+3148,Potato,Dark Green,2.52,81.11,18.81,Healthy
+3149,Pepper,Yellowish,5.32,89.24,29.26,Mild Infection
+3150,Tomato,Dark Green,2.42,64.61,29.72,Healthy
+3151,Tomato,Yellowish,3.22,60.75,18.44,Mild Infection
+3152,Pepper,Dark Green,8.91,58.01,20.63,Healthy
+3153,Cucumber,Green,4.98,77.35,35.36,Mild Infection
+3154,Pepper,Yellowish,5.87,80.53,30.27,Mild Infection
+3155,Cucumber,Yellowish,9.0,60.83,25.42,Mild Infection
+3156,Cucumber,Dark Green,3.3,53.44,28.96,Healthy
+3157,Tomato,Green,3.65,40.41,22.96,Healthy
+3158,Cucumber,Dark Green,1.73,50.26,24.27,Healthy
+3159,Pepper,Green,4.1,44.41,29.54,Healthy
+3160,Cucumber,Yellowish,9.17,89.31,30.67,Severe Infection
+3161,Pepper,Dark Green,7.23,93.63,28.8,Severe Infection
+3162,Potato,Green,4.77,79.52,29.77,Mild Infection
+3163,Tomato,Green,4.25,50.29,25.12,Healthy
+3164,Tomato,Green,7.68,69.14,33.56,Mild Infection
+3165,Potato,Green,3.21,67.84,38.5,Mild Infection
+3166,Pepper,Green,5.49,60.31,27.99,Mild Infection
+3167,Potato,Dark Green,2.55,57.73,35.82,Healthy
+3168,Tomato,Green,4.72,81.81,31.1,Mild Infection
+3169,Pepper,Yellowish,8.31,59.19,38.45,Healthy
+3170,Cucumber,Dark Green,9.38,46.84,34.08,Healthy
+3171,Cucumber,Yellowish,5.74,43.66,34.3,Healthy
+3172,Cucumber,Green,2.02,47.69,35.5,Healthy
+3173,Potato,Yellowish,6.65,49.03,35.92,Healthy
+3174,Potato,Dark Green,3.92,59.74,37.3,Healthy
+3175,Cucumber,Yellowish,6.24,79.26,37.79,Severe Infection
+3176,Tomato,Yellowish,3.55,64.13,30.7,Mild Infection
+3177,Pepper,Yellowish,2.29,69.25,19.47,Healthy
+3178,Pepper,Yellowish,7.31,63.73,25.32,Mild Infection
+3179,Potato,Yellowish,7.41,88.32,28.9,Severe Infection
+3180,Pepper,Green,2.48,48.34,24.86,Healthy
+3181,Pepper,Green,7.62,41.84,30.54,Healthy
+3182,Pepper,Dark Green,1.11,58.81,36.07,Healthy
+3183,Cucumber,Green,7.97,47.01,26.74,Healthy
+3184,Tomato,Green,7.2,52.61,33.89,Healthy
+3185,Pepper,Yellowish,2.52,78.17,29.94,Healthy
+3186,Tomato,Yellowish,2.27,92.75,25.54,Healthy
+3187,Pepper,Yellowish,9.12,55.84,31.53,Healthy
+3188,Cucumber,Dark Green,7.26,45.54,23.63,Healthy
+3189,Pepper,Green,1.53,90.74,33.56,Healthy
+3190,Cucumber,Yellowish,7.36,73.37,27.33,Mild Infection
+3191,Cucumber,Green,1.13,90.91,27.92,Healthy
+3192,Tomato,Dark Green,9.21,86.14,20.74,Severe Infection
+3193,Pepper,Dark Green,3.99,68.54,31.01,Mild Infection
+3194,Tomato,Green,0.05,58.44,35.66,Healthy
+3195,Tomato,Yellowish,9.2,61.9,29.82,Mild Infection
+3196,Potato,Yellowish,4.52,59.08,34.23,Healthy
+3197,Pepper,Yellowish,1.76,64.88,21.1,Healthy
+3198,Pepper,Dark Green,7.8,41.86,24.85,Healthy
+3199,Pepper,Dark Green,5.15,52.11,22.68,Healthy
+3200,Tomato,Green,0.85,48.18,27.12,Healthy
+3201,Tomato,Green,3.97,56.48,24.82,Healthy
+3202,Pepper,Yellowish,4.68,83.99,25.69,Mild Infection
+3203,Tomato,Green,5.87,60.77,36.4,Mild Infection
+3204,Tomato,Dark Green,5.34,79.27,29.61,Mild Infection
+3205,Tomato,Dark Green,1.03,67.34,34.84,Healthy
+3206,Cucumber,Green,2.72,44.15,34.57,Healthy
+3207,Pepper,Dark Green,9.79,68.96,35.62,Mild Infection
+3208,Cucumber,Dark Green,5.52,87.68,26.98,Mild Infection
+3209,Pepper,Yellowish,1.04,76.95,18.43,Healthy
+3210,Pepper,Green,2.38,49.82,32.36,Healthy
+3211,Potato,Yellowish,8.56,53.37,33.89,Healthy
+3212,Pepper,Green,3.24,47.76,26.94,Healthy
+3213,Potato,Yellowish,8.48,74.83,34.19,Mild Infection
+3214,Cucumber,Green,7.04,88.2,32.14,Severe Infection
+3215,Tomato,Yellowish,8.25,74.36,25.39,Mild Infection
+3216,Pepper,Yellowish,3.45,41.88,36.27,Healthy
+3217,Cucumber,Dark Green,2.2,59.95,36.94,Healthy
+3218,Potato,Dark Green,5.66,82.89,20.51,Mild Infection
+3219,Pepper,Dark Green,4.85,65.91,22.01,Mild Infection
+3220,Tomato,Dark Green,4.03,80.79,33.37,Mild Infection
+3221,Tomato,Dark Green,1.32,75.48,27.28,Healthy
+3222,Tomato,Green,8.23,78.02,33.03,Severe Infection
+3223,Cucumber,Green,0.67,84.83,28.96,Healthy
+3224,Tomato,Green,1.07,67.36,33.84,Healthy
+3225,Potato,Green,7.32,54.5,23.86,Healthy
+3226,Potato,Green,9.14,76.58,21.86,Severe Infection
+3227,Potato,Green,0.47,61.07,29.42,Healthy
+3228,Cucumber,Dark Green,6.03,80.59,19.82,Severe Infection
+3229,Potato,Green,3.56,61.41,24.35,Mild Infection
+3230,Tomato,Yellowish,4.76,56.34,30.46,Healthy
+3231,Pepper,Dark Green,2.7,47.43,28.64,Healthy
+3232,Pepper,Yellowish,4.96,72.73,19.13,Mild Infection
+3233,Tomato,Yellowish,1.07,58.38,34.96,Healthy
+3234,Tomato,Green,5.98,62.7,33.51,Mild Infection
+3235,Tomato,Yellowish,0.02,44.18,19.71,Healthy
+3236,Pepper,Dark Green,3.15,40.29,20.27,Healthy
+3237,Pepper,Yellowish,6.91,92.92,35.38,Severe Infection
+3238,Tomato,Yellowish,7.58,44.77,39.08,Healthy
+3239,Pepper,Green,6.37,81.75,33.93,Severe Infection
+3240,Cucumber,Green,6.93,89.69,32.23,Severe Infection
+3241,Tomato,Green,5.88,76.85,18.97,Mild Infection
+3242,Tomato,Yellowish,3.13,70.57,28.41,Mild Infection
+3243,Pepper,Green,1.15,80.21,22.24,Healthy
+3244,Pepper,Yellowish,0.55,83.74,34.39,Healthy
+3245,Pepper,Dark Green,6.5,68.73,32.18,Mild Infection
+3246,Cucumber,Yellowish,8.85,70.84,28.58,Mild Infection
+3247,Pepper,Dark Green,3.15,79.86,19.44,Mild Infection
+3248,Tomato,Green,5.2,76.39,34.23,Mild Infection
+3249,Tomato,Dark Green,4.62,88.22,27.19,Mild Infection
+3250,Potato,Dark Green,3.84,40.01,22.08,Healthy
+3251,Cucumber,Yellowish,0.53,43.85,18.21,Healthy
+3252,Tomato,Green,5.81,42.07,28.56,Healthy
+3253,Cucumber,Yellowish,3.36,61.91,20.02,Mild Infection
+3254,Cucumber,Green,4.67,80.27,18.07,Mild Infection
+3255,Cucumber,Dark Green,5.89,86.91,33.74,Mild Infection
+3256,Cucumber,Green,1.09,90.07,18.99,Healthy
+3257,Tomato,Yellowish,0.89,92.25,35.3,Healthy
+3258,Potato,Yellowish,4.67,88.35,38.78,Mild Infection
+3259,Tomato,Dark Green,2.32,49.19,39.81,Healthy
+3260,Cucumber,Green,5.13,75.73,31.37,Mild Infection
+3261,Potato,Yellowish,1.86,49.71,22.85,Healthy
+3262,Pepper,Dark Green,2.16,84.04,31.86,Healthy
+3263,Tomato,Yellowish,2.6,72.85,29.55,Healthy
+3264,Pepper,Dark Green,8.97,67.02,39.92,Mild Infection
+3265,Pepper,Dark Green,0.35,74.26,34.45,Healthy
+3266,Cucumber,Dark Green,3.91,87.31,28.06,Mild Infection
+3267,Pepper,Green,8.62,88.88,39.02,Severe Infection
+3268,Tomato,Yellowish,0.87,76.04,30.12,Healthy
+3269,Cucumber,Yellowish,0.49,40.28,33.31,Healthy
+3270,Potato,Dark Green,8.94,92.92,20.41,Severe Infection
+3271,Tomato,Green,5.16,43.38,37.42,Healthy
+3272,Pepper,Dark Green,5.44,71.42,32.57,Mild Infection
+3273,Tomato,Green,8.68,80.37,29.47,Severe Infection
+3274,Cucumber,Green,3.34,48.65,21.53,Healthy
+3275,Tomato,Green,6.99,91.15,20.33,Severe Infection
+3276,Cucumber,Yellowish,4.65,88.49,39.15,Mild Infection
+3277,Pepper,Yellowish,2.29,40.28,36.04,Healthy
+3278,Pepper,Yellowish,7.57,40.06,30.24,Healthy
+3279,Cucumber,Yellowish,3.26,50.62,19.85,Healthy
+3280,Tomato,Green,0.09,46.37,26.29,Healthy
+3281,Tomato,Yellowish,0.18,47.06,24.23,Healthy
+3282,Tomato,Dark Green,9.32,58.8,31.92,Healthy
+3283,Tomato,Dark Green,0.68,91.55,33.13,Healthy
+3284,Pepper,Green,4.74,82.4,33.59,Mild Infection
+3285,Potato,Dark Green,9.9,44.11,36.75,Healthy
+3286,Pepper,Green,5.94,64.53,32.25,Mild Infection
+3287,Cucumber,Yellowish,3.72,43.61,36.07,Healthy
+3288,Cucumber,Yellowish,1.59,53.89,18.02,Healthy
+3289,Potato,Green,8.54,91.94,20.25,Severe Infection
+3290,Pepper,Yellowish,8.4,85.43,24.56,Severe Infection
+3291,Pepper,Dark Green,8.68,52.65,20.89,Healthy
+3292,Potato,Green,6.39,91.9,27.23,Severe Infection
+3293,Potato,Yellowish,4.09,55.08,39.65,Healthy
+3294,Cucumber,Dark Green,0.31,52.65,22.69,Healthy
+3295,Tomato,Dark Green,9.68,87.54,28.41,Severe Infection
+3296,Potato,Green,7.71,87.77,35.09,Severe Infection
+3297,Potato,Dark Green,1.31,81.86,31.78,Healthy
+3298,Tomato,Dark Green,4.82,73.92,35.52,Mild Infection
+3299,Potato,Yellowish,4.3,46.89,33.08,Healthy
+3300,Potato,Green,3.26,48.85,32.33,Healthy
+3301,Potato,Yellowish,4.65,94.14,21.29,Mild Infection
+3302,Potato,Dark Green,2.92,66.4,31.2,Healthy
+3303,Tomato,Green,0.4,87.31,35.16,Healthy
+3304,Potato,Yellowish,9.87,45.77,23.32,Healthy
+3305,Cucumber,Yellowish,7.02,67.44,31.6,Mild Infection
+3306,Potato,Dark Green,0.88,57.96,29.39,Healthy
+3307,Tomato,Dark Green,3.97,41.83,19.73,Healthy
+3308,Potato,Dark Green,8.01,71.21,33.17,Mild Infection
+3309,Potato,Dark Green,6.36,49.21,20.3,Healthy
+3310,Pepper,Yellowish,0.52,41.74,38.6,Healthy
+3311,Cucumber,Green,7.14,79.0,37.16,Severe Infection
+3312,Potato,Dark Green,6.61,73.67,28.66,Mild Infection
+3313,Cucumber,Dark Green,6.44,84.95,27.95,Severe Infection
+3314,Tomato,Dark Green,5.93,64.12,33.95,Mild Infection
+3315,Cucumber,Green,3.29,66.36,31.55,Mild Infection
+3316,Potato,Green,6.59,50.02,35.37,Healthy
+3317,Pepper,Dark Green,3.32,41.15,32.37,Healthy
+3318,Cucumber,Green,4.03,67.13,19.79,Mild Infection
+3319,Tomato,Green,8.4,63.01,22.48,Mild Infection
+3320,Tomato,Dark Green,8.46,92.84,27.15,Severe Infection
+3321,Tomato,Dark Green,8.67,94.32,18.88,Severe Infection
+3322,Cucumber,Green,4.87,64.12,33.96,Mild Infection
+3323,Potato,Yellowish,2.77,89.54,27.28,Healthy
+3324,Pepper,Dark Green,6.23,90.18,22.63,Severe Infection
+3325,Cucumber,Green,7.16,80.32,20.89,Severe Infection
+3326,Cucumber,Dark Green,9.71,49.88,23.23,Healthy
+3327,Pepper,Green,2.47,86.99,28.83,Healthy
+3328,Cucumber,Green,3.59,64.49,29.33,Mild Infection
+3329,Potato,Yellowish,9.69,48.99,26.6,Healthy
+3330,Potato,Yellowish,7.73,76.12,25.15,Severe Infection
+3331,Cucumber,Green,8.84,53.04,23.16,Healthy
+3332,Potato,Dark Green,6.69,58.2,27.87,Healthy
+3333,Tomato,Green,9.49,64.72,30.93,Mild Infection
+3334,Tomato,Dark Green,7.36,49.22,18.81,Healthy
+3335,Tomato,Green,4.46,83.0,33.52,Mild Infection
+3336,Pepper,Yellowish,0.34,70.7,29.88,Healthy
+3337,Potato,Dark Green,0.52,46.76,23.08,Healthy
+3338,Tomato,Yellowish,0.89,52.36,21.96,Healthy
+3339,Tomato,Green,3.97,72.16,33.14,Mild Infection
+3340,Potato,Yellowish,6.39,40.27,38.94,Healthy
+3341,Tomato,Yellowish,4.89,65.01,29.34,Mild Infection
+3342,Cucumber,Dark Green,3.08,47.68,18.66,Healthy
+3343,Cucumber,Dark Green,9.7,51.1,32.82,Healthy
+3344,Tomato,Yellowish,8.68,76.99,27.76,Severe Infection
+3345,Potato,Yellowish,9.45,78.09,36.44,Severe Infection
+3346,Potato,Dark Green,8.69,67.34,31.59,Mild Infection
+3347,Cucumber,Green,6.9,41.67,38.48,Healthy
+3348,Tomato,Green,3.94,51.86,32.5,Healthy
+3349,Tomato,Green,9.99,45.86,32.47,Healthy
+3350,Potato,Yellowish,8.71,93.74,26.95,Severe Infection
+3351,Tomato,Green,8.79,71.19,34.25,Mild Infection
+3352,Tomato,Dark Green,8.08,57.99,32.69,Healthy
+3353,Potato,Green,8.18,83.88,27.58,Severe Infection
+3354,Cucumber,Dark Green,3.25,69.95,18.13,Mild Infection
+3355,Cucumber,Dark Green,3.89,61.79,33.3,Mild Infection
+3356,Tomato,Green,2.27,53.06,26.21,Healthy
+3357,Potato,Yellowish,6.19,73.19,32.7,Mild Infection
+3358,Potato,Green,5.19,60.89,36.99,Mild Infection
+3359,Potato,Green,1.49,84.76,20.4,Healthy
+3360,Cucumber,Green,3.94,53.53,28.49,Healthy
+3361,Pepper,Dark Green,5.21,81.08,33.74,Mild Infection
+3362,Tomato,Yellowish,0.71,63.7,37.73,Healthy
+3363,Pepper,Green,1.97,76.01,26.36,Healthy
+3364,Tomato,Dark Green,6.17,50.7,21.66,Healthy
+3365,Tomato,Dark Green,5.39,56.9,35.67,Healthy
+3366,Cucumber,Dark Green,2.73,73.57,33.76,Healthy
+3367,Cucumber,Dark Green,6.81,46.7,21.99,Healthy
+3368,Potato,Yellowish,1.07,68.88,33.6,Healthy
+3369,Potato,Green,4.84,54.11,39.18,Healthy
+3370,Pepper,Dark Green,6.33,70.26,18.96,Mild Infection
+3371,Pepper,Green,8.84,73.09,36.02,Mild Infection
+3372,Tomato,Dark Green,4.11,51.66,31.44,Healthy
+3373,Tomato,Dark Green,2.37,89.5,25.78,Healthy
+3374,Tomato,Dark Green,6.71,80.26,36.73,Severe Infection
+3375,Tomato,Dark Green,4.24,82.17,21.29,Mild Infection
+3376,Tomato,Yellowish,4.73,52.94,37.12,Healthy
+3377,Tomato,Green,2.3,49.81,24.87,Healthy
+3378,Pepper,Yellowish,5.94,52.76,26.6,Healthy
+3379,Potato,Green,6.95,94.33,21.0,Severe Infection
+3380,Pepper,Dark Green,6.92,63.55,33.79,Mild Infection
+3381,Pepper,Dark Green,5.78,45.73,33.94,Healthy
+3382,Pepper,Green,8.94,44.37,19.88,Healthy
+3383,Pepper,Green,3.55,57.79,22.99,Healthy
+3384,Cucumber,Green,8.0,68.55,19.49,Mild Infection
+3385,Pepper,Green,6.8,54.91,31.04,Healthy
+3386,Cucumber,Green,0.52,65.13,22.19,Healthy
+3387,Cucumber,Dark Green,4.46,59.96,39.9,Healthy
+3388,Cucumber,Dark Green,1.75,70.93,39.07,Healthy
+3389,Pepper,Yellowish,0.97,51.05,29.79,Healthy
+3390,Tomato,Yellowish,6.65,81.59,25.65,Severe Infection
+3391,Cucumber,Yellowish,3.99,90.99,23.16,Mild Infection
+3392,Cucumber,Dark Green,5.4,94.59,38.39,Mild Infection
+3393,Tomato,Dark Green,0.89,68.65,31.72,Healthy
+3394,Pepper,Green,1.59,73.47,29.15,Healthy
+3395,Tomato,Dark Green,3.42,46.47,23.0,Healthy
+3396,Tomato,Green,5.1,59.05,23.26,Healthy
+3397,Pepper,Dark Green,5.16,64.6,31.21,Mild Infection
+3398,Pepper,Dark Green,8.51,67.33,39.83,Mild Infection
+3399,Potato,Yellowish,6.28,61.84,29.87,Mild Infection
+3400,Potato,Dark Green,7.9,87.74,35.73,Severe Infection
+3401,Cucumber,Dark Green,1.74,44.45,26.87,Healthy
+3402,Potato,Yellowish,6.41,59.04,39.46,Healthy
+3403,Tomato,Dark Green,9.23,47.29,36.96,Healthy
+3404,Potato,Green,1.75,73.34,34.83,Healthy
+3405,Pepper,Yellowish,3.68,61.93,21.22,Mild Infection
+3406,Cucumber,Green,9.63,41.42,20.97,Healthy
+3407,Cucumber,Green,2.78,91.5,37.27,Healthy
+3408,Pepper,Dark Green,6.03,40.02,18.39,Healthy
+3409,Pepper,Yellowish,1.92,61.26,30.42,Healthy
+3410,Tomato,Dark Green,6.19,66.65,34.59,Mild Infection
+3411,Pepper,Green,0.75,63.67,21.75,Healthy
+3412,Cucumber,Dark Green,6.92,54.6,21.91,Healthy
+3413,Tomato,Yellowish,2.21,52.59,23.12,Healthy
+3414,Tomato,Dark Green,8.87,63.43,20.88,Mild Infection
+3415,Potato,Green,4.82,59.48,29.56,Healthy
+3416,Pepper,Green,2.49,61.29,39.2,Healthy
+3417,Potato,Yellowish,5.82,63.02,35.39,Mild Infection
+3418,Pepper,Dark Green,3.24,50.43,31.62,Healthy
+3419,Potato,Dark Green,0.65,74.61,22.37,Healthy
+3420,Cucumber,Green,4.54,46.04,30.06,Healthy
+3421,Cucumber,Yellowish,8.65,48.21,20.8,Healthy
+3422,Cucumber,Dark Green,3.94,66.18,26.27,Mild Infection
+3423,Potato,Dark Green,9.55,83.18,37.63,Severe Infection
+3424,Tomato,Green,0.76,91.86,35.8,Healthy
+3425,Tomato,Dark Green,7.81,91.17,23.57,Severe Infection
+3426,Cucumber,Yellowish,4.5,67.25,26.5,Mild Infection
+3427,Tomato,Yellowish,8.82,88.92,27.91,Severe Infection
+3428,Tomato,Green,0.38,64.38,19.05,Healthy
+3429,Pepper,Yellowish,1.05,76.25,35.65,Healthy
+3430,Tomato,Green,4.62,67.97,26.53,Mild Infection
+3431,Cucumber,Yellowish,7.84,93.39,38.73,Severe Infection
+3432,Pepper,Yellowish,8.31,62.67,30.09,Mild Infection
+3433,Cucumber,Dark Green,9.68,41.15,19.81,Healthy
+3434,Pepper,Green,0.1,93.68,32.68,Healthy
+3435,Cucumber,Dark Green,9.6,54.34,19.52,Healthy
+3436,Pepper,Dark Green,1.25,89.27,25.09,Healthy
+3437,Pepper,Dark Green,7.48,73.1,30.81,Mild Infection
+3438,Cucumber,Dark Green,9.28,47.05,25.44,Healthy
+3439,Pepper,Green,4.39,60.47,27.51,Mild Infection
+3440,Tomato,Dark Green,1.22,91.87,23.3,Healthy
+3441,Cucumber,Yellowish,2.86,88.78,32.21,Healthy
+3442,Cucumber,Dark Green,9.19,87.38,36.62,Severe Infection
+3443,Potato,Green,8.42,81.53,28.13,Severe Infection
+3444,Cucumber,Dark Green,1.77,82.7,32.44,Healthy
+3445,Potato,Dark Green,0.43,94.16,38.62,Healthy
+3446,Potato,Dark Green,8.18,47.25,33.97,Healthy
+3447,Pepper,Yellowish,7.33,67.82,36.5,Mild Infection
+3448,Pepper,Green,2.98,72.47,29.18,Healthy
+3449,Pepper,Yellowish,6.36,77.89,37.21,Severe Infection
+3450,Cucumber,Green,0.09,48.8,28.15,Healthy
+3451,Tomato,Green,1.94,88.48,24.11,Healthy
+3452,Cucumber,Dark Green,7.42,76.17,24.84,Severe Infection
+3453,Potato,Yellowish,3.75,73.82,33.13,Mild Infection
+3454,Tomato,Dark Green,8.33,86.64,36.48,Severe Infection
+3455,Potato,Dark Green,6.78,81.23,34.69,Severe Infection
+3456,Cucumber,Yellowish,5.02,86.31,28.35,Mild Infection
+3457,Potato,Yellowish,8.86,64.67,33.89,Mild Infection
+3458,Pepper,Dark Green,6.96,61.53,27.08,Mild Infection
+3459,Tomato,Dark Green,7.94,74.08,25.82,Mild Infection
+3460,Cucumber,Green,6.42,72.35,28.58,Mild Infection
+3461,Cucumber,Green,5.61,71.9,30.35,Mild Infection
+3462,Potato,Dark Green,0.23,72.97,31.25,Healthy
+3463,Pepper,Green,6.95,75.01,21.28,Severe Infection
+3464,Cucumber,Dark Green,8.25,94.01,22.62,Severe Infection
+3465,Pepper,Green,4.34,48.11,25.22,Healthy
+3466,Potato,Yellowish,7.36,52.13,31.16,Healthy
+3467,Pepper,Green,4.21,91.32,32.14,Mild Infection
+3468,Cucumber,Yellowish,8.4,46.51,27.02,Healthy
+3469,Pepper,Yellowish,1.84,71.45,30.93,Healthy
+3470,Tomato,Dark Green,0.24,58.4,18.58,Healthy
+3471,Potato,Dark Green,2.99,55.02,29.4,Healthy
+3472,Tomato,Yellowish,8.73,54.26,27.45,Healthy
+3473,Tomato,Green,9.37,66.45,27.57,Mild Infection
+3474,Cucumber,Dark Green,9.04,74.71,19.1,Mild Infection
+3475,Pepper,Green,0.57,82.91,18.15,Healthy
+3476,Potato,Green,9.57,81.33,32.45,Severe Infection
+3477,Potato,Dark Green,2.47,55.52,23.76,Healthy
+3478,Cucumber,Dark Green,7.59,53.73,23.98,Healthy
+3479,Potato,Green,4.88,82.72,19.44,Mild Infection
+3480,Cucumber,Yellowish,1.39,43.45,37.94,Healthy
+3481,Cucumber,Dark Green,9.0,62.61,25.64,Mild Infection
+3482,Potato,Yellowish,9.37,92.99,30.32,Severe Infection
+3483,Potato,Dark Green,7.31,63.03,23.72,Mild Infection
+3484,Potato,Green,1.98,54.11,32.39,Healthy
+3485,Cucumber,Green,6.09,65.52,39.38,Mild Infection
+3486,Tomato,Green,2.25,46.28,21.33,Healthy
+3487,Potato,Green,5.23,86.78,30.35,Mild Infection
+3488,Tomato,Green,0.68,87.31,33.9,Healthy
+3489,Potato,Green,4.58,69.89,19.8,Mild Infection
+3490,Tomato,Dark Green,8.5,49.12,38.81,Healthy
+3491,Potato,Dark Green,6.51,65.43,27.06,Mild Infection
+3492,Potato,Yellowish,4.59,68.19,35.74,Mild Infection
+3493,Cucumber,Yellowish,2.59,83.25,22.43,Healthy
+3494,Cucumber,Dark Green,5.19,58.16,34.65,Healthy
+3495,Cucumber,Green,2.55,76.28,21.56,Healthy
+3496,Tomato,Green,5.58,70.81,34.52,Mild Infection
+3497,Potato,Green,2.82,45.18,25.56,Healthy
+3498,Potato,Yellowish,8.22,45.8,32.45,Healthy
+3499,Potato,Yellowish,2.04,82.66,39.22,Healthy
+3500,Potato,Green,7.98,71.77,31.96,Mild Infection
+3501,Pepper,Yellowish,1.58,90.33,29.73,Healthy
+3502,Cucumber,Dark Green,8.57,83.63,24.97,Severe Infection
+3503,Pepper,Yellowish,1.41,55.23,39.64,Healthy
+3504,Tomato,Yellowish,6.54,50.13,37.67,Healthy
+3505,Pepper,Green,0.83,64.22,31.54,Healthy
+3506,Cucumber,Green,9.67,84.2,29.11,Severe Infection
+3507,Pepper,Green,6.35,94.13,32.69,Severe Infection
+3508,Cucumber,Dark Green,1.3,93.89,32.43,Healthy
+3509,Tomato,Green,8.23,45.12,18.65,Healthy
+3510,Potato,Dark Green,3.37,60.85,39.42,Mild Infection
+3511,Tomato,Dark Green,3.14,69.74,33.63,Mild Infection
+3512,Pepper,Dark Green,3.58,85.19,28.1,Mild Infection
+3513,Potato,Dark Green,1.74,85.55,25.37,Healthy
+3514,Tomato,Dark Green,1.42,45.54,23.28,Healthy
+3515,Tomato,Yellowish,6.51,64.77,34.47,Mild Infection
+3516,Cucumber,Dark Green,8.44,80.59,35.74,Severe Infection
+3517,Pepper,Yellowish,1.06,41.71,34.26,Healthy
+3518,Pepper,Yellowish,2.27,49.62,36.83,Healthy
+3519,Cucumber,Yellowish,6.94,55.36,32.14,Healthy
+3520,Tomato,Yellowish,0.33,56.79,22.68,Healthy
+3521,Tomato,Green,8.71,75.92,38.64,Severe Infection
+3522,Pepper,Green,2.6,83.36,32.63,Healthy
+3523,Tomato,Dark Green,1.11,76.89,30.33,Healthy
+3524,Cucumber,Dark Green,5.47,65.32,37.02,Mild Infection
+3525,Pepper,Yellowish,4.23,93.72,20.44,Mild Infection
+3526,Tomato,Dark Green,8.58,90.49,24.16,Severe Infection
+3527,Pepper,Dark Green,8.05,90.09,34.59,Severe Infection
+3528,Cucumber,Green,3.05,92.95,33.99,Mild Infection
+3529,Pepper,Green,1.13,55.48,37.2,Healthy
+3530,Potato,Green,2.42,69.74,20.12,Healthy
+3531,Cucumber,Green,5.98,65.78,24.63,Mild Infection
+3532,Pepper,Green,0.48,56.5,34.35,Healthy
+3533,Cucumber,Dark Green,8.92,76.73,31.05,Severe Infection
+3534,Pepper,Yellowish,7.95,44.34,23.27,Healthy
+3535,Potato,Yellowish,5.73,54.73,35.36,Healthy
+3536,Tomato,Green,4.88,53.88,22.84,Healthy
+3537,Tomato,Green,8.69,68.89,18.72,Mild Infection
+3538,Potato,Green,0.82,41.38,33.28,Healthy
+3539,Potato,Dark Green,8.93,82.56,31.24,Severe Infection
+3540,Tomato,Dark Green,5.92,73.39,31.89,Mild Infection
+3541,Tomato,Yellowish,1.04,53.06,29.27,Healthy
+3542,Potato,Green,2.72,93.39,23.78,Healthy
+3543,Pepper,Yellowish,4.07,94.11,23.92,Mild Infection
+3544,Potato,Green,6.04,40.16,18.87,Healthy
+3545,Pepper,Yellowish,3.31,55.22,39.37,Healthy
+3546,Tomato,Yellowish,2.81,50.79,31.44,Healthy
+3547,Cucumber,Green,0.08,68.41,18.12,Healthy
+3548,Potato,Yellowish,4.63,86.42,24.27,Mild Infection
+3549,Tomato,Green,0.44,52.02,26.73,Healthy
+3550,Tomato,Green,8.18,84.92,24.26,Severe Infection
+3551,Tomato,Yellowish,0.3,88.39,30.65,Healthy
+3552,Cucumber,Yellowish,9.29,42.47,27.91,Healthy
+3553,Tomato,Green,8.82,61.44,34.06,Mild Infection
+3554,Tomato,Green,2.97,54.2,32.84,Healthy
+3555,Potato,Yellowish,8.63,92.47,33.87,Severe Infection
+3556,Potato,Yellowish,0.41,79.47,36.25,Healthy
+3557,Cucumber,Dark Green,8.0,54.12,32.64,Healthy
+3558,Cucumber,Dark Green,5.5,45.08,31.12,Healthy
+3559,Tomato,Green,7.5,62.23,25.06,Mild Infection
+3560,Potato,Yellowish,8.88,75.54,32.22,Severe Infection
+3561,Tomato,Dark Green,1.16,67.62,21.06,Healthy
+3562,Pepper,Yellowish,9.02,79.82,20.65,Severe Infection
+3563,Potato,Yellowish,0.12,69.37,21.13,Healthy
+3564,Potato,Yellowish,3.99,64.69,19.86,Mild Infection
+3565,Tomato,Green,4.67,84.44,22.75,Mild Infection
+3566,Cucumber,Green,8.52,43.71,26.52,Healthy
+3567,Cucumber,Yellowish,8.62,44.27,29.94,Healthy
+3568,Potato,Dark Green,5.79,61.13,27.9,Mild Infection
+3569,Tomato,Yellowish,0.12,45.44,37.57,Healthy
+3570,Pepper,Green,5.26,41.51,26.65,Healthy
+3571,Potato,Green,7.62,75.52,18.99,Severe Infection
+3572,Pepper,Yellowish,6.37,41.4,32.21,Healthy
+3573,Pepper,Yellowish,3.11,43.94,27.01,Healthy
+3574,Potato,Green,5.8,69.21,36.52,Mild Infection
+3575,Potato,Green,9.72,45.79,21.68,Healthy
+3576,Potato,Yellowish,0.99,69.26,20.99,Healthy
+3577,Potato,Dark Green,3.95,90.91,27.11,Mild Infection
+3578,Potato,Yellowish,1.3,48.09,28.73,Healthy
+3579,Potato,Green,4.74,60.37,26.25,Mild Infection
+3580,Potato,Dark Green,2.88,85.47,39.65,Healthy
+3581,Pepper,Dark Green,3.4,61.42,26.48,Mild Infection
+3582,Cucumber,Green,5.42,48.48,30.18,Healthy
+3583,Potato,Green,3.02,85.85,27.69,Mild Infection
+3584,Cucumber,Green,3.42,50.7,19.27,Healthy
+3585,Cucumber,Green,3.47,93.15,30.27,Mild Infection
+3586,Cucumber,Yellowish,6.26,47.66,27.77,Healthy
+3587,Pepper,Yellowish,3.0,83.03,34.16,Mild Infection
+3588,Potato,Green,7.31,83.59,28.15,Severe Infection
+3589,Cucumber,Green,2.28,66.16,29.95,Healthy
+3590,Cucumber,Yellowish,5.33,90.02,33.89,Mild Infection
+3591,Cucumber,Dark Green,1.25,47.19,35.39,Healthy
+3592,Tomato,Green,1.49,88.24,38.77,Healthy
+3593,Pepper,Dark Green,8.64,93.95,28.63,Severe Infection
+3594,Pepper,Yellowish,2.03,60.64,24.29,Healthy
+3595,Cucumber,Yellowish,4.92,61.26,29.25,Mild Infection
+3596,Potato,Green,4.08,87.61,39.58,Mild Infection
+3597,Pepper,Yellowish,9.56,82.05,30.62,Severe Infection
+3598,Cucumber,Yellowish,4.39,46.01,36.79,Healthy
+3599,Tomato,Green,8.83,89.12,19.37,Severe Infection
+3600,Pepper,Green,9.26,68.07,31.79,Mild Infection
+3601,Cucumber,Dark Green,7.23,66.23,33.13,Mild Infection
+3602,Potato,Dark Green,3.59,47.39,24.59,Healthy
+3603,Potato,Green,9.57,55.33,22.64,Healthy
+3604,Pepper,Yellowish,8.28,94.88,32.89,Severe Infection
+3605,Pepper,Dark Green,8.34,40.79,34.23,Healthy
+3606,Tomato,Yellowish,7.69,47.86,34.58,Healthy
+3607,Cucumber,Green,6.14,82.14,36.61,Severe Infection
+3608,Cucumber,Yellowish,4.08,66.82,19.71,Mild Infection
+3609,Potato,Yellowish,1.11,43.63,25.67,Healthy
+3610,Cucumber,Green,9.55,92.12,19.59,Severe Infection
+3611,Pepper,Dark Green,5.01,56.48,19.69,Healthy
+3612,Potato,Dark Green,4.03,42.76,19.6,Healthy
+3613,Pepper,Yellowish,8.03,52.78,24.18,Healthy
+3614,Potato,Dark Green,5.83,54.64,18.48,Healthy
+3615,Pepper,Green,0.34,70.19,22.82,Healthy
+3616,Pepper,Green,1.88,62.89,34.71,Healthy
+3617,Pepper,Yellowish,8.21,87.68,27.99,Severe Infection
+3618,Potato,Dark Green,8.23,53.31,33.71,Healthy
+3619,Cucumber,Yellowish,1.43,70.39,29.44,Healthy
+3620,Pepper,Dark Green,8.82,62.08,21.49,Mild Infection
+3621,Cucumber,Dark Green,4.02,79.69,23.97,Mild Infection
+3622,Tomato,Yellowish,7.15,50.4,35.23,Healthy
+3623,Potato,Dark Green,4.67,89.26,30.83,Mild Infection
+3624,Potato,Green,9.31,91.72,19.82,Severe Infection
+3625,Tomato,Green,8.67,47.15,30.43,Healthy
+3626,Cucumber,Dark Green,9.1,89.05,27.54,Severe Infection
+3627,Cucumber,Yellowish,4.94,44.91,33.11,Healthy
+3628,Tomato,Yellowish,1.39,86.43,32.87,Healthy
+3629,Tomato,Green,2.78,88.15,22.02,Healthy
+3630,Pepper,Green,2.69,77.19,38.77,Healthy
+3631,Cucumber,Yellowish,1.05,74.89,39.99,Healthy
+3632,Potato,Yellowish,4.58,67.52,27.52,Mild Infection
+3633,Potato,Dark Green,8.59,82.39,18.06,Severe Infection
+3634,Tomato,Dark Green,7.2,70.36,27.15,Mild Infection
+3635,Tomato,Green,6.48,87.84,34.07,Severe Infection
+3636,Cucumber,Green,3.95,81.47,18.79,Mild Infection
+3637,Cucumber,Yellowish,9.75,46.91,34.22,Healthy
+3638,Cucumber,Green,5.79,77.52,28.3,Mild Infection
+3639,Tomato,Yellowish,1.12,60.23,19.28,Healthy
+3640,Potato,Green,0.15,54.72,36.38,Healthy
+3641,Tomato,Dark Green,1.24,58.55,18.43,Healthy
+3642,Potato,Yellowish,5.31,67.11,26.89,Mild Infection
+3643,Potato,Green,5.19,65.53,39.2,Mild Infection
+3644,Potato,Green,7.73,57.15,35.03,Healthy
+3645,Cucumber,Dark Green,0.76,87.14,30.66,Healthy
+3646,Pepper,Dark Green,4.36,60.23,22.0,Mild Infection
+3647,Cucumber,Green,2.23,58.8,34.26,Healthy
+3648,Tomato,Dark Green,6.63,71.39,30.5,Mild Infection
+3649,Tomato,Yellowish,5.47,88.36,32.86,Mild Infection
+3650,Cucumber,Green,2.07,73.34,24.41,Healthy
+3651,Pepper,Yellowish,6.03,79.06,38.62,Severe Infection
+3652,Tomato,Yellowish,5.82,43.28,32.78,Healthy
+3653,Cucumber,Green,6.51,53.15,29.68,Healthy
+3654,Pepper,Yellowish,2.05,70.87,35.09,Healthy
+3655,Potato,Yellowish,7.81,47.74,31.69,Healthy
+3656,Tomato,Yellowish,6.36,48.08,35.84,Healthy
+3657,Pepper,Yellowish,3.45,77.08,23.72,Mild Infection
+3658,Cucumber,Dark Green,8.9,55.98,28.34,Healthy
+3659,Tomato,Dark Green,0.08,43.42,21.24,Healthy
+3660,Cucumber,Green,9.58,64.62,20.95,Mild Infection
+3661,Pepper,Dark Green,6.8,53.3,29.01,Healthy
+3662,Tomato,Dark Green,4.6,55.11,35.75,Healthy
+3663,Potato,Dark Green,1.66,63.8,18.97,Healthy
+3664,Tomato,Green,9.81,42.75,36.56,Healthy
+3665,Tomato,Dark Green,9.61,86.96,23.32,Severe Infection
+3666,Cucumber,Yellowish,9.53,67.4,26.95,Mild Infection
+3667,Potato,Green,9.19,52.05,28.1,Healthy
+3668,Pepper,Yellowish,0.14,51.77,18.29,Healthy
+3669,Cucumber,Yellowish,6.98,80.27,25.81,Severe Infection
+3670,Pepper,Green,3.93,92.41,39.28,Mild Infection
+3671,Potato,Dark Green,6.41,79.51,23.44,Severe Infection
+3672,Pepper,Green,7.72,48.95,30.43,Healthy
+3673,Potato,Green,3.77,85.95,35.26,Mild Infection
+3674,Cucumber,Dark Green,8.08,84.26,19.01,Severe Infection
+3675,Cucumber,Dark Green,2.54,68.31,35.78,Healthy
+3676,Pepper,Green,0.0,62.15,37.68,Healthy
+3677,Cucumber,Green,9.55,48.46,39.78,Healthy
+3678,Tomato,Green,3.92,81.86,26.18,Mild Infection
+3679,Tomato,Dark Green,5.77,90.51,38.92,Mild Infection
+3680,Potato,Green,5.64,83.32,23.52,Mild Infection
+3681,Pepper,Dark Green,1.92,76.11,23.29,Healthy
+3682,Tomato,Yellowish,0.39,67.83,22.86,Healthy
+3683,Potato,Green,2.82,49.64,37.07,Healthy
+3684,Tomato,Green,4.28,79.55,30.39,Mild Infection
+3685,Cucumber,Dark Green,4.3,86.18,21.16,Mild Infection
+3686,Pepper,Yellowish,7.63,86.52,26.82,Severe Infection
+3687,Pepper,Dark Green,2.04,88.89,29.98,Healthy
+3688,Cucumber,Green,0.33,56.26,31.06,Healthy
+3689,Potato,Green,8.79,60.04,24.5,Mild Infection
+3690,Tomato,Yellowish,0.48,45.23,36.19,Healthy
+3691,Cucumber,Dark Green,8.25,82.56,25.76,Severe Infection
+3692,Potato,Green,2.9,65.48,19.0,Healthy
+3693,Tomato,Green,5.32,61.55,30.03,Mild Infection
+3694,Tomato,Green,7.23,43.37,25.97,Healthy
+3695,Cucumber,Yellowish,4.37,51.2,18.22,Healthy
+3696,Cucumber,Yellowish,3.1,42.85,22.2,Healthy
+3697,Pepper,Yellowish,7.59,75.23,27.15,Severe Infection
+3698,Potato,Dark Green,2.53,89.28,36.0,Healthy
+3699,Pepper,Dark Green,10.0,46.89,25.41,Healthy
+3700,Cucumber,Yellowish,5.42,52.13,34.77,Healthy
+3701,Cucumber,Green,7.54,60.94,27.12,Mild Infection
+3702,Cucumber,Yellowish,2.69,54.8,29.39,Healthy
+3703,Cucumber,Dark Green,9.49,66.5,25.96,Mild Infection
+3704,Pepper,Green,7.81,47.15,30.32,Healthy
+3705,Pepper,Green,4.49,49.46,39.39,Healthy
+3706,Potato,Yellowish,9.21,79.29,28.16,Severe Infection
+3707,Pepper,Dark Green,2.74,80.09,36.96,Healthy
+3708,Pepper,Green,3.36,50.74,25.6,Healthy
+3709,Cucumber,Green,7.27,87.11,33.43,Severe Infection
+3710,Pepper,Green,3.81,92.09,28.92,Mild Infection
+3711,Pepper,Dark Green,1.24,40.88,35.21,Healthy
+3712,Potato,Dark Green,0.98,73.88,36.55,Healthy
+3713,Cucumber,Yellowish,5.34,67.56,33.54,Mild Infection
+3714,Cucumber,Yellowish,4.82,63.63,24.79,Mild Infection
+3715,Cucumber,Green,9.52,92.88,33.72,Severe Infection
+3716,Cucumber,Yellowish,6.77,88.36,35.79,Severe Infection
+3717,Cucumber,Yellowish,5.02,57.41,35.96,Healthy
+3718,Cucumber,Yellowish,8.51,57.21,38.58,Healthy
+3719,Pepper,Yellowish,1.63,74.54,23.45,Healthy
+3720,Tomato,Green,1.91,41.09,26.6,Healthy
+3721,Cucumber,Green,8.78,91.42,27.47,Severe Infection
+3722,Tomato,Dark Green,0.84,53.59,25.83,Healthy
+3723,Tomato,Yellowish,2.05,77.26,19.59,Healthy
+3724,Pepper,Green,6.32,75.3,32.77,Severe Infection
+3725,Potato,Yellowish,1.01,63.01,34.52,Healthy
+3726,Tomato,Dark Green,0.11,91.77,38.12,Healthy
+3727,Potato,Green,5.48,93.74,20.27,Mild Infection
+3728,Cucumber,Dark Green,5.82,70.55,22.18,Mild Infection
+3729,Tomato,Yellowish,6.05,68.58,19.63,Mild Infection
+3730,Potato,Green,5.5,80.71,31.88,Mild Infection
+3731,Potato,Dark Green,1.72,47.92,31.1,Healthy
+3732,Pepper,Dark Green,6.96,43.76,27.47,Healthy
+3733,Pepper,Yellowish,0.15,75.67,23.88,Healthy
+3734,Pepper,Dark Green,7.07,53.8,32.87,Healthy
+3735,Cucumber,Dark Green,5.98,57.21,23.96,Healthy
+3736,Tomato,Green,6.12,46.44,27.88,Healthy
+3737,Pepper,Dark Green,7.72,91.65,18.15,Severe Infection
+3738,Cucumber,Dark Green,6.27,60.55,19.11,Mild Infection
+3739,Tomato,Yellowish,9.58,53.92,27.91,Healthy
+3740,Cucumber,Green,6.72,86.19,22.15,Severe Infection
+3741,Cucumber,Dark Green,4.34,45.6,18.18,Healthy
+3742,Pepper,Yellowish,8.61,44.64,35.76,Healthy
+3743,Cucumber,Green,9.96,68.2,27.64,Mild Infection
+3744,Cucumber,Green,7.01,70.08,32.75,Mild Infection
+3745,Tomato,Yellowish,7.39,50.96,37.3,Healthy
+3746,Pepper,Yellowish,0.77,59.58,18.35,Healthy
+3747,Potato,Yellowish,6.07,65.24,34.12,Mild Infection
+3748,Pepper,Dark Green,8.85,60.47,25.33,Mild Infection
+3749,Pepper,Yellowish,7.87,67.14,24.23,Mild Infection
+3750,Pepper,Dark Green,9.88,68.25,23.57,Mild Infection
+3751,Cucumber,Yellowish,2.06,82.39,27.4,Healthy
+3752,Pepper,Green,9.15,58.35,37.03,Healthy
+3753,Tomato,Green,4.11,41.93,35.32,Healthy
+3754,Potato,Yellowish,4.99,75.09,36.34,Mild Infection
+3755,Potato,Yellowish,8.25,91.5,19.41,Severe Infection
+3756,Potato,Yellowish,5.9,72.94,22.42,Mild Infection
+3757,Pepper,Green,2.1,65.82,18.62,Healthy
+3758,Tomato,Yellowish,4.09,79.21,18.25,Mild Infection
+3759,Potato,Dark Green,7.87,46.15,29.36,Healthy
+3760,Cucumber,Green,8.26,81.07,33.85,Severe Infection
+3761,Pepper,Yellowish,9.25,84.32,18.18,Severe Infection
+3762,Pepper,Dark Green,3.54,69.46,25.85,Mild Infection
+3763,Cucumber,Green,8.09,85.55,22.75,Severe Infection
+3764,Tomato,Dark Green,9.41,59.49,29.12,Healthy
+3765,Tomato,Green,5.53,45.64,26.64,Healthy
+3766,Pepper,Yellowish,6.77,50.66,36.89,Healthy
+3767,Tomato,Yellowish,0.13,65.4,27.12,Healthy
+3768,Tomato,Green,7.22,65.26,27.04,Mild Infection
+3769,Cucumber,Yellowish,7.41,66.92,27.45,Mild Infection
+3770,Tomato,Dark Green,2.97,69.25,35.37,Healthy
+3771,Potato,Green,7.32,58.99,27.11,Healthy
+3772,Pepper,Dark Green,5.82,46.68,31.96,Healthy
+3773,Potato,Green,1.67,51.65,24.84,Healthy
+3774,Pepper,Dark Green,7.49,54.72,25.38,Healthy
+3775,Cucumber,Yellowish,4.29,70.63,27.15,Mild Infection
+3776,Pepper,Yellowish,1.72,78.3,33.45,Healthy
+3777,Potato,Dark Green,6.31,62.66,37.15,Mild Infection
+3778,Cucumber,Yellowish,1.17,46.35,31.32,Healthy
+3779,Tomato,Yellowish,2.06,47.86,33.23,Healthy
+3780,Tomato,Dark Green,5.08,89.26,22.49,Mild Infection
+3781,Tomato,Green,0.69,41.0,35.44,Healthy
+3782,Tomato,Yellowish,6.89,70.84,31.83,Mild Infection
+3783,Cucumber,Green,7.53,80.22,33.34,Severe Infection
+3784,Tomato,Green,1.27,88.08,22.48,Healthy
+3785,Potato,Green,8.21,69.24,29.23,Mild Infection
+3786,Tomato,Green,4.1,66.64,18.29,Mild Infection
+3787,Tomato,Dark Green,0.67,89.6,22.48,Healthy
+3788,Potato,Dark Green,9.68,61.42,29.92,Mild Infection
+3789,Cucumber,Green,5.13,93.99,27.91,Mild Infection
+3790,Potato,Yellowish,0.43,52.74,38.74,Healthy
+3791,Pepper,Yellowish,6.08,43.85,34.04,Healthy
+3792,Pepper,Dark Green,0.45,60.6,26.13,Healthy
+3793,Pepper,Yellowish,8.31,91.11,26.34,Severe Infection
+3794,Cucumber,Green,0.95,60.53,31.9,Healthy
+3795,Cucumber,Yellowish,4.26,42.68,30.78,Healthy
+3796,Potato,Green,6.77,68.66,25.7,Mild Infection
+3797,Cucumber,Green,7.13,40.8,22.56,Healthy
+3798,Pepper,Yellowish,3.91,76.44,25.63,Mild Infection
+3799,Potato,Green,4.33,54.2,31.32,Healthy
+3800,Potato,Dark Green,1.56,71.83,31.91,Healthy
+3801,Potato,Green,2.02,79.4,23.96,Healthy
+3802,Pepper,Green,4.25,53.28,22.73,Healthy
+3803,Cucumber,Dark Green,0.77,67.89,22.13,Healthy
+3804,Potato,Dark Green,6.6,61.05,36.08,Mild Infection
+3805,Cucumber,Green,2.64,54.96,33.23,Healthy
+3806,Potato,Yellowish,2.7,75.0,25.14,Healthy
+3807,Cucumber,Green,5.95,78.21,22.81,Mild Infection
+3808,Potato,Dark Green,7.78,76.41,35.93,Severe Infection
+3809,Pepper,Yellowish,6.99,50.32,19.94,Healthy
+3810,Cucumber,Green,2.6,63.78,18.69,Healthy
+3811,Potato,Green,5.57,88.36,23.35,Mild Infection
+3812,Cucumber,Dark Green,8.98,76.68,25.11,Severe Infection
+3813,Pepper,Yellowish,8.25,89.55,39.92,Severe Infection
+3814,Potato,Yellowish,9.67,84.7,33.55,Severe Infection
+3815,Pepper,Yellowish,6.74,91.35,35.63,Severe Infection
+3816,Pepper,Green,3.04,65.62,30.57,Mild Infection
+3817,Tomato,Green,8.49,92.86,37.62,Severe Infection
+3818,Potato,Yellowish,3.12,40.75,19.76,Healthy
+3819,Potato,Dark Green,7.06,40.94,38.17,Healthy
+3820,Cucumber,Yellowish,5.63,86.04,31.63,Mild Infection
+3821,Cucumber,Green,5.81,87.54,30.91,Mild Infection
+3822,Tomato,Green,7.07,81.62,27.73,Severe Infection
+3823,Pepper,Green,9.28,52.59,31.13,Healthy
+3824,Potato,Dark Green,2.12,58.8,29.61,Healthy
+3825,Pepper,Green,8.04,93.96,32.29,Severe Infection
+3826,Cucumber,Dark Green,4.55,72.62,19.17,Mild Infection
+3827,Potato,Yellowish,9.42,77.26,26.21,Severe Infection
+3828,Tomato,Green,9.74,42.99,32.17,Healthy
+3829,Potato,Dark Green,8.1,70.51,34.45,Mild Infection
+3830,Tomato,Yellowish,5.8,51.23,18.93,Healthy
+3831,Tomato,Green,6.85,92.18,19.33,Severe Infection
+3832,Tomato,Yellowish,4.55,49.43,27.98,Healthy
+3833,Cucumber,Dark Green,9.54,90.06,32.06,Severe Infection
+3834,Tomato,Green,6.43,72.15,36.34,Mild Infection
+3835,Potato,Dark Green,5.94,80.73,20.09,Mild Infection
+3836,Cucumber,Green,6.07,63.28,19.86,Mild Infection
+3837,Cucumber,Yellowish,2.11,88.56,32.5,Healthy
+3838,Tomato,Yellowish,7.37,88.74,22.33,Severe Infection
+3839,Cucumber,Yellowish,2.16,46.89,22.41,Healthy
+3840,Tomato,Yellowish,9.41,73.17,31.62,Mild Infection
+3841,Tomato,Dark Green,4.35,47.04,25.65,Healthy
+3842,Cucumber,Green,3.06,76.81,37.62,Mild Infection
+3843,Potato,Yellowish,1.68,83.42,27.16,Healthy
+3844,Pepper,Dark Green,1.67,54.77,20.22,Healthy
+3845,Tomato,Yellowish,1.14,94.19,21.65,Healthy
+3846,Cucumber,Yellowish,2.99,83.91,25.18,Healthy
+3847,Potato,Dark Green,6.74,54.11,25.82,Healthy
+3848,Cucumber,Green,7.77,49.36,37.76,Healthy
+3849,Potato,Yellowish,0.99,94.27,23.97,Healthy
+3850,Pepper,Yellowish,1.56,78.87,31.58,Healthy
+3851,Cucumber,Dark Green,3.12,82.93,24.68,Mild Infection
+3852,Cucumber,Dark Green,9.84,88.15,27.72,Severe Infection
+3853,Potato,Green,3.64,79.34,24.2,Mild Infection
+3854,Potato,Green,9.92,59.09,30.04,Healthy
+3855,Tomato,Yellowish,1.26,50.96,18.99,Healthy
+3856,Tomato,Green,0.16,82.08,38.69,Healthy
+3857,Tomato,Dark Green,5.6,65.9,32.43,Mild Infection
+3858,Potato,Yellowish,8.0,76.19,20.57,Severe Infection
+3859,Cucumber,Yellowish,5.14,78.42,27.16,Mild Infection
+3860,Cucumber,Green,5.1,88.94,35.99,Mild Infection
+3861,Tomato,Green,4.03,68.21,37.13,Mild Infection
+3862,Cucumber,Yellowish,2.79,91.28,34.32,Healthy
+3863,Pepper,Dark Green,8.54,87.01,21.64,Severe Infection
+3864,Pepper,Green,6.04,62.36,37.87,Mild Infection
+3865,Potato,Yellowish,3.75,71.42,21.15,Mild Infection
+3866,Pepper,Dark Green,5.57,60.21,19.91,Mild Infection
+3867,Pepper,Green,6.73,83.78,21.85,Severe Infection
+3868,Tomato,Yellowish,2.5,52.0,37.23,Healthy
+3869,Potato,Green,0.54,74.29,31.21,Healthy
+3870,Cucumber,Green,5.54,52.76,23.84,Healthy
+3871,Tomato,Green,9.49,56.17,23.22,Healthy
+3872,Pepper,Dark Green,7.86,73.55,38.34,Mild Infection
+3873,Tomato,Yellowish,7.02,40.35,35.0,Healthy
+3874,Pepper,Dark Green,7.04,81.82,29.28,Severe Infection
+3875,Tomato,Dark Green,1.71,61.88,36.21,Healthy
+3876,Tomato,Dark Green,5.11,51.24,25.49,Healthy
+3877,Cucumber,Yellowish,5.01,90.08,29.22,Mild Infection
+3878,Pepper,Dark Green,8.39,70.31,27.64,Mild Infection
+3879,Tomato,Yellowish,3.36,81.46,22.74,Mild Infection
+3880,Cucumber,Green,1.89,82.54,38.13,Healthy
+3881,Pepper,Dark Green,2.0,78.26,31.44,Healthy
+3882,Pepper,Yellowish,2.11,71.27,32.33,Healthy
+3883,Potato,Green,9.27,87.11,36.37,Severe Infection
+3884,Potato,Dark Green,4.31,57.49,34.49,Healthy
+3885,Cucumber,Green,2.93,55.55,27.21,Healthy
+3886,Tomato,Yellowish,6.37,56.16,18.91,Healthy
+3887,Pepper,Green,2.96,75.94,22.23,Healthy
+3888,Potato,Yellowish,3.5,72.98,29.14,Mild Infection
+3889,Tomato,Yellowish,6.78,58.69,28.02,Healthy
+3890,Tomato,Green,7.94,59.08,27.58,Healthy
+3891,Cucumber,Yellowish,8.5,47.82,24.89,Healthy
+3892,Potato,Dark Green,9.85,94.54,29.9,Severe Infection
+3893,Cucumber,Dark Green,0.92,91.07,19.36,Healthy
+3894,Cucumber,Yellowish,4.47,48.28,39.3,Healthy
+3895,Potato,Yellowish,6.62,53.57,28.36,Healthy
+3896,Potato,Dark Green,1.15,49.75,24.47,Healthy
+3897,Pepper,Green,6.64,40.38,22.67,Healthy
+3898,Potato,Yellowish,8.96,62.13,37.46,Mild Infection
+3899,Pepper,Yellowish,4.4,56.44,20.36,Healthy
+3900,Potato,Dark Green,8.63,91.71,31.28,Severe Infection
+3901,Cucumber,Dark Green,1.17,49.53,28.69,Healthy
+3902,Tomato,Yellowish,7.34,92.24,21.02,Severe Infection
+3903,Tomato,Green,3.55,72.1,26.58,Mild Infection
+3904,Pepper,Yellowish,1.06,40.83,30.79,Healthy
+3905,Pepper,Dark Green,4.11,68.77,33.39,Mild Infection
+3906,Potato,Green,2.54,91.85,19.82,Healthy
+3907,Cucumber,Green,3.62,45.43,19.66,Healthy
+3908,Pepper,Green,8.96,72.18,22.98,Mild Infection
+3909,Potato,Green,8.63,78.48,31.57,Severe Infection
+3910,Cucumber,Yellowish,2.96,49.49,30.5,Healthy
+3911,Tomato,Green,2.6,85.03,39.64,Healthy
+3912,Pepper,Dark Green,0.5,63.72,25.65,Healthy
+3913,Cucumber,Green,2.27,78.06,28.07,Healthy
+3914,Pepper,Green,3.59,53.91,30.71,Healthy
+3915,Tomato,Yellowish,3.51,85.14,28.5,Mild Infection
+3916,Cucumber,Dark Green,2.09,84.31,25.22,Healthy
+3917,Tomato,Dark Green,8.41,65.67,28.61,Mild Infection
+3918,Potato,Dark Green,8.24,60.95,35.78,Mild Infection
+3919,Pepper,Green,9.33,65.25,24.67,Mild Infection
+3920,Potato,Green,5.32,91.36,33.05,Mild Infection
+3921,Potato,Yellowish,1.61,66.16,26.97,Healthy
+3922,Cucumber,Dark Green,7.15,93.41,30.37,Severe Infection
+3923,Tomato,Yellowish,6.13,62.97,20.56,Mild Infection
+3924,Pepper,Yellowish,3.55,76.4,19.69,Mild Infection
+3925,Cucumber,Yellowish,8.15,62.18,36.34,Mild Infection
+3926,Tomato,Green,1.06,60.54,23.62,Healthy
+3927,Cucumber,Green,2.78,69.24,29.83,Healthy
+3928,Pepper,Yellowish,0.29,55.84,30.24,Healthy
+3929,Cucumber,Dark Green,5.18,48.6,22.84,Healthy
+3930,Potato,Yellowish,9.69,45.27,24.99,Healthy
+3931,Pepper,Green,0.5,57.22,36.4,Healthy
+3932,Cucumber,Yellowish,2.86,60.88,24.96,Healthy
+3933,Potato,Dark Green,7.81,57.32,18.95,Healthy
+3934,Pepper,Dark Green,8.33,85.35,21.22,Severe Infection
+3935,Potato,Dark Green,7.68,53.04,20.37,Healthy
+3936,Potato,Dark Green,5.14,86.43,28.65,Mild Infection
+3937,Tomato,Dark Green,0.39,71.52,25.15,Healthy
+3938,Pepper,Dark Green,9.66,40.35,39.52,Healthy
+3939,Cucumber,Green,6.71,80.06,25.61,Severe Infection
+3940,Potato,Yellowish,7.83,92.07,26.8,Severe Infection
+3941,Pepper,Green,6.04,94.47,18.57,Severe Infection
+3942,Pepper,Dark Green,9.39,77.84,20.65,Severe Infection
+3943,Pepper,Dark Green,3.07,74.25,22.9,Mild Infection
+3944,Cucumber,Yellowish,1.71,62.95,21.52,Healthy
+3945,Cucumber,Yellowish,0.84,81.65,37.76,Healthy
+3946,Potato,Dark Green,6.62,45.51,18.37,Healthy
+3947,Cucumber,Dark Green,8.3,44.22,23.17,Healthy
+3948,Potato,Green,2.8,56.75,23.82,Healthy
+3949,Potato,Green,0.39,63.08,19.11,Healthy
+3950,Tomato,Yellowish,5.83,61.61,18.63,Mild Infection
+3951,Potato,Green,0.4,83.31,24.74,Healthy
+3952,Cucumber,Green,0.62,71.14,18.14,Healthy
+3953,Pepper,Yellowish,1.32,71.13,34.53,Healthy
+3954,Pepper,Dark Green,4.1,50.69,20.05,Healthy
+3955,Pepper,Green,2.59,52.2,24.99,Healthy
+3956,Cucumber,Green,0.51,44.95,22.25,Healthy
+3957,Pepper,Green,7.52,44.59,22.64,Healthy
+3958,Tomato,Green,3.95,64.32,25.36,Mild Infection
+3959,Potato,Yellowish,2.96,51.89,22.59,Healthy
+3960,Pepper,Green,3.61,48.21,23.9,Healthy
+3961,Potato,Dark Green,3.92,43.12,18.76,Healthy
+3962,Pepper,Dark Green,2.6,50.64,32.11,Healthy
+3963,Potato,Yellowish,4.11,56.35,23.06,Healthy
+3964,Potato,Yellowish,5.46,83.48,21.1,Mild Infection
+3965,Potato,Dark Green,5.35,42.49,32.44,Healthy
+3966,Potato,Dark Green,0.3,41.92,39.77,Healthy
+3967,Tomato,Dark Green,1.69,67.75,20.58,Healthy
+3968,Pepper,Yellowish,2.89,71.78,37.05,Healthy
+3969,Tomato,Dark Green,6.19,63.89,27.82,Mild Infection
+3970,Cucumber,Green,0.24,67.54,32.19,Healthy
+3971,Pepper,Yellowish,1.0,55.34,20.84,Healthy
+3972,Pepper,Dark Green,4.71,68.8,23.58,Mild Infection
+3973,Pepper,Green,7.91,75.87,35.18,Severe Infection
+3974,Potato,Yellowish,6.74,46.93,39.54,Healthy
+3975,Tomato,Yellowish,5.94,57.84,32.88,Healthy
+3976,Potato,Green,4.29,77.54,30.66,Mild Infection
+3977,Potato,Green,9.43,41.01,28.21,Healthy
+3978,Tomato,Green,2.51,76.36,32.35,Healthy
+3979,Potato,Green,0.45,73.33,36.69,Healthy
+3980,Tomato,Dark Green,4.11,50.09,31.07,Healthy
+3981,Tomato,Dark Green,2.59,40.75,19.8,Healthy
+3982,Cucumber,Yellowish,5.48,74.73,27.38,Mild Infection
+3983,Cucumber,Dark Green,9.65,56.28,32.6,Healthy
+3984,Tomato,Yellowish,5.64,88.97,30.69,Mild Infection
+3985,Cucumber,Green,6.01,43.82,19.98,Healthy
+3986,Potato,Dark Green,1.43,90.45,26.94,Healthy
+3987,Cucumber,Green,6.98,56.13,29.56,Healthy
+3988,Cucumber,Green,6.14,56.93,36.43,Healthy
+3989,Potato,Yellowish,0.82,53.95,34.64,Healthy
+3990,Tomato,Green,0.16,74.85,31.06,Healthy
+3991,Potato,Green,3.43,76.58,30.24,Mild Infection
+3992,Cucumber,Yellowish,9.18,45.19,36.29,Healthy
+3993,Potato,Green,7.29,45.69,26.84,Healthy
+3994,Pepper,Dark Green,7.12,46.5,18.0,Healthy
+3995,Tomato,Yellowish,8.15,48.15,20.03,Healthy
+3996,Tomato,Yellowish,5.53,85.3,37.77,Mild Infection
+3997,Pepper,Green,9.89,61.12,32.66,Mild Infection
+3998,Pepper,Green,1.38,61.44,28.56,Healthy
+3999,Cucumber,Yellowish,4.05,85.63,39.49,Mild Infection
+4000,Potato,Dark Green,4.64,43.62,37.61,Healthy
+4001,Pepper,Dark Green,4.89,66.21,25.0,Mild Infection
+4002,Cucumber,Dark Green,3.65,72.58,33.28,Mild Infection
+4003,Cucumber,Yellowish,5.73,76.66,20.63,Mild Infection
+4004,Cucumber,Green,9.95,84.23,27.37,Severe Infection
+4005,Pepper,Green,7.67,82.92,32.82,Severe Infection
+4006,Cucumber,Yellowish,1.96,73.94,36.7,Healthy
+4007,Cucumber,Dark Green,2.98,68.8,24.21,Healthy
+4008,Tomato,Green,1.05,44.73,19.25,Healthy
+4009,Cucumber,Yellowish,6.38,69.94,23.14,Mild Infection
+4010,Pepper,Yellowish,6.89,42.29,28.96,Healthy
+4011,Potato,Dark Green,9.77,75.91,21.39,Severe Infection
+4012,Cucumber,Yellowish,0.75,47.46,37.66,Healthy
+4013,Pepper,Green,7.7,94.81,33.41,Severe Infection
+4014,Cucumber,Yellowish,7.32,91.79,29.65,Severe Infection
+4015,Cucumber,Green,3.03,93.63,36.33,Mild Infection
+4016,Cucumber,Dark Green,6.76,74.55,38.47,Mild Infection
+4017,Potato,Yellowish,7.9,60.35,30.11,Mild Infection
+4018,Potato,Yellowish,0.62,93.31,26.31,Healthy
+4019,Pepper,Green,6.58,67.83,21.56,Mild Infection
+4020,Tomato,Yellowish,4.01,64.85,25.8,Mild Infection
+4021,Pepper,Dark Green,3.87,88.58,27.13,Mild Infection
+4022,Pepper,Green,0.61,64.31,32.26,Healthy
+4023,Pepper,Green,9.55,91.73,32.27,Severe Infection
+4024,Tomato,Dark Green,5.82,66.26,31.24,Mild Infection
+4025,Potato,Yellowish,3.92,58.59,20.79,Healthy
+4026,Potato,Green,2.15,74.1,33.36,Healthy
+4027,Pepper,Dark Green,1.16,60.0,20.17,Healthy
+4028,Cucumber,Yellowish,6.78,56.25,29.66,Healthy
+4029,Cucumber,Dark Green,8.79,48.16,21.79,Healthy
+4030,Pepper,Yellowish,6.14,87.85,26.17,Severe Infection
+4031,Pepper,Dark Green,8.28,81.53,30.91,Severe Infection
+4032,Potato,Dark Green,8.29,66.23,31.86,Mild Infection
+4033,Potato,Dark Green,1.24,55.24,38.7,Healthy
+4034,Potato,Dark Green,7.22,93.4,21.9,Severe Infection
+4035,Cucumber,Dark Green,9.96,65.82,27.3,Mild Infection
+4036,Potato,Green,7.86,89.23,21.28,Severe Infection
+4037,Potato,Yellowish,0.13,58.8,37.23,Healthy
+4038,Tomato,Green,6.1,71.18,25.73,Mild Infection
+4039,Pepper,Green,1.89,46.41,20.8,Healthy
+4040,Potato,Dark Green,0.48,51.9,27.74,Healthy
+4041,Potato,Yellowish,3.53,85.45,30.94,Mild Infection
+4042,Tomato,Dark Green,4.66,52.0,38.58,Healthy
+4043,Pepper,Green,8.66,40.8,23.44,Healthy
+4044,Pepper,Yellowish,1.85,74.41,30.58,Healthy
+4045,Cucumber,Green,5.23,73.24,34.8,Mild Infection
+4046,Potato,Yellowish,4.42,76.66,19.76,Mild Infection
+4047,Pepper,Yellowish,3.87,50.15,22.45,Healthy
+4048,Potato,Yellowish,8.84,87.01,38.95,Severe Infection
+4049,Cucumber,Yellowish,0.07,50.68,28.44,Healthy
+4050,Pepper,Green,9.95,70.43,29.45,Mild Infection
+4051,Tomato,Dark Green,0.98,92.79,19.07,Healthy
+4052,Potato,Dark Green,6.46,50.19,29.91,Healthy
+4053,Tomato,Dark Green,2.97,92.03,36.53,Healthy
+4054,Tomato,Dark Green,1.23,49.34,20.79,Healthy
+4055,Cucumber,Dark Green,9.9,53.52,25.88,Healthy
+4056,Pepper,Green,3.82,92.19,21.14,Mild Infection
+4057,Potato,Dark Green,0.55,76.98,21.74,Healthy
+4058,Cucumber,Yellowish,6.53,82.13,27.1,Severe Infection
+4059,Cucumber,Green,0.41,41.22,39.75,Healthy
+4060,Potato,Dark Green,3.93,80.08,24.94,Mild Infection
+4061,Tomato,Green,7.98,45.33,21.94,Healthy
+4062,Potato,Dark Green,9.22,70.08,28.45,Mild Infection
+4063,Pepper,Green,7.82,55.43,25.7,Healthy
+4064,Pepper,Yellowish,8.31,53.24,37.23,Healthy
+4065,Cucumber,Green,6.12,74.69,34.27,Mild Infection
+4066,Cucumber,Dark Green,2.73,50.71,35.83,Healthy
+4067,Cucumber,Yellowish,0.68,60.47,29.48,Healthy
+4068,Potato,Green,6.52,92.65,37.58,Severe Infection
+4069,Cucumber,Dark Green,9.97,62.15,29.43,Mild Infection
+4070,Cucumber,Yellowish,1.59,61.78,20.93,Healthy
+4071,Pepper,Dark Green,9.92,88.38,37.95,Severe Infection
+4072,Tomato,Dark Green,4.84,59.55,32.72,Healthy
+4073,Pepper,Dark Green,2.44,91.63,25.7,Healthy
+4074,Tomato,Green,2.25,50.93,24.93,Healthy
+4075,Cucumber,Yellowish,4.73,85.51,23.6,Mild Infection
+4076,Cucumber,Yellowish,5.67,54.36,33.29,Healthy
+4077,Pepper,Green,4.88,80.43,31.42,Mild Infection
+4078,Pepper,Green,6.94,90.16,19.34,Severe Infection
+4079,Potato,Green,9.08,57.55,27.14,Healthy
+4080,Tomato,Dark Green,1.05,45.02,25.01,Healthy
+4081,Pepper,Yellowish,0.31,71.56,19.34,Healthy
+4082,Cucumber,Green,2.54,59.89,20.76,Healthy
+4083,Tomato,Green,5.77,41.24,36.96,Healthy
+4084,Tomato,Dark Green,6.12,74.48,35.78,Mild Infection
+4085,Potato,Yellowish,1.65,54.07,25.2,Healthy
+4086,Cucumber,Yellowish,5.94,61.16,27.59,Mild Infection
+4087,Tomato,Dark Green,1.77,43.71,36.29,Healthy
+4088,Pepper,Dark Green,5.79,82.5,33.73,Mild Infection
+4089,Cucumber,Green,6.49,84.65,18.3,Severe Infection
+4090,Tomato,Green,0.2,83.93,38.52,Healthy
+4091,Pepper,Green,5.65,88.74,28.09,Mild Infection
+4092,Potato,Yellowish,9.97,77.35,38.5,Severe Infection
+4093,Potato,Green,0.49,55.8,37.35,Healthy
+4094,Potato,Green,9.03,47.57,18.02,Healthy
+4095,Potato,Green,3.57,51.52,27.16,Healthy
+4096,Cucumber,Green,4.11,81.8,24.88,Mild Infection
+4097,Pepper,Yellowish,9.35,93.71,32.2,Severe Infection
+4098,Potato,Dark Green,6.92,83.0,34.85,Severe Infection
+4099,Potato,Yellowish,7.29,47.19,32.78,Healthy
+4100,Pepper,Dark Green,1.47,79.94,26.07,Healthy
+4101,Pepper,Dark Green,3.98,57.23,31.99,Healthy
+4102,Cucumber,Yellowish,8.12,68.79,38.27,Mild Infection
+4103,Tomato,Yellowish,8.46,81.32,37.73,Severe Infection
+4104,Tomato,Yellowish,3.39,92.6,26.29,Mild Infection
+4105,Tomato,Yellowish,0.82,54.71,35.87,Healthy
+4106,Cucumber,Yellowish,8.59,88.15,24.65,Severe Infection
+4107,Pepper,Dark Green,6.9,82.06,21.23,Severe Infection
+4108,Pepper,Dark Green,5.01,77.54,25.3,Mild Infection
+4109,Cucumber,Yellowish,3.12,68.08,20.64,Mild Infection
+4110,Pepper,Yellowish,9.52,87.38,21.02,Severe Infection
+4111,Tomato,Dark Green,8.12,76.43,34.54,Severe Infection
+4112,Cucumber,Dark Green,7.05,87.22,20.9,Severe Infection
+4113,Pepper,Dark Green,1.69,53.88,37.21,Healthy
+4114,Cucumber,Yellowish,8.49,79.46,28.46,Severe Infection
+4115,Cucumber,Yellowish,5.49,49.26,36.4,Healthy
+4116,Potato,Yellowish,6.04,79.62,29.24,Severe Infection
+4117,Pepper,Green,9.34,93.97,38.51,Severe Infection
+4118,Pepper,Dark Green,3.63,76.91,33.33,Mild Infection
+4119,Tomato,Yellowish,3.26,73.66,24.74,Mild Infection
+4120,Pepper,Dark Green,2.33,59.24,36.97,Healthy
+4121,Pepper,Yellowish,1.32,74.63,37.0,Healthy
+4122,Cucumber,Green,5.44,47.66,18.24,Healthy
+4123,Tomato,Dark Green,3.44,60.3,25.86,Mild Infection
+4124,Potato,Dark Green,5.06,64.24,37.36,Mild Infection
+4125,Tomato,Green,2.5,47.61,39.62,Healthy
+4126,Tomato,Green,4.15,76.47,31.1,Mild Infection
+4127,Tomato,Green,8.2,83.18,22.31,Severe Infection
+4128,Potato,Green,0.46,47.55,24.09,Healthy
+4129,Cucumber,Green,3.12,76.34,34.42,Mild Infection
+4130,Tomato,Green,3.76,54.28,18.04,Healthy
+4131,Tomato,Green,0.0,63.03,22.83,Healthy
+4132,Cucumber,Dark Green,1.68,86.41,34.33,Healthy
+4133,Potato,Yellowish,9.29,43.72,33.93,Healthy
+4134,Tomato,Green,3.49,46.55,29.27,Healthy
+4135,Pepper,Yellowish,1.11,74.17,33.81,Healthy
+4136,Cucumber,Dark Green,7.5,45.94,23.12,Healthy
+4137,Cucumber,Green,3.41,61.55,35.65,Mild Infection
+4138,Tomato,Yellowish,8.61,77.16,29.2,Severe Infection
+4139,Pepper,Dark Green,4.61,40.55,35.12,Healthy
+4140,Pepper,Yellowish,7.55,66.58,39.71,Mild Infection
+4141,Potato,Dark Green,8.58,69.61,39.83,Mild Infection
+4142,Pepper,Green,0.07,78.85,25.6,Healthy
+4143,Cucumber,Dark Green,3.37,52.91,36.02,Healthy
+4144,Cucumber,Yellowish,2.41,40.03,24.77,Healthy
+4145,Cucumber,Yellowish,0.61,50.17,27.42,Healthy
+4146,Cucumber,Yellowish,9.77,59.98,27.65,Healthy
+4147,Potato,Green,8.4,80.56,29.81,Severe Infection
+4148,Potato,Dark Green,3.2,56.37,24.56,Healthy
+4149,Tomato,Yellowish,6.35,83.07,20.69,Severe Infection
+4150,Pepper,Green,1.9,43.88,38.01,Healthy
+4151,Cucumber,Green,9.55,69.95,19.71,Mild Infection
+4152,Pepper,Green,8.54,87.28,21.71,Severe Infection
+4153,Cucumber,Dark Green,9.35,68.15,34.93,Mild Infection
+4154,Pepper,Green,1.99,85.08,37.54,Healthy
+4155,Pepper,Yellowish,7.55,88.31,38.96,Severe Infection
+4156,Cucumber,Yellowish,1.94,72.57,33.42,Healthy
+4157,Tomato,Green,4.11,85.64,32.4,Mild Infection
+4158,Tomato,Dark Green,7.93,46.5,26.83,Healthy
+4159,Potato,Green,2.1,50.23,38.92,Healthy
+4160,Pepper,Yellowish,1.79,59.38,18.95,Healthy
+4161,Cucumber,Yellowish,7.64,92.13,21.11,Severe Infection
+4162,Tomato,Yellowish,4.78,74.11,28.51,Mild Infection
+4163,Pepper,Yellowish,4.5,74.57,31.93,Mild Infection
+4164,Tomato,Yellowish,6.97,81.01,36.17,Severe Infection
+4165,Pepper,Yellowish,6.71,85.12,30.36,Severe Infection
+4166,Potato,Yellowish,6.89,74.05,36.15,Mild Infection
+4167,Tomato,Dark Green,9.68,53.3,27.37,Healthy
+4168,Pepper,Dark Green,5.87,71.04,38.53,Mild Infection
+4169,Cucumber,Yellowish,1.93,81.76,33.68,Healthy
+4170,Pepper,Dark Green,5.17,65.99,26.32,Mild Infection
+4171,Tomato,Yellowish,0.72,50.96,27.07,Healthy
+4172,Potato,Green,3.6,86.95,33.96,Mild Infection
+4173,Tomato,Dark Green,2.07,51.12,30.0,Healthy
+4174,Tomato,Green,3.97,52.74,36.68,Healthy
+4175,Cucumber,Dark Green,1.11,84.68,25.54,Healthy
+4176,Potato,Dark Green,5.47,51.32,34.31,Healthy
+4177,Pepper,Green,1.95,70.47,29.76,Healthy
+4178,Cucumber,Green,8.9,72.97,22.43,Mild Infection
+4179,Tomato,Yellowish,5.83,40.21,29.04,Healthy
+4180,Pepper,Yellowish,4.99,43.0,24.91,Healthy
+4181,Cucumber,Green,4.87,87.99,19.92,Mild Infection
+4182,Potato,Dark Green,8.29,54.4,31.73,Healthy
+4183,Pepper,Dark Green,2.99,90.45,30.18,Healthy
+4184,Cucumber,Green,7.96,57.17,33.95,Healthy
+4185,Potato,Yellowish,6.01,94.22,35.41,Severe Infection
+4186,Potato,Dark Green,7.45,69.95,18.9,Mild Infection
+4187,Tomato,Green,3.87,41.1,19.38,Healthy
+4188,Cucumber,Green,4.8,65.53,31.62,Mild Infection
+4189,Pepper,Green,5.96,52.05,20.48,Healthy
+4190,Tomato,Dark Green,1.06,41.48,26.37,Healthy
+4191,Cucumber,Green,8.06,61.77,31.49,Mild Infection
+4192,Tomato,Dark Green,2.52,68.88,33.56,Healthy
+4193,Potato,Dark Green,0.54,68.1,27.43,Healthy
+4194,Potato,Green,3.88,59.69,25.34,Healthy
+4195,Cucumber,Dark Green,6.0,48.42,34.02,Healthy
+4196,Cucumber,Dark Green,3.09,87.06,27.2,Mild Infection
+4197,Cucumber,Green,1.78,68.36,28.94,Healthy
+4198,Potato,Yellowish,1.92,73.78,25.17,Healthy
+4199,Cucumber,Yellowish,0.88,58.7,37.13,Healthy
+4200,Cucumber,Yellowish,4.3,86.62,22.0,Mild Infection
+4201,Potato,Green,6.35,78.86,29.78,Severe Infection
+4202,Tomato,Dark Green,3.22,51.65,18.91,Healthy
+4203,Pepper,Dark Green,4.35,87.19,32.67,Mild Infection
+4204,Potato,Yellowish,5.28,79.56,38.46,Mild Infection
+4205,Potato,Dark Green,1.21,42.91,33.97,Healthy
+4206,Potato,Yellowish,6.01,69.29,30.42,Mild Infection
+4207,Tomato,Dark Green,9.7,60.89,31.58,Mild Infection
+4208,Tomato,Yellowish,5.92,90.74,34.77,Mild Infection
+4209,Cucumber,Green,6.02,76.67,31.71,Severe Infection
+4210,Tomato,Dark Green,5.19,69.08,25.36,Mild Infection
+4211,Potato,Green,0.85,84.28,22.09,Healthy
+4212,Cucumber,Green,2.77,76.21,27.63,Healthy
+4213,Tomato,Dark Green,3.88,43.83,37.65,Healthy
+4214,Tomato,Green,8.62,79.86,36.4,Severe Infection
+4215,Potato,Dark Green,5.53,90.63,18.26,Mild Infection
+4216,Potato,Dark Green,9.72,66.68,19.88,Mild Infection
+4217,Cucumber,Dark Green,4.83,73.78,23.21,Mild Infection
+4218,Pepper,Dark Green,8.37,44.12,20.34,Healthy
+4219,Cucumber,Dark Green,7.69,50.72,29.11,Healthy
+4220,Cucumber,Dark Green,0.36,71.72,20.62,Healthy
+4221,Cucumber,Dark Green,5.48,61.06,33.82,Mild Infection
+4222,Tomato,Green,3.93,53.8,20.21,Healthy
+4223,Cucumber,Yellowish,6.54,87.34,25.62,Severe Infection
+4224,Potato,Green,4.04,88.66,23.09,Mild Infection
+4225,Tomato,Yellowish,5.17,87.77,30.42,Mild Infection
+4226,Tomato,Green,4.56,55.69,31.88,Healthy
+4227,Pepper,Dark Green,3.18,81.68,24.2,Mild Infection
+4228,Cucumber,Dark Green,9.13,43.09,28.68,Healthy
+4229,Tomato,Dark Green,3.43,70.05,23.49,Mild Infection
+4230,Potato,Yellowish,9.06,45.63,34.54,Healthy
+4231,Cucumber,Dark Green,0.8,60.73,31.27,Healthy
+4232,Tomato,Yellowish,1.26,91.29,30.66,Healthy
+4233,Cucumber,Dark Green,8.8,82.15,26.94,Severe Infection
+4234,Tomato,Yellowish,1.31,89.46,31.72,Healthy
+4235,Potato,Yellowish,7.6,51.1,37.99,Healthy
+4236,Cucumber,Yellowish,7.56,56.55,22.05,Healthy
+4237,Tomato,Yellowish,9.96,78.27,38.77,Severe Infection
+4238,Tomato,Green,2.09,48.14,39.66,Healthy
+4239,Pepper,Yellowish,4.26,51.19,34.92,Healthy
+4240,Cucumber,Yellowish,4.46,41.16,18.76,Healthy
+4241,Tomato,Green,9.13,44.77,29.84,Healthy
+4242,Potato,Yellowish,7.51,47.35,38.58,Healthy
+4243,Potato,Green,9.38,77.21,25.99,Severe Infection
+4244,Cucumber,Green,7.65,58.27,33.42,Healthy
+4245,Cucumber,Yellowish,7.39,51.26,35.56,Healthy
+4246,Tomato,Green,3.04,61.3,24.22,Mild Infection
+4247,Cucumber,Yellowish,9.77,75.35,33.79,Severe Infection
+4248,Cucumber,Dark Green,8.7,84.1,27.56,Severe Infection
+4249,Potato,Yellowish,3.26,92.12,22.81,Mild Infection
+4250,Tomato,Dark Green,4.45,61.66,31.38,Mild Infection
+4251,Pepper,Dark Green,2.89,90.84,23.07,Healthy
+4252,Tomato,Yellowish,9.54,76.51,20.6,Severe Infection
+4253,Cucumber,Yellowish,0.17,71.75,32.83,Healthy
+4254,Potato,Dark Green,2.82,83.76,19.7,Healthy
+4255,Cucumber,Yellowish,1.31,54.1,38.55,Healthy
+4256,Potato,Yellowish,3.11,67.94,34.51,Mild Infection
+4257,Pepper,Dark Green,3.6,87.13,28.27,Mild Infection
+4258,Tomato,Yellowish,9.39,79.45,27.76,Severe Infection
+4259,Potato,Dark Green,0.83,93.17,33.34,Healthy
+4260,Tomato,Dark Green,5.5,66.43,19.51,Mild Infection
+4261,Cucumber,Yellowish,1.58,88.07,22.86,Healthy
+4262,Cucumber,Yellowish,4.02,85.25,24.85,Mild Infection
+4263,Tomato,Dark Green,6.15,86.17,32.32,Severe Infection
+4264,Potato,Dark Green,9.73,68.23,33.74,Mild Infection
+4265,Cucumber,Yellowish,3.76,40.52,19.66,Healthy
+4266,Potato,Green,3.29,40.39,28.05,Healthy
+4267,Pepper,Green,3.52,64.76,23.6,Mild Infection
+4268,Cucumber,Yellowish,9.61,68.69,20.74,Mild Infection
+4269,Potato,Green,0.47,82.12,19.74,Healthy
+4270,Potato,Green,9.36,50.38,27.12,Healthy
+4271,Pepper,Yellowish,1.12,55.96,30.36,Healthy
+4272,Cucumber,Green,9.87,71.26,35.42,Mild Infection
+4273,Cucumber,Dark Green,7.85,68.03,38.0,Mild Infection
+4274,Pepper,Green,9.31,92.0,19.26,Severe Infection
+4275,Cucumber,Dark Green,1.43,55.33,39.1,Healthy
+4276,Potato,Yellowish,4.05,55.54,24.14,Healthy
+4277,Tomato,Green,0.83,43.02,30.73,Healthy
+4278,Pepper,Green,2.59,64.18,29.23,Healthy
+4279,Cucumber,Green,7.13,87.83,28.39,Severe Infection
+4280,Potato,Yellowish,7.94,54.23,25.64,Healthy
+4281,Tomato,Dark Green,5.7,91.57,32.95,Mild Infection
+4282,Potato,Dark Green,0.24,91.83,35.34,Healthy
+4283,Potato,Yellowish,2.13,77.86,34.47,Healthy
+4284,Potato,Green,8.83,92.57,23.21,Severe Infection
+4285,Cucumber,Green,0.58,43.06,20.84,Healthy
+4286,Cucumber,Green,6.95,52.5,29.96,Healthy
+4287,Potato,Dark Green,3.71,94.47,31.45,Mild Infection
+4288,Cucumber,Yellowish,3.47,49.38,26.46,Healthy
+4289,Cucumber,Green,7.94,83.0,28.65,Severe Infection
+4290,Potato,Yellowish,2.38,58.81,35.82,Healthy
+4291,Tomato,Green,0.09,67.75,23.74,Healthy
+4292,Potato,Yellowish,9.67,68.11,27.8,Mild Infection
+4293,Pepper,Dark Green,2.44,75.99,37.2,Healthy
+4294,Cucumber,Dark Green,3.89,90.92,32.52,Mild Infection
+4295,Cucumber,Dark Green,7.18,54.44,30.79,Healthy
+4296,Cucumber,Yellowish,5.14,72.98,30.11,Mild Infection
+4297,Potato,Yellowish,3.21,93.16,27.76,Mild Infection
+4298,Pepper,Dark Green,7.36,77.83,24.02,Severe Infection
+4299,Potato,Yellowish,3.53,42.71,26.5,Healthy
+4300,Tomato,Yellowish,1.92,67.01,25.06,Healthy
+4301,Potato,Yellowish,5.77,62.61,27.78,Mild Infection
+4302,Potato,Green,7.16,53.29,32.99,Healthy
+4303,Cucumber,Yellowish,0.64,44.87,32.89,Healthy
+4304,Potato,Green,8.42,80.68,22.64,Severe Infection
+4305,Potato,Dark Green,2.18,86.41,28.13,Healthy
+4306,Potato,Dark Green,1.99,92.43,19.6,Healthy
+4307,Cucumber,Green,1.26,74.11,29.99,Healthy
+4308,Pepper,Green,7.22,54.91,34.73,Healthy
+4309,Tomato,Yellowish,8.66,68.0,21.07,Mild Infection
+4310,Cucumber,Yellowish,3.03,63.01,27.78,Mild Infection
+4311,Cucumber,Dark Green,4.32,59.73,23.89,Healthy
+4312,Tomato,Dark Green,6.87,86.47,25.91,Severe Infection
+4313,Cucumber,Green,0.1,43.35,33.43,Healthy
+4314,Cucumber,Dark Green,7.66,58.12,33.25,Healthy
+4315,Pepper,Yellowish,4.46,84.64,24.47,Mild Infection
+4316,Cucumber,Green,2.25,78.11,39.72,Healthy
+4317,Tomato,Green,1.56,73.53,38.13,Healthy
+4318,Cucumber,Dark Green,4.74,71.25,24.04,Mild Infection
+4319,Tomato,Dark Green,5.69,71.86,37.56,Mild Infection
+4320,Potato,Dark Green,4.49,64.45,18.6,Mild Infection
+4321,Tomato,Dark Green,6.52,91.13,20.74,Severe Infection
+4322,Potato,Dark Green,2.98,64.54,30.19,Healthy
+4323,Tomato,Yellowish,6.21,49.0,24.69,Healthy
+4324,Potato,Dark Green,4.39,89.49,31.82,Mild Infection
+4325,Tomato,Green,2.66,67.48,34.83,Healthy
+4326,Potato,Yellowish,0.85,53.85,36.12,Healthy
+4327,Tomato,Dark Green,2.65,67.46,24.52,Healthy
+4328,Pepper,Dark Green,5.85,52.12,20.27,Healthy
+4329,Potato,Dark Green,1.07,69.05,28.28,Healthy
+4330,Pepper,Green,6.43,47.1,34.33,Healthy
+4331,Potato,Dark Green,4.45,74.18,22.84,Mild Infection
+4332,Pepper,Green,8.21,47.34,26.51,Healthy
+4333,Tomato,Yellowish,5.72,64.97,29.15,Mild Infection
+4334,Cucumber,Green,4.37,87.2,21.75,Mild Infection
+4335,Potato,Yellowish,6.54,83.4,31.26,Severe Infection
+4336,Potato,Dark Green,4.08,44.12,22.91,Healthy
+4337,Potato,Dark Green,6.81,41.19,20.02,Healthy
+4338,Pepper,Green,2.55,68.28,29.86,Healthy
+4339,Tomato,Green,2.13,81.35,30.94,Healthy
+4340,Potato,Dark Green,8.25,43.53,31.04,Healthy
+4341,Tomato,Dark Green,9.47,65.5,35.25,Mild Infection
+4342,Potato,Dark Green,9.14,91.23,25.44,Severe Infection
+4343,Pepper,Dark Green,7.5,76.4,35.97,Severe Infection
+4344,Potato,Dark Green,3.43,56.88,19.26,Healthy
+4345,Pepper,Yellowish,1.4,45.64,18.26,Healthy
+4346,Pepper,Yellowish,4.94,93.5,39.63,Mild Infection
+4347,Potato,Dark Green,5.73,80.53,29.02,Mild Infection
+4348,Potato,Dark Green,4.46,91.57,25.74,Mild Infection
+4349,Pepper,Dark Green,8.21,45.6,38.04,Healthy
+4350,Cucumber,Dark Green,5.27,73.32,31.9,Mild Infection
+4351,Tomato,Yellowish,7.27,77.61,34.57,Severe Infection
+4352,Cucumber,Green,5.88,50.13,19.25,Healthy
+4353,Cucumber,Green,5.73,40.96,19.08,Healthy
+4354,Potato,Green,5.96,57.97,25.69,Healthy
+4355,Cucumber,Green,6.26,41.46,34.18,Healthy
+4356,Cucumber,Yellowish,6.89,77.78,37.65,Severe Infection
+4357,Tomato,Yellowish,7.59,78.16,24.73,Severe Infection
+4358,Pepper,Green,3.43,44.26,29.28,Healthy
+4359,Tomato,Yellowish,7.77,73.12,25.09,Mild Infection
+4360,Potato,Dark Green,6.73,76.32,35.8,Severe Infection
+4361,Cucumber,Yellowish,0.19,92.27,24.6,Healthy
+4362,Pepper,Green,2.1,41.82,38.99,Healthy
+4363,Pepper,Dark Green,6.21,82.6,22.79,Severe Infection
+4364,Tomato,Dark Green,9.21,66.6,18.32,Mild Infection
+4365,Cucumber,Yellowish,1.57,75.53,23.12,Healthy
+4366,Tomato,Dark Green,3.09,72.65,34.61,Mild Infection
+4367,Pepper,Green,2.92,62.3,39.65,Healthy
+4368,Pepper,Green,2.52,59.5,30.42,Healthy
+4369,Pepper,Yellowish,9.47,88.33,22.33,Severe Infection
+4370,Potato,Green,5.46,73.75,22.91,Mild Infection
+4371,Tomato,Green,3.04,56.59,22.14,Healthy
+4372,Potato,Green,5.13,71.6,29.33,Mild Infection
+4373,Tomato,Yellowish,1.97,47.17,32.16,Healthy
+4374,Tomato,Green,3.66,49.07,20.74,Healthy
+4375,Potato,Green,0.18,52.01,19.2,Healthy
+4376,Tomato,Dark Green,5.11,49.47,27.48,Healthy
+4377,Pepper,Green,1.83,63.36,25.52,Healthy
+4378,Cucumber,Dark Green,2.26,65.69,33.08,Healthy
+4379,Potato,Yellowish,2.24,88.79,24.05,Healthy
+4380,Pepper,Green,4.89,84.94,27.86,Mild Infection
+4381,Potato,Yellowish,0.98,44.31,30.62,Healthy
+4382,Cucumber,Dark Green,2.39,91.73,38.96,Healthy
+4383,Tomato,Green,2.71,66.07,37.27,Healthy
+4384,Tomato,Green,3.16,48.94,25.69,Healthy
+4385,Potato,Green,4.58,77.43,24.59,Mild Infection
+4386,Tomato,Yellowish,4.05,52.93,32.35,Healthy
+4387,Potato,Dark Green,9.1,45.91,18.37,Healthy
+4388,Pepper,Dark Green,0.77,40.39,35.72,Healthy
+4389,Pepper,Dark Green,0.84,77.34,23.21,Healthy
+4390,Potato,Green,9.64,47.47,39.5,Healthy
+4391,Cucumber,Green,2.72,56.47,20.2,Healthy
+4392,Pepper,Dark Green,3.42,60.81,19.94,Mild Infection
+4393,Potato,Yellowish,1.67,74.63,27.16,Healthy
+4394,Cucumber,Yellowish,0.7,85.15,24.19,Healthy
+4395,Tomato,Yellowish,4.97,71.94,38.43,Mild Infection
+4396,Potato,Green,7.32,64.52,33.59,Mild Infection
+4397,Pepper,Yellowish,0.71,59.87,32.02,Healthy
+4398,Potato,Dark Green,4.75,69.41,39.92,Mild Infection
+4399,Potato,Green,8.91,58.96,26.59,Healthy
+4400,Cucumber,Green,9.1,79.32,23.47,Severe Infection
+4401,Potato,Green,6.44,74.47,18.63,Mild Infection
+4402,Tomato,Yellowish,1.73,64.73,25.6,Healthy
+4403,Potato,Dark Green,8.52,48.94,39.11,Healthy
+4404,Tomato,Yellowish,1.44,62.37,34.77,Healthy
+4405,Pepper,Yellowish,4.55,41.1,30.91,Healthy
+4406,Cucumber,Dark Green,7.18,40.41,27.3,Healthy
+4407,Pepper,Green,8.13,80.27,23.13,Severe Infection
+4408,Potato,Green,5.78,64.21,19.52,Mild Infection
+4409,Tomato,Dark Green,5.41,80.64,18.64,Mild Infection
+4410,Tomato,Yellowish,9.12,78.56,19.23,Severe Infection
+4411,Tomato,Yellowish,1.31,67.91,27.71,Healthy
+4412,Potato,Green,0.01,87.79,37.9,Healthy
+4413,Potato,Yellowish,0.82,79.56,31.61,Healthy
+4414,Potato,Green,4.63,53.77,36.3,Healthy
+4415,Potato,Yellowish,8.99,91.42,32.02,Severe Infection
+4416,Cucumber,Yellowish,4.59,48.22,38.46,Healthy
+4417,Potato,Green,4.68,56.63,19.12,Healthy
+4418,Tomato,Green,1.25,91.35,38.52,Healthy
+4419,Pepper,Yellowish,3.59,41.55,36.81,Healthy
+4420,Cucumber,Green,3.06,79.32,27.46,Mild Infection
+4421,Cucumber,Green,4.8,93.05,24.37,Mild Infection
+4422,Tomato,Yellowish,1.0,40.27,27.08,Healthy
+4423,Tomato,Dark Green,2.21,41.36,26.95,Healthy
+4424,Potato,Yellowish,2.39,77.66,22.67,Healthy
+4425,Potato,Yellowish,0.2,62.61,23.16,Healthy
+4426,Potato,Green,3.39,93.11,25.51,Mild Infection
+4427,Pepper,Dark Green,1.47,77.41,36.16,Healthy
+4428,Pepper,Dark Green,0.45,83.45,31.56,Healthy
+4429,Pepper,Dark Green,7.7,56.99,26.11,Healthy
+4430,Tomato,Green,4.06,62.02,38.84,Mild Infection
+4431,Cucumber,Green,3.41,76.98,33.16,Mild Infection
+4432,Pepper,Yellowish,8.05,83.52,22.42,Severe Infection
+4433,Potato,Green,0.5,55.9,38.95,Healthy
+4434,Tomato,Dark Green,6.45,69.57,30.67,Mild Infection
+4435,Tomato,Yellowish,1.43,92.82,18.98,Healthy
+4436,Potato,Green,5.99,40.79,19.09,Healthy
+4437,Potato,Green,7.14,92.43,37.87,Severe Infection
+4438,Tomato,Dark Green,7.66,76.7,20.76,Severe Infection
+4439,Potato,Dark Green,5.37,57.79,36.02,Healthy
+4440,Tomato,Green,0.84,51.72,31.37,Healthy
+4441,Pepper,Dark Green,2.53,44.01,31.79,Healthy
+4442,Pepper,Dark Green,5.02,84.98,39.54,Mild Infection
+4443,Cucumber,Dark Green,6.69,87.65,29.46,Severe Infection
+4444,Cucumber,Dark Green,0.01,54.34,24.53,Healthy
+4445,Tomato,Dark Green,0.79,90.46,34.82,Healthy
+4446,Cucumber,Green,6.16,45.6,18.35,Healthy
+4447,Cucumber,Yellowish,0.97,89.66,33.33,Healthy
+4448,Tomato,Dark Green,8.02,57.6,34.79,Healthy
+4449,Potato,Yellowish,2.89,62.98,18.98,Healthy
+4450,Pepper,Dark Green,1.06,78.52,34.7,Healthy
+4451,Tomato,Green,5.14,84.8,38.6,Mild Infection
+4452,Tomato,Dark Green,8.48,69.46,26.67,Mild Infection
+4453,Pepper,Green,0.55,84.3,25.45,Healthy
+4454,Cucumber,Dark Green,7.26,72.33,38.56,Mild Infection
+4455,Pepper,Yellowish,5.28,89.96,31.3,Mild Infection
+4456,Tomato,Dark Green,3.05,53.14,38.88,Healthy
+4457,Potato,Green,0.35,65.34,24.76,Healthy
+4458,Cucumber,Yellowish,3.57,69.93,30.14,Mild Infection
+4459,Tomato,Green,2.58,93.1,26.3,Healthy
+4460,Tomato,Dark Green,2.06,65.18,34.71,Healthy
+4461,Cucumber,Green,7.76,41.16,27.22,Healthy
+4462,Tomato,Yellowish,7.42,71.01,22.51,Mild Infection
+4463,Pepper,Green,8.74,86.89,22.36,Severe Infection
+4464,Potato,Yellowish,9.06,79.75,25.02,Severe Infection
+4465,Potato,Green,1.24,68.56,23.16,Healthy
+4466,Cucumber,Green,3.22,72.08,34.16,Mild Infection
+4467,Cucumber,Dark Green,4.94,47.0,38.12,Healthy
+4468,Pepper,Dark Green,1.14,76.96,19.14,Healthy
+4469,Pepper,Yellowish,7.87,94.97,35.65,Severe Infection
+4470,Cucumber,Dark Green,2.85,56.5,21.33,Healthy
+4471,Tomato,Green,0.77,81.6,29.87,Healthy
+4472,Potato,Yellowish,1.12,75.11,33.39,Healthy
+4473,Pepper,Dark Green,9.81,69.31,28.37,Mild Infection
+4474,Cucumber,Green,0.95,46.49,34.64,Healthy
+4475,Potato,Dark Green,1.75,62.2,39.86,Healthy
+4476,Cucumber,Yellowish,1.87,42.77,19.38,Healthy
+4477,Pepper,Green,1.36,80.88,33.91,Healthy
+4478,Potato,Green,2.49,48.51,24.63,Healthy
+4479,Tomato,Green,4.07,54.01,28.76,Healthy
+4480,Pepper,Yellowish,0.53,43.08,21.13,Healthy
+4481,Pepper,Green,5.12,43.0,36.4,Healthy
+4482,Potato,Dark Green,1.98,70.89,21.76,Healthy
+4483,Potato,Yellowish,1.16,72.64,22.62,Healthy
+4484,Cucumber,Dark Green,7.88,41.21,35.66,Healthy
+4485,Pepper,Dark Green,1.01,54.13,20.04,Healthy
+4486,Potato,Dark Green,6.39,94.99,18.05,Severe Infection
+4487,Cucumber,Green,9.55,90.63,20.06,Severe Infection
+4488,Cucumber,Yellowish,6.5,62.14,38.24,Mild Infection
+4489,Pepper,Green,3.16,90.97,28.64,Mild Infection
+4490,Cucumber,Dark Green,2.44,88.88,33.24,Healthy
+4491,Cucumber,Green,5.2,45.77,23.89,Healthy
+4492,Pepper,Yellowish,3.62,40.84,35.17,Healthy
+4493,Cucumber,Yellowish,6.28,60.17,20.33,Mild Infection
+4494,Potato,Dark Green,3.9,94.23,35.18,Mild Infection
+4495,Pepper,Dark Green,1.74,90.12,30.19,Healthy
+4496,Potato,Dark Green,6.51,86.37,32.17,Severe Infection
+4497,Pepper,Yellowish,0.95,89.17,38.24,Healthy
+4498,Potato,Yellowish,6.07,80.73,34.65,Severe Infection
+4499,Cucumber,Green,0.86,83.86,33.84,Healthy
+4500,Pepper,Yellowish,0.18,49.57,25.42,Healthy
+4501,Pepper,Yellowish,6.73,42.05,38.19,Healthy
+4502,Potato,Green,5.2,88.56,28.41,Mild Infection
+4503,Tomato,Green,0.51,65.41,37.87,Healthy
+4504,Potato,Yellowish,9.41,58.75,37.79,Healthy
+4505,Potato,Green,8.36,76.54,27.96,Severe Infection
+4506,Cucumber,Yellowish,6.07,82.63,31.68,Severe Infection
+4507,Potato,Yellowish,7.62,85.48,30.38,Severe Infection
+4508,Pepper,Green,1.02,64.44,21.12,Healthy
+4509,Cucumber,Green,7.45,44.68,24.66,Healthy
+4510,Potato,Yellowish,6.98,79.48,39.84,Severe Infection
+4511,Pepper,Dark Green,3.12,44.58,33.94,Healthy
+4512,Pepper,Yellowish,3.82,66.69,35.11,Mild Infection
+4513,Potato,Green,5.26,60.69,26.08,Mild Infection
+4514,Cucumber,Yellowish,6.71,59.9,29.53,Healthy
+4515,Cucumber,Green,7.24,55.26,38.54,Healthy
+4516,Tomato,Dark Green,6.18,75.62,18.64,Severe Infection
+4517,Tomato,Green,0.81,70.02,25.91,Healthy
+4518,Potato,Green,4.67,92.29,26.99,Mild Infection
+4519,Tomato,Green,5.38,42.07,33.78,Healthy
+4520,Pepper,Green,1.68,53.37,34.38,Healthy
+4521,Cucumber,Dark Green,2.47,65.34,24.3,Healthy
+4522,Tomato,Yellowish,8.25,74.95,35.73,Mild Infection
+4523,Pepper,Dark Green,2.68,62.78,33.35,Healthy
+4524,Cucumber,Yellowish,1.49,49.64,18.22,Healthy
+4525,Pepper,Dark Green,9.55,64.57,27.85,Mild Infection
+4526,Potato,Green,8.48,57.12,22.6,Healthy
+4527,Cucumber,Green,2.57,69.79,31.85,Healthy
+4528,Cucumber,Yellowish,0.6,74.77,29.08,Healthy
+4529,Potato,Green,9.12,58.61,38.58,Healthy
+4530,Pepper,Green,8.28,42.17,34.31,Healthy
+4531,Cucumber,Dark Green,5.3,88.94,31.21,Mild Infection
+4532,Tomato,Yellowish,6.29,53.57,28.11,Healthy
+4533,Pepper,Dark Green,5.65,80.84,24.15,Mild Infection
+4534,Potato,Green,1.41,80.0,31.94,Healthy
+4535,Cucumber,Dark Green,4.41,67.4,25.25,Mild Infection
+4536,Potato,Green,2.04,77.63,37.41,Healthy
+4537,Cucumber,Green,0.24,76.32,29.5,Healthy
+4538,Potato,Green,2.08,56.46,34.46,Healthy
+4539,Cucumber,Yellowish,4.25,61.78,22.38,Mild Infection
+4540,Cucumber,Green,2.69,80.44,35.54,Healthy
+4541,Cucumber,Yellowish,5.87,47.55,25.4,Healthy
+4542,Tomato,Dark Green,7.84,80.16,26.52,Severe Infection
+4543,Potato,Dark Green,2.52,49.95,34.16,Healthy
+4544,Tomato,Green,5.53,82.61,30.37,Mild Infection
+4545,Tomato,Dark Green,2.69,46.94,29.65,Healthy
+4546,Cucumber,Yellowish,1.44,76.12,22.36,Healthy
+4547,Potato,Yellowish,2.88,74.23,27.48,Healthy
+4548,Cucumber,Dark Green,0.33,42.73,20.08,Healthy
+4549,Pepper,Dark Green,7.21,73.03,19.37,Mild Infection
+4550,Pepper,Dark Green,6.91,77.69,39.6,Severe Infection
+4551,Potato,Green,7.02,92.15,28.71,Severe Infection
+4552,Tomato,Yellowish,7.66,43.88,38.55,Healthy
+4553,Pepper,Dark Green,5.47,64.7,35.52,Mild Infection
+4554,Pepper,Dark Green,5.4,81.46,31.68,Mild Infection
+4555,Cucumber,Green,3.6,80.02,31.86,Mild Infection
+4556,Cucumber,Yellowish,2.69,93.37,20.47,Healthy
+4557,Cucumber,Yellowish,6.04,63.34,33.72,Mild Infection
+4558,Potato,Yellowish,9.66,62.59,22.79,Mild Infection
+4559,Tomato,Yellowish,7.8,41.42,22.88,Healthy
+4560,Potato,Yellowish,0.1,44.4,28.44,Healthy
+4561,Cucumber,Yellowish,9.15,84.42,34.97,Severe Infection
+4562,Pepper,Yellowish,7.83,77.57,19.15,Severe Infection
+4563,Cucumber,Dark Green,2.33,83.95,29.19,Healthy
+4564,Tomato,Yellowish,1.56,79.99,39.58,Healthy
+4565,Pepper,Yellowish,6.76,65.94,39.12,Mild Infection
+4566,Tomato,Green,0.8,80.14,34.18,Healthy
+4567,Cucumber,Green,1.16,87.21,23.12,Healthy
+4568,Potato,Green,8.68,52.12,38.36,Healthy
+4569,Pepper,Green,6.23,43.37,33.72,Healthy
+4570,Potato,Green,5.19,70.74,25.4,Mild Infection
+4571,Tomato,Green,2.41,78.3,32.78,Healthy
+4572,Potato,Yellowish,5.86,58.38,29.48,Healthy
+4573,Cucumber,Yellowish,3.66,81.86,33.69,Mild Infection
+4574,Pepper,Dark Green,2.4,81.52,39.01,Healthy
+4575,Potato,Green,1.55,50.11,30.69,Healthy
+4576,Cucumber,Dark Green,3.86,78.34,30.32,Mild Infection
+4577,Tomato,Dark Green,0.79,70.92,18.13,Healthy
+4578,Cucumber,Green,9.2,44.28,33.55,Healthy
+4579,Cucumber,Green,8.82,60.38,30.52,Mild Infection
+4580,Tomato,Dark Green,6.69,80.68,19.91,Severe Infection
+4581,Potato,Green,1.91,65.89,19.08,Healthy
+4582,Pepper,Green,3.84,64.97,24.64,Mild Infection
+4583,Pepper,Green,1.18,81.19,23.99,Healthy
+4584,Cucumber,Green,5.51,89.61,27.82,Mild Infection
+4585,Pepper,Yellowish,2.58,68.61,28.44,Healthy
+4586,Cucumber,Dark Green,1.95,89.48,35.2,Healthy
+4587,Pepper,Dark Green,6.73,73.3,19.26,Mild Infection
+4588,Potato,Dark Green,4.23,76.45,30.98,Mild Infection
+4589,Cucumber,Yellowish,6.52,56.81,29.54,Healthy
+4590,Pepper,Dark Green,2.86,82.19,39.4,Healthy
+4591,Potato,Yellowish,4.38,59.01,34.35,Healthy
+4592,Cucumber,Yellowish,6.39,76.62,29.54,Severe Infection
+4593,Cucumber,Green,0.85,89.88,30.92,Healthy
+4594,Cucumber,Dark Green,4.95,81.6,35.47,Mild Infection
+4595,Pepper,Yellowish,7.24,67.36,23.79,Mild Infection
+4596,Potato,Yellowish,1.98,89.07,27.48,Healthy
+4597,Potato,Green,4.18,49.81,23.27,Healthy
+4598,Potato,Yellowish,2.96,57.63,20.97,Healthy
+4599,Potato,Green,7.96,84.46,26.54,Severe Infection
+4600,Tomato,Yellowish,7.93,91.3,26.68,Severe Infection
+4601,Potato,Green,0.42,75.55,37.21,Healthy
+4602,Cucumber,Yellowish,5.23,71.42,31.36,Mild Infection
+4603,Potato,Dark Green,8.76,42.39,23.74,Healthy
+4604,Pepper,Yellowish,5.3,40.97,29.37,Healthy
+4605,Potato,Yellowish,2.08,56.36,33.0,Healthy
+4606,Potato,Yellowish,2.84,84.17,27.14,Healthy
+4607,Cucumber,Dark Green,3.56,80.75,32.56,Mild Infection
+4608,Potato,Dark Green,7.45,56.21,30.57,Healthy
+4609,Cucumber,Yellowish,8.18,56.65,28.11,Healthy
+4610,Tomato,Green,3.39,53.45,23.0,Healthy
+4611,Tomato,Green,1.3,64.13,22.8,Healthy
+4612,Pepper,Green,2.44,48.47,33.52,Healthy
+4613,Cucumber,Green,8.89,72.52,37.51,Mild Infection
+4614,Potato,Green,7.87,41.93,30.65,Healthy
+4615,Cucumber,Green,4.74,70.23,36.87,Mild Infection
+4616,Cucumber,Dark Green,1.55,40.61,27.17,Healthy
+4617,Tomato,Green,2.38,91.91,18.08,Healthy
+4618,Potato,Green,6.39,82.03,35.38,Severe Infection
+4619,Pepper,Green,4.34,80.56,37.41,Mild Infection
+4620,Pepper,Yellowish,1.14,94.99,33.95,Healthy
+4621,Cucumber,Green,9.63,72.3,21.83,Mild Infection
+4622,Pepper,Green,4.65,49.77,38.13,Healthy
+4623,Tomato,Green,0.65,72.9,31.24,Healthy
+4624,Potato,Green,5.2,69.92,30.32,Mild Infection
+4625,Tomato,Yellowish,5.11,54.54,24.32,Healthy
+4626,Cucumber,Dark Green,8.07,42.74,31.27,Healthy
+4627,Potato,Dark Green,5.88,40.83,24.88,Healthy
+4628,Pepper,Dark Green,5.99,63.44,30.15,Mild Infection
+4629,Cucumber,Green,9.41,62.0,35.12,Mild Infection
+4630,Potato,Green,3.04,70.28,36.17,Mild Infection
+4631,Tomato,Green,2.86,57.43,28.28,Healthy
+4632,Pepper,Yellowish,5.27,57.21,20.16,Healthy
+4633,Tomato,Dark Green,4.64,46.08,22.83,Healthy
+4634,Pepper,Yellowish,8.24,85.0,39.07,Severe Infection
+4635,Tomato,Yellowish,0.55,49.88,20.19,Healthy
+4636,Pepper,Green,5.35,67.98,19.2,Mild Infection
+4637,Potato,Green,8.0,72.87,35.81,Mild Infection
+4638,Potato,Yellowish,2.34,82.36,34.45,Healthy
+4639,Potato,Dark Green,9.62,68.47,20.74,Mild Infection
+4640,Cucumber,Dark Green,9.19,44.9,29.25,Healthy
+4641,Potato,Green,6.19,48.61,26.07,Healthy
+4642,Tomato,Yellowish,1.67,93.24,38.12,Healthy
+4643,Potato,Dark Green,1.94,44.7,38.01,Healthy
+4644,Potato,Yellowish,0.72,64.69,31.18,Healthy
+4645,Potato,Yellowish,7.81,91.23,37.99,Severe Infection
+4646,Tomato,Dark Green,2.75,57.99,31.82,Healthy
+4647,Cucumber,Yellowish,9.09,74.86,19.58,Mild Infection
+4648,Pepper,Yellowish,3.03,44.27,29.71,Healthy
+4649,Tomato,Green,9.58,49.88,30.72,Healthy
+4650,Pepper,Green,3.4,44.56,31.64,Healthy
+4651,Cucumber,Yellowish,1.91,63.91,22.24,Healthy
+4652,Cucumber,Dark Green,2.06,54.61,34.88,Healthy
+4653,Pepper,Yellowish,9.37,87.0,18.11,Severe Infection
+4654,Cucumber,Green,6.59,86.31,28.62,Severe Infection
+4655,Tomato,Yellowish,7.56,66.24,36.37,Mild Infection
+4656,Tomato,Dark Green,8.02,46.14,20.54,Healthy
+4657,Potato,Dark Green,8.59,66.49,32.97,Mild Infection
+4658,Cucumber,Yellowish,3.56,81.96,34.84,Mild Infection
+4659,Cucumber,Green,9.03,84.06,26.3,Severe Infection
+4660,Cucumber,Green,6.48,43.2,38.39,Healthy
+4661,Potato,Yellowish,5.31,81.53,32.79,Mild Infection
+4662,Potato,Yellowish,1.72,84.67,37.05,Healthy
+4663,Cucumber,Yellowish,6.49,42.18,26.87,Healthy
+4664,Tomato,Dark Green,4.27,57.63,20.06,Healthy
+4665,Pepper,Yellowish,5.69,64.51,19.09,Mild Infection
+4666,Potato,Dark Green,5.93,81.65,24.72,Mild Infection
+4667,Potato,Green,2.9,40.26,19.59,Healthy
+4668,Cucumber,Dark Green,9.73,48.09,33.64,Healthy
+4669,Cucumber,Dark Green,0.93,53.36,37.98,Healthy
+4670,Tomato,Dark Green,7.03,69.74,32.9,Mild Infection
+4671,Pepper,Green,9.54,69.22,26.79,Mild Infection
+4672,Pepper,Dark Green,8.43,56.4,20.78,Healthy
+4673,Tomato,Green,1.99,76.33,28.36,Healthy
+4674,Potato,Dark Green,2.93,75.34,36.7,Healthy
+4675,Tomato,Yellowish,1.32,60.85,25.78,Healthy
+4676,Pepper,Dark Green,3.53,67.98,33.86,Mild Infection
+4677,Tomato,Dark Green,0.4,65.99,37.3,Healthy
+4678,Cucumber,Dark Green,2.41,41.71,38.83,Healthy
+4679,Potato,Yellowish,5.8,44.59,38.43,Healthy
+4680,Tomato,Dark Green,6.22,90.14,25.6,Severe Infection
+4681,Pepper,Green,7.67,50.27,36.29,Healthy
+4682,Tomato,Green,1.01,59.04,36.39,Healthy
+4683,Potato,Green,2.8,53.78,35.73,Healthy
+4684,Potato,Yellowish,2.41,67.73,37.04,Healthy
+4685,Cucumber,Yellowish,5.51,59.6,34.45,Healthy
+4686,Tomato,Dark Green,6.04,92.78,35.44,Severe Infection
+4687,Tomato,Yellowish,3.83,42.2,39.66,Healthy
+4688,Cucumber,Yellowish,5.86,76.67,24.25,Mild Infection
+4689,Tomato,Green,2.65,64.52,36.39,Healthy
+4690,Cucumber,Green,5.91,87.46,23.85,Mild Infection
+4691,Pepper,Green,3.83,48.28,38.52,Healthy
+4692,Cucumber,Green,4.48,83.74,20.98,Mild Infection
+4693,Tomato,Green,2.73,56.65,28.29,Healthy
+4694,Potato,Dark Green,5.56,88.83,28.01,Mild Infection
+4695,Potato,Dark Green,2.84,65.31,18.33,Healthy
+4696,Cucumber,Dark Green,3.38,74.86,27.9,Mild Infection
+4697,Cucumber,Dark Green,5.22,53.33,38.34,Healthy
+4698,Cucumber,Yellowish,5.04,74.27,19.64,Mild Infection
+4699,Tomato,Yellowish,7.38,75.06,30.25,Severe Infection
+4700,Pepper,Yellowish,0.33,65.3,24.55,Healthy
+4701,Tomato,Yellowish,0.86,74.02,24.82,Healthy
+4702,Cucumber,Green,1.27,90.78,33.16,Healthy
+4703,Cucumber,Dark Green,0.44,72.59,36.38,Healthy
+4704,Potato,Yellowish,2.01,88.94,18.2,Healthy
+4705,Cucumber,Yellowish,0.67,73.74,23.76,Healthy
+4706,Potato,Green,4.16,53.46,37.39,Healthy
+4707,Potato,Green,1.91,90.51,26.98,Healthy
+4708,Cucumber,Green,0.66,89.94,35.7,Healthy
+4709,Potato,Green,1.22,71.45,37.96,Healthy
+4710,Cucumber,Dark Green,4.82,88.37,27.02,Mild Infection
+4711,Cucumber,Dark Green,9.45,55.3,25.14,Healthy
+4712,Pepper,Dark Green,1.62,65.35,32.77,Healthy
+4713,Cucumber,Dark Green,6.26,80.62,37.07,Severe Infection
+4714,Pepper,Green,1.33,46.95,38.81,Healthy
+4715,Cucumber,Yellowish,7.2,54.56,38.54,Healthy
+4716,Cucumber,Dark Green,3.06,67.81,19.7,Mild Infection
+4717,Pepper,Green,8.2,53.16,24.17,Healthy
+4718,Pepper,Dark Green,7.31,67.97,25.01,Mild Infection
+4719,Tomato,Green,8.65,80.54,19.54,Severe Infection
+4720,Tomato,Yellowish,6.24,64.12,31.44,Mild Infection
+4721,Pepper,Dark Green,9.05,81.59,24.07,Severe Infection
+4722,Pepper,Yellowish,0.97,60.81,34.49,Healthy
+4723,Potato,Green,2.11,94.54,34.95,Healthy
+4724,Potato,Green,7.8,52.85,27.01,Healthy
+4725,Tomato,Dark Green,1.76,66.29,28.37,Healthy
+4726,Tomato,Green,1.13,54.01,38.12,Healthy
+4727,Potato,Dark Green,8.87,81.67,35.81,Severe Infection
+4728,Cucumber,Green,2.65,52.35,28.24,Healthy
+4729,Pepper,Yellowish,1.13,47.45,29.4,Healthy
+4730,Tomato,Yellowish,4.07,50.1,23.56,Healthy
+4731,Pepper,Dark Green,8.72,91.9,37.86,Severe Infection
+4732,Tomato,Dark Green,5.66,48.11,31.46,Healthy
+4733,Tomato,Green,9.46,91.57,38.07,Severe Infection
+4734,Potato,Green,8.95,47.24,24.65,Healthy
+4735,Cucumber,Green,9.47,87.26,20.42,Severe Infection
+4736,Potato,Yellowish,0.46,40.51,27.73,Healthy
+4737,Tomato,Yellowish,6.13,58.62,28.42,Healthy
+4738,Pepper,Dark Green,8.19,76.4,27.55,Severe Infection
+4739,Cucumber,Yellowish,8.25,72.99,33.3,Mild Infection
+4740,Potato,Yellowish,1.69,66.41,29.78,Healthy
+4741,Cucumber,Green,9.29,64.21,36.33,Mild Infection
+4742,Pepper,Dark Green,9.82,61.72,23.59,Mild Infection
+4743,Potato,Green,1.9,64.45,23.64,Healthy
+4744,Potato,Dark Green,0.79,40.02,35.73,Healthy
+4745,Pepper,Yellowish,3.55,61.24,28.67,Mild Infection
+4746,Tomato,Dark Green,0.23,93.02,32.11,Healthy
+4747,Cucumber,Dark Green,0.95,88.13,24.63,Healthy
+4748,Tomato,Green,0.54,73.33,30.55,Healthy
+4749,Pepper,Green,8.57,69.01,36.15,Mild Infection
+4750,Cucumber,Green,7.22,92.16,36.53,Severe Infection
+4751,Cucumber,Dark Green,1.61,45.84,28.84,Healthy
+4752,Potato,Yellowish,3.64,48.72,28.72,Healthy
+4753,Potato,Green,2.75,47.1,27.47,Healthy
+4754,Tomato,Green,8.33,42.23,38.1,Healthy
+4755,Tomato,Dark Green,9.67,83.41,18.69,Severe Infection
+4756,Pepper,Green,0.66,56.68,25.98,Healthy
+4757,Tomato,Dark Green,3.21,73.38,20.64,Mild Infection
+4758,Tomato,Dark Green,4.03,52.79,31.37,Healthy
+4759,Pepper,Dark Green,6.62,84.74,34.34,Severe Infection
+4760,Pepper,Yellowish,5.54,45.38,30.68,Healthy
+4761,Pepper,Green,9.93,43.09,19.78,Healthy
+4762,Cucumber,Yellowish,9.61,90.71,22.29,Severe Infection
+4763,Pepper,Dark Green,5.13,78.16,28.77,Mild Infection
+4764,Potato,Yellowish,7.07,65.02,28.36,Mild Infection
+4765,Pepper,Yellowish,4.96,58.11,18.93,Healthy
+4766,Cucumber,Green,9.85,49.26,34.73,Healthy
+4767,Tomato,Dark Green,7.04,50.84,37.26,Healthy
+4768,Tomato,Yellowish,3.73,86.73,28.56,Mild Infection
+4769,Tomato,Green,9.01,71.85,22.16,Mild Infection
+4770,Potato,Dark Green,6.04,74.83,20.19,Mild Infection
+4771,Tomato,Green,4.03,44.33,29.6,Healthy
+4772,Pepper,Yellowish,1.75,44.91,27.48,Healthy
+4773,Potato,Green,3.25,70.86,33.12,Mild Infection
+4774,Tomato,Dark Green,4.24,93.67,24.3,Mild Infection
+4775,Cucumber,Yellowish,5.37,41.36,35.83,Healthy
+4776,Cucumber,Green,8.95,43.39,21.57,Healthy
+4777,Potato,Yellowish,6.91,53.74,19.44,Healthy
+4778,Pepper,Dark Green,2.17,62.25,26.0,Healthy
+4779,Cucumber,Yellowish,5.97,93.39,21.87,Mild Infection
+4780,Potato,Yellowish,3.05,59.57,29.35,Healthy
+4781,Cucumber,Dark Green,1.93,87.52,24.57,Healthy
+4782,Cucumber,Dark Green,1.88,73.89,27.76,Healthy
+4783,Cucumber,Green,5.27,48.17,30.19,Healthy
+4784,Cucumber,Yellowish,7.03,43.03,37.53,Healthy
+4785,Tomato,Yellowish,8.18,50.09,27.5,Healthy
+4786,Tomato,Yellowish,0.05,68.63,36.94,Healthy
+4787,Cucumber,Green,4.51,90.15,35.06,Mild Infection
+4788,Potato,Yellowish,8.42,92.56,34.99,Severe Infection
+4789,Tomato,Yellowish,1.95,49.25,36.34,Healthy
+4790,Potato,Green,4.97,65.23,32.89,Mild Infection
+4791,Tomato,Yellowish,9.61,55.99,39.64,Healthy
+4792,Potato,Yellowish,6.11,94.8,36.6,Severe Infection
+4793,Pepper,Dark Green,8.68,89.58,30.26,Severe Infection
+4794,Cucumber,Yellowish,2.91,85.82,33.36,Healthy
+4795,Tomato,Dark Green,5.83,56.97,18.44,Healthy
+4796,Tomato,Green,5.44,86.96,21.08,Mild Infection
+4797,Tomato,Yellowish,7.25,45.23,19.19,Healthy
+4798,Pepper,Yellowish,8.78,79.4,23.49,Severe Infection
+4799,Cucumber,Green,9.33,92.68,37.44,Severe Infection
+4800,Pepper,Dark Green,2.72,78.14,21.75,Healthy
+4801,Cucumber,Green,2.13,43.99,36.71,Healthy
+4802,Cucumber,Yellowish,1.25,69.86,36.32,Healthy
+4803,Tomato,Dark Green,4.15,70.63,38.82,Mild Infection
+4804,Potato,Dark Green,2.24,70.88,22.09,Healthy
+4805,Tomato,Yellowish,4.88,92.89,34.93,Mild Infection
+4806,Pepper,Dark Green,0.56,53.16,35.31,Healthy
+4807,Pepper,Dark Green,7.29,67.82,30.33,Mild Infection
+4808,Potato,Green,5.48,73.7,30.88,Mild Infection
+4809,Tomato,Dark Green,1.19,54.27,19.86,Healthy
+4810,Pepper,Dark Green,7.01,67.51,36.49,Mild Infection
+4811,Pepper,Dark Green,8.75,85.69,24.43,Severe Infection
+4812,Pepper,Dark Green,9.61,62.98,34.46,Mild Infection
+4813,Tomato,Green,7.04,53.89,36.25,Healthy
+4814,Pepper,Dark Green,4.65,62.49,32.56,Mild Infection
+4815,Pepper,Green,5.08,64.73,22.15,Mild Infection
+4816,Potato,Dark Green,6.31,85.18,18.63,Severe Infection
+4817,Pepper,Green,3.42,56.1,26.64,Healthy
+4818,Cucumber,Green,3.67,85.14,18.83,Mild Infection
+4819,Cucumber,Dark Green,4.12,78.87,24.56,Mild Infection
+4820,Cucumber,Yellowish,6.3,91.29,28.74,Severe Infection
+4821,Tomato,Yellowish,1.2,61.69,18.03,Healthy
+4822,Tomato,Green,8.25,61.06,22.89,Mild Infection
+4823,Tomato,Green,0.48,64.44,38.77,Healthy
+4824,Cucumber,Dark Green,8.1,94.87,37.51,Severe Infection
+4825,Cucumber,Yellowish,3.05,52.72,34.17,Healthy
+4826,Pepper,Dark Green,9.14,83.26,24.88,Severe Infection
+4827,Tomato,Green,8.81,86.62,34.97,Severe Infection
+4828,Tomato,Yellowish,8.88,73.14,24.51,Mild Infection
+4829,Cucumber,Dark Green,6.39,66.01,18.86,Mild Infection
+4830,Cucumber,Green,1.89,90.95,39.16,Healthy
+4831,Cucumber,Green,3.47,45.07,34.05,Healthy
+4832,Potato,Dark Green,4.06,60.51,21.2,Mild Infection
+4833,Tomato,Yellowish,5.27,71.73,18.9,Mild Infection
+4834,Potato,Yellowish,9.22,86.08,37.42,Severe Infection
+4835,Potato,Green,8.94,47.08,30.25,Healthy
+4836,Tomato,Green,1.65,64.11,23.78,Healthy
+4837,Cucumber,Green,3.2,68.3,22.4,Mild Infection
+4838,Potato,Dark Green,8.12,48.11,19.61,Healthy
+4839,Pepper,Green,6.69,81.43,33.76,Severe Infection
+4840,Tomato,Green,6.21,75.33,18.84,Severe Infection
+4841,Tomato,Green,2.77,67.52,25.87,Healthy
+4842,Cucumber,Green,3.42,78.1,37.16,Mild Infection
+4843,Tomato,Green,9.86,57.72,39.43,Healthy
+4844,Cucumber,Dark Green,2.92,91.38,29.5,Healthy
+4845,Tomato,Yellowish,5.8,91.12,21.79,Mild Infection
+4846,Pepper,Yellowish,7.47,45.15,34.9,Healthy
+4847,Tomato,Dark Green,7.38,79.54,30.53,Severe Infection
+4848,Pepper,Yellowish,1.27,88.54,30.81,Healthy
+4849,Pepper,Yellowish,2.65,86.46,37.75,Healthy
+4850,Tomato,Green,5.6,45.5,18.74,Healthy
+4851,Cucumber,Yellowish,7.62,41.71,30.19,Healthy
+4852,Pepper,Yellowish,3.67,86.24,18.74,Mild Infection
+4853,Cucumber,Dark Green,9.54,64.6,19.59,Mild Infection
+4854,Pepper,Dark Green,9.86,90.73,27.37,Severe Infection
+4855,Potato,Yellowish,5.67,49.76,20.41,Healthy
+4856,Potato,Dark Green,9.34,45.29,27.34,Healthy
+4857,Pepper,Dark Green,8.1,47.76,18.02,Healthy
+4858,Cucumber,Yellowish,2.09,74.86,38.12,Healthy
+4859,Cucumber,Dark Green,1.33,48.94,32.83,Healthy
+4860,Pepper,Yellowish,1.71,65.49,31.19,Healthy
+4861,Cucumber,Green,1.58,56.65,32.57,Healthy
+4862,Tomato,Green,5.65,88.91,29.43,Mild Infection
+4863,Potato,Dark Green,5.59,92.88,31.26,Mild Infection
+4864,Cucumber,Yellowish,9.36,44.45,30.7,Healthy
+4865,Tomato,Green,7.88,94.04,29.61,Severe Infection
+4866,Pepper,Green,4.7,75.64,25.45,Mild Infection
+4867,Potato,Green,2.3,56.42,38.32,Healthy
+4868,Potato,Yellowish,4.37,74.68,34.49,Mild Infection
+4869,Potato,Dark Green,6.38,74.79,24.34,Mild Infection
+4870,Pepper,Yellowish,9.24,66.91,25.52,Mild Infection
+4871,Tomato,Green,2.19,71.98,30.08,Healthy
+4872,Cucumber,Dark Green,0.01,75.87,34.0,Healthy
+4873,Potato,Dark Green,2.63,49.05,23.14,Healthy
+4874,Cucumber,Yellowish,3.15,46.77,39.7,Healthy
+4875,Cucumber,Green,8.55,45.88,33.83,Healthy
+4876,Cucumber,Yellowish,0.57,41.15,22.91,Healthy
+4877,Cucumber,Dark Green,5.16,63.73,23.06,Mild Infection
+4878,Cucumber,Dark Green,5.67,91.73,37.93,Mild Infection
+4879,Cucumber,Dark Green,7.28,60.96,27.06,Mild Infection
+4880,Tomato,Yellowish,3.36,87.12,38.77,Mild Infection
+4881,Tomato,Green,8.14,62.29,20.76,Mild Infection
+4882,Potato,Dark Green,2.07,69.05,32.56,Healthy
+4883,Potato,Dark Green,4.11,86.12,28.36,Mild Infection
+4884,Pepper,Dark Green,6.8,80.15,20.9,Severe Infection
+4885,Tomato,Yellowish,9.13,87.65,18.73,Severe Infection
+4886,Tomato,Dark Green,8.37,75.52,23.5,Severe Infection
+4887,Pepper,Yellowish,4.08,47.44,30.56,Healthy
+4888,Cucumber,Green,2.9,88.5,27.01,Healthy
+4889,Potato,Green,3.75,71.62,26.85,Mild Infection
+4890,Cucumber,Dark Green,2.98,63.65,39.66,Healthy
+4891,Potato,Yellowish,6.11,81.2,25.23,Severe Infection
+4892,Pepper,Dark Green,2.24,40.85,27.59,Healthy
+4893,Tomato,Dark Green,5.5,42.97,28.06,Healthy
+4894,Cucumber,Yellowish,2.1,45.76,36.1,Healthy
+4895,Pepper,Dark Green,1.5,57.41,26.8,Healthy
+4896,Tomato,Yellowish,4.91,84.09,27.71,Mild Infection
+4897,Cucumber,Yellowish,2.58,78.83,28.79,Healthy
+4898,Cucumber,Yellowish,2.69,71.74,22.87,Healthy
+4899,Tomato,Yellowish,1.3,42.43,39.83,Healthy
+4900,Tomato,Yellowish,8.81,61.71,28.83,Mild Infection
+4901,Potato,Yellowish,0.02,69.56,19.08,Healthy
+4902,Cucumber,Green,1.14,77.43,20.67,Healthy
+4903,Cucumber,Dark Green,1.78,75.63,33.67,Healthy
+4904,Cucumber,Yellowish,8.53,91.72,23.73,Severe Infection
+4905,Pepper,Green,8.22,82.49,21.71,Severe Infection
+4906,Tomato,Yellowish,2.63,72.82,25.42,Healthy
+4907,Pepper,Yellowish,3.59,68.04,30.88,Mild Infection
+4908,Cucumber,Yellowish,2.1,70.98,32.25,Healthy
+4909,Tomato,Green,9.92,89.74,39.31,Severe Infection
+4910,Potato,Yellowish,1.71,76.49,25.61,Healthy
+4911,Potato,Yellowish,8.26,78.13,35.26,Severe Infection
+4912,Cucumber,Dark Green,2.44,88.4,39.99,Healthy
+4913,Potato,Yellowish,9.82,72.26,23.75,Mild Infection
+4914,Cucumber,Green,6.88,47.07,18.58,Healthy
+4915,Tomato,Dark Green,0.84,91.47,23.15,Healthy
+4916,Tomato,Dark Green,9.15,41.04,18.79,Healthy
+4917,Tomato,Green,2.71,62.59,18.4,Healthy
+4918,Potato,Yellowish,4.47,73.85,34.58,Mild Infection
+4919,Cucumber,Dark Green,2.98,57.77,36.46,Healthy
+4920,Cucumber,Green,9.13,47.53,33.11,Healthy
+4921,Pepper,Dark Green,6.27,70.79,39.14,Mild Infection
+4922,Pepper,Yellowish,7.2,89.96,20.3,Severe Infection
+4923,Potato,Yellowish,5.68,45.27,38.3,Healthy
+4924,Cucumber,Green,0.56,45.08,32.83,Healthy
+4925,Potato,Green,6.77,75.02,22.87,Severe Infection
+4926,Pepper,Dark Green,7.23,84.18,23.98,Severe Infection
+4927,Potato,Dark Green,5.89,53.74,25.4,Healthy
+4928,Tomato,Yellowish,2.28,62.33,36.18,Healthy
+4929,Cucumber,Yellowish,6.42,84.34,25.78,Severe Infection
+4930,Potato,Green,0.99,46.01,35.48,Healthy
+4931,Potato,Yellowish,0.53,84.65,29.74,Healthy
+4932,Tomato,Dark Green,4.51,42.25,33.51,Healthy
+4933,Potato,Green,8.7,78.91,18.69,Severe Infection
+4934,Pepper,Dark Green,9.6,47.0,21.86,Healthy
+4935,Cucumber,Yellowish,3.36,84.08,26.75,Mild Infection
+4936,Cucumber,Green,6.32,66.44,30.14,Mild Infection
+4937,Cucumber,Dark Green,1.53,61.82,38.64,Healthy
+4938,Potato,Yellowish,2.09,53.09,36.05,Healthy
+4939,Pepper,Dark Green,0.69,47.14,33.74,Healthy
+4940,Pepper,Yellowish,7.3,55.54,30.21,Healthy
+4941,Potato,Yellowish,3.61,91.21,38.93,Mild Infection
+4942,Cucumber,Green,4.48,80.63,37.65,Mild Infection
+4943,Pepper,Green,2.3,62.87,36.71,Healthy
+4944,Potato,Dark Green,5.61,60.49,23.07,Mild Infection
+4945,Potato,Yellowish,4.09,57.61,38.1,Healthy
+4946,Cucumber,Dark Green,8.07,46.24,23.45,Healthy
+4947,Cucumber,Dark Green,9.11,61.24,39.0,Mild Infection
+4948,Potato,Yellowish,6.27,63.54,22.34,Mild Infection
+4949,Potato,Dark Green,0.18,46.9,35.3,Healthy
+4950,Potato,Dark Green,3.13,58.21,34.29,Healthy
+4951,Pepper,Dark Green,6.29,69.14,24.38,Mild Infection
+4952,Pepper,Yellowish,0.0,76.02,24.23,Healthy
+4953,Tomato,Yellowish,2.34,91.35,37.08,Healthy
+4954,Tomato,Dark Green,7.91,70.86,28.46,Mild Infection
+4955,Potato,Green,6.91,57.08,31.55,Healthy
+4956,Pepper,Dark Green,4.03,88.15,27.14,Mild Infection
+4957,Potato,Dark Green,1.14,70.31,33.59,Healthy
+4958,Pepper,Yellowish,5.34,57.65,23.55,Healthy
+4959,Tomato,Yellowish,1.81,91.87,35.49,Healthy
+4960,Potato,Dark Green,7.83,61.17,26.85,Mild Infection
+4961,Tomato,Yellowish,4.81,46.97,27.25,Healthy
+4962,Pepper,Dark Green,6.86,59.98,19.15,Healthy
+4963,Pepper,Green,8.03,50.71,35.95,Healthy
+4964,Cucumber,Yellowish,2.88,56.41,32.04,Healthy
+4965,Cucumber,Green,0.95,80.18,18.89,Healthy
+4966,Pepper,Green,3.4,40.1,22.92,Healthy
+4967,Cucumber,Green,3.35,68.79,22.5,Mild Infection
+4968,Cucumber,Dark Green,6.95,41.08,20.97,Healthy
+4969,Potato,Dark Green,7.58,52.69,25.72,Healthy
+4970,Tomato,Green,6.84,77.89,30.47,Severe Infection
+4971,Pepper,Yellowish,4.06,91.2,20.44,Mild Infection
+4972,Potato,Dark Green,4.68,63.94,38.83,Mild Infection
+4973,Pepper,Dark Green,9.27,84.6,39.58,Severe Infection
+4974,Tomato,Green,6.89,60.18,20.33,Mild Infection
+4975,Pepper,Green,1.93,80.34,37.17,Healthy
+4976,Pepper,Green,5.51,89.38,25.7,Mild Infection
+4977,Potato,Yellowish,5.25,46.92,30.97,Healthy
+4978,Pepper,Green,1.11,68.97,25.13,Healthy
+4979,Cucumber,Green,6.29,78.65,35.44,Severe Infection
+4980,Potato,Yellowish,0.24,79.06,32.9,Healthy
+4981,Tomato,Dark Green,2.16,58.31,32.73,Healthy
+4982,Tomato,Yellowish,9.21,90.23,35.55,Severe Infection
+4983,Cucumber,Dark Green,4.13,40.59,31.7,Healthy
+4984,Potato,Green,7.94,93.96,31.5,Severe Infection
+4985,Cucumber,Dark Green,0.22,50.09,34.68,Healthy
+4986,Cucumber,Yellowish,3.65,40.77,32.46,Healthy
+4987,Cucumber,Green,1.08,78.28,25.53,Healthy
+4988,Pepper,Green,7.42,72.39,29.45,Mild Infection
+4989,Pepper,Yellowish,1.79,47.76,31.39,Healthy
+4990,Cucumber,Green,8.1,41.38,33.9,Healthy
+4991,Pepper,Yellowish,6.72,47.02,37.87,Healthy
+4992,Cucumber,Yellowish,7.85,64.59,27.61,Mild Infection
+4993,Cucumber,Green,8.3,68.65,36.4,Mild Infection
+4994,Tomato,Dark Green,7.88,41.56,36.23,Healthy
+4995,Tomato,Dark Green,0.4,78.98,22.73,Healthy
+4996,Cucumber,Dark Green,4.18,49.82,25.43,Healthy
+4997,Pepper,Yellowish,0.29,66.22,23.95,Healthy
+4998,Potato,Yellowish,8.67,61.77,24.57,Mild Infection
+4999,Pepper,Dark Green,1.31,87.18,28.89,Healthy
+5000,Potato,Green,8.25,64.27,19.43,Mild Infection
+5001,Cucumber,Green,7.44,87.53,28.22,Severe Infection
+5002,Potato,Green,7.86,84.17,27.5,Severe Infection
+5003,Pepper,Yellowish,5.76,58.44,31.38,Healthy
+5004,Cucumber,Green,9.68,49.89,28.29,Healthy
+5005,Pepper,Yellowish,0.98,80.22,37.18,Healthy
+5006,Tomato,Dark Green,4.9,92.93,36.35,Mild Infection
+5007,Tomato,Dark Green,4.7,59.14,37.63,Healthy
+5008,Pepper,Green,3.62,94.98,36.55,Mild Infection
+5009,Cucumber,Dark Green,6.51,74.44,33.49,Mild Infection
+5010,Tomato,Green,1.56,74.01,20.49,Healthy
+5011,Cucumber,Yellowish,5.81,61.83,34.36,Mild Infection
+5012,Potato,Dark Green,5.76,49.39,22.99,Healthy
+5013,Cucumber,Yellowish,6.63,68.32,21.75,Mild Infection
+5014,Cucumber,Green,9.76,54.19,28.81,Healthy
+5015,Cucumber,Green,6.06,72.73,19.98,Mild Infection
+5016,Potato,Yellowish,0.65,81.04,21.86,Healthy
+5017,Cucumber,Dark Green,8.07,59.68,24.06,Healthy
+5018,Tomato,Green,8.46,57.44,36.7,Healthy
+5019,Potato,Yellowish,4.24,85.79,36.72,Mild Infection
+5020,Potato,Yellowish,3.44,40.09,29.51,Healthy
+5021,Cucumber,Yellowish,9.55,82.48,34.75,Severe Infection
+5022,Pepper,Yellowish,5.72,81.84,21.3,Mild Infection
+5023,Potato,Dark Green,3.09,40.63,20.87,Healthy
+5024,Pepper,Yellowish,1.3,94.22,24.79,Healthy
+5025,Pepper,Dark Green,8.62,72.32,19.41,Mild Infection
+5026,Cucumber,Dark Green,7.28,50.55,25.34,Healthy
+5027,Cucumber,Yellowish,0.53,43.95,34.44,Healthy
+5028,Cucumber,Green,2.61,54.3,30.93,Healthy
+5029,Potato,Dark Green,8.96,53.31,24.13,Healthy
+5030,Tomato,Yellowish,9.12,80.19,38.2,Severe Infection
+5031,Pepper,Green,2.04,50.88,36.55,Healthy
+5032,Tomato,Yellowish,5.33,77.71,34.7,Mild Infection
+5033,Potato,Yellowish,3.09,92.43,20.22,Mild Infection
+5034,Pepper,Yellowish,2.82,40.84,22.84,Healthy
+5035,Cucumber,Green,6.77,89.93,33.87,Severe Infection
+5036,Potato,Green,3.92,83.01,21.42,Mild Infection
+5037,Tomato,Green,3.17,46.07,27.23,Healthy
+5038,Pepper,Green,2.32,45.03,29.31,Healthy
+5039,Cucumber,Green,9.39,47.43,28.31,Healthy
+5040,Pepper,Green,5.56,93.79,39.87,Mild Infection
+5041,Pepper,Green,3.09,57.39,27.34,Healthy
+5042,Potato,Dark Green,7.87,76.58,33.2,Severe Infection
+5043,Tomato,Green,9.23,59.81,39.3,Healthy
+5044,Pepper,Dark Green,0.48,64.86,36.86,Healthy
+5045,Cucumber,Green,4.57,92.58,38.31,Mild Infection
+5046,Tomato,Green,1.57,64.88,27.34,Healthy
+5047,Potato,Yellowish,4.44,69.56,18.5,Mild Infection
+5048,Cucumber,Green,9.1,77.4,31.97,Severe Infection
+5049,Tomato,Yellowish,5.41,70.64,35.32,Mild Infection
+5050,Pepper,Green,7.34,55.69,39.03,Healthy
+5051,Tomato,Green,5.95,47.02,36.91,Healthy
+5052,Cucumber,Dark Green,8.46,84.87,35.66,Severe Infection
+5053,Tomato,Yellowish,0.66,92.78,25.86,Healthy
+5054,Pepper,Dark Green,3.57,94.61,30.39,Mild Infection
+5055,Cucumber,Yellowish,4.19,54.13,32.61,Healthy
+5056,Tomato,Green,2.93,77.61,35.42,Healthy
+5057,Tomato,Dark Green,2.02,66.83,24.92,Healthy
+5058,Cucumber,Green,2.69,61.33,24.31,Healthy
+5059,Pepper,Dark Green,1.73,43.84,32.91,Healthy
+5060,Tomato,Green,7.68,43.38,23.94,Healthy
+5061,Tomato,Yellowish,8.74,65.5,28.35,Mild Infection
+5062,Tomato,Green,8.47,68.22,32.76,Mild Infection
+5063,Pepper,Dark Green,7.4,62.16,37.96,Mild Infection
+5064,Pepper,Yellowish,5.21,69.13,25.65,Mild Infection
+5065,Pepper,Yellowish,8.61,63.01,33.71,Mild Infection
+5066,Potato,Green,2.5,62.44,33.12,Healthy
+5067,Tomato,Dark Green,9.11,88.26,27.2,Severe Infection
+5068,Tomato,Dark Green,9.5,45.84,23.13,Healthy
+5069,Cucumber,Dark Green,1.61,45.37,18.33,Healthy
+5070,Tomato,Yellowish,6.36,72.03,39.69,Mild Infection
+5071,Cucumber,Dark Green,2.6,83.99,25.6,Healthy
+5072,Cucumber,Yellowish,8.95,65.7,23.28,Mild Infection
+5073,Potato,Green,8.0,55.91,35.8,Healthy
+5074,Potato,Yellowish,8.27,73.36,31.29,Mild Infection
+5075,Tomato,Green,4.96,70.06,30.18,Mild Infection
+5076,Cucumber,Green,4.08,91.0,30.95,Mild Infection
+5077,Tomato,Yellowish,5.0,82.24,39.14,Mild Infection
+5078,Potato,Dark Green,8.97,64.24,28.54,Mild Infection
+5079,Potato,Dark Green,4.12,88.42,27.54,Mild Infection
+5080,Pepper,Green,5.59,67.39,30.19,Mild Infection
+5081,Potato,Green,8.11,49.76,23.55,Healthy
+5082,Cucumber,Dark Green,2.14,47.48,28.95,Healthy
+5083,Pepper,Yellowish,7.1,57.9,21.16,Healthy
+5084,Cucumber,Yellowish,8.08,47.91,18.2,Healthy
+5085,Pepper,Yellowish,4.17,61.71,33.1,Mild Infection
+5086,Potato,Dark Green,5.24,57.02,31.34,Healthy
+5087,Potato,Green,5.19,54.51,18.27,Healthy
+5088,Tomato,Dark Green,4.71,92.96,30.97,Mild Infection
+5089,Pepper,Green,3.23,91.03,36.22,Mild Infection
+5090,Tomato,Green,7.44,54.44,29.1,Healthy
+5091,Pepper,Dark Green,8.06,43.73,33.92,Healthy
+5092,Cucumber,Dark Green,8.89,76.53,27.39,Severe Infection
+5093,Cucumber,Yellowish,8.83,68.9,33.21,Mild Infection
+5094,Tomato,Green,7.27,77.55,33.42,Severe Infection
+5095,Potato,Yellowish,3.56,62.21,22.72,Mild Infection
+5096,Cucumber,Yellowish,2.52,49.68,34.35,Healthy
+5097,Cucumber,Green,0.8,94.01,26.6,Healthy
+5098,Cucumber,Green,4.19,72.49,31.19,Mild Infection
+5099,Potato,Yellowish,5.05,42.97,29.36,Healthy
+5100,Cucumber,Yellowish,7.08,66.44,38.49,Mild Infection
+5101,Cucumber,Green,8.32,50.83,35.1,Healthy
+5102,Potato,Dark Green,7.4,51.73,26.47,Healthy
+5103,Potato,Yellowish,5.23,41.08,32.77,Healthy
+5104,Tomato,Dark Green,0.26,72.47,19.54,Healthy
+5105,Tomato,Dark Green,8.46,69.59,37.97,Mild Infection
+5106,Pepper,Dark Green,7.05,42.04,29.78,Healthy
+5107,Cucumber,Dark Green,7.72,46.11,24.13,Healthy
+5108,Pepper,Dark Green,1.64,84.66,25.03,Healthy
+5109,Tomato,Yellowish,1.17,64.88,18.35,Healthy
+5110,Pepper,Green,9.65,46.25,25.51,Healthy
+5111,Cucumber,Dark Green,3.23,74.52,25.84,Mild Infection
+5112,Cucumber,Dark Green,1.58,67.52,28.64,Healthy
+5113,Tomato,Yellowish,1.47,67.1,25.46,Healthy
+5114,Potato,Dark Green,2.19,81.4,24.2,Healthy
+5115,Tomato,Dark Green,4.02,46.76,22.47,Healthy
+5116,Pepper,Dark Green,7.09,59.04,32.4,Healthy
+5117,Tomato,Yellowish,3.42,59.65,30.7,Healthy
+5118,Tomato,Dark Green,7.03,56.58,39.3,Healthy
+5119,Potato,Dark Green,5.34,62.92,26.48,Mild Infection
+5120,Cucumber,Green,6.55,72.09,19.35,Mild Infection
+5121,Potato,Dark Green,3.09,82.9,32.67,Mild Infection
+5122,Tomato,Green,3.52,83.91,35.23,Mild Infection
+5123,Tomato,Dark Green,0.83,70.79,18.18,Healthy
+5124,Cucumber,Dark Green,9.92,50.2,29.26,Healthy
+5125,Cucumber,Green,4.97,43.37,29.56,Healthy
+5126,Tomato,Green,9.95,90.61,27.7,Severe Infection
+5127,Tomato,Yellowish,4.54,73.44,20.3,Mild Infection
+5128,Pepper,Dark Green,8.24,85.96,35.25,Severe Infection
+5129,Pepper,Dark Green,4.52,85.8,22.42,Mild Infection
+5130,Tomato,Yellowish,2.24,75.06,33.76,Healthy
+5131,Potato,Green,1.54,90.42,30.32,Healthy
+5132,Pepper,Dark Green,8.17,90.32,21.73,Severe Infection
+5133,Tomato,Dark Green,5.46,91.61,38.11,Mild Infection
+5134,Cucumber,Dark Green,4.29,40.4,19.34,Healthy
+5135,Cucumber,Dark Green,4.94,85.75,39.57,Mild Infection
+5136,Pepper,Green,9.42,67.66,19.14,Mild Infection
+5137,Tomato,Yellowish,3.39,57.88,21.48,Healthy
+5138,Cucumber,Dark Green,6.38,73.37,31.79,Mild Infection
+5139,Cucumber,Green,1.96,48.13,27.42,Healthy
+5140,Cucumber,Dark Green,8.31,84.28,18.43,Severe Infection
+5141,Tomato,Green,7.35,93.61,31.29,Severe Infection
+5142,Cucumber,Green,8.28,42.1,31.53,Healthy
+5143,Potato,Yellowish,1.64,72.69,31.06,Healthy
+5144,Pepper,Dark Green,2.27,93.9,26.66,Healthy
+5145,Potato,Dark Green,6.44,76.72,31.41,Severe Infection
+5146,Cucumber,Green,7.56,77.76,26.06,Severe Infection
+5147,Cucumber,Green,3.03,87.5,38.44,Mild Infection
+5148,Pepper,Yellowish,2.46,82.98,38.48,Healthy
+5149,Cucumber,Green,0.05,55.1,36.13,Healthy
+5150,Pepper,Dark Green,6.45,58.66,25.1,Healthy
+5151,Tomato,Dark Green,1.92,58.75,35.27,Healthy
+5152,Pepper,Green,7.75,76.0,38.99,Severe Infection
+5153,Tomato,Green,4.26,69.24,22.11,Mild Infection
+5154,Pepper,Green,3.94,77.31,31.37,Mild Infection
+5155,Tomato,Green,7.2,70.49,25.23,Mild Infection
+5156,Pepper,Green,6.37,81.52,32.27,Severe Infection
+5157,Pepper,Yellowish,3.76,40.63,33.32,Healthy
+5158,Cucumber,Dark Green,6.42,68.19,28.09,Mild Infection
+5159,Cucumber,Green,0.97,70.73,31.75,Healthy
+5160,Tomato,Green,5.63,83.49,26.23,Mild Infection
+5161,Cucumber,Green,6.9,42.27,23.52,Healthy
+5162,Pepper,Dark Green,4.02,70.76,29.71,Mild Infection
+5163,Tomato,Yellowish,9.28,46.51,34.73,Healthy
+5164,Tomato,Green,0.9,76.27,38.12,Healthy
+5165,Potato,Yellowish,2.93,73.92,31.17,Healthy
+5166,Potato,Yellowish,5.34,83.71,20.48,Mild Infection
+5167,Pepper,Dark Green,8.08,87.99,29.17,Severe Infection
+5168,Potato,Yellowish,2.82,46.88,18.91,Healthy
+5169,Potato,Dark Green,5.21,70.82,18.48,Mild Infection
+5170,Potato,Dark Green,2.12,86.54,34.19,Healthy
+5171,Cucumber,Dark Green,2.57,57.4,39.47,Healthy
+5172,Cucumber,Green,5.71,41.65,26.74,Healthy
+5173,Cucumber,Dark Green,5.47,68.42,36.02,Mild Infection
+5174,Potato,Dark Green,9.51,57.33,30.66,Healthy
+5175,Potato,Dark Green,5.81,79.11,24.5,Mild Infection
+5176,Pepper,Green,7.37,84.65,34.32,Severe Infection
+5177,Cucumber,Yellowish,9.3,85.36,24.07,Severe Infection
+5178,Pepper,Green,5.15,87.17,23.86,Mild Infection
+5179,Pepper,Dark Green,7.18,76.31,36.39,Severe Infection
+5180,Cucumber,Yellowish,7.05,42.48,38.54,Healthy
+5181,Potato,Green,3.29,58.19,34.61,Healthy
+5182,Tomato,Green,2.26,61.95,39.56,Healthy
+5183,Tomato,Dark Green,8.74,45.61,31.23,Healthy
+5184,Tomato,Green,8.14,64.81,38.04,Mild Infection
+5185,Potato,Dark Green,3.24,71.7,35.42,Mild Infection
+5186,Potato,Yellowish,1.45,47.45,24.41,Healthy
+5187,Tomato,Dark Green,9.43,52.25,33.78,Healthy
+5188,Tomato,Yellowish,6.24,53.14,18.92,Healthy
+5189,Cucumber,Dark Green,5.51,62.12,32.17,Mild Infection
+5190,Pepper,Dark Green,8.8,61.88,27.42,Mild Infection
+5191,Cucumber,Green,5.85,89.12,33.82,Mild Infection
+5192,Potato,Yellowish,7.46,92.28,23.38,Severe Infection
+5193,Pepper,Dark Green,5.52,54.77,35.09,Healthy
+5194,Potato,Yellowish,6.17,57.76,28.59,Healthy
+5195,Cucumber,Dark Green,5.11,50.91,39.16,Healthy
+5196,Cucumber,Dark Green,4.07,62.61,25.81,Mild Infection
+5197,Tomato,Dark Green,4.97,69.93,29.96,Mild Infection
+5198,Potato,Green,6.56,75.25,24.83,Severe Infection
+5199,Pepper,Green,5.57,57.5,23.28,Healthy
+5200,Potato,Dark Green,2.19,91.33,25.34,Healthy
+5201,Pepper,Green,3.49,55.23,29.77,Healthy
+5202,Tomato,Green,0.3,54.62,27.65,Healthy
+5203,Potato,Yellowish,5.46,74.2,31.23,Mild Infection
+5204,Pepper,Yellowish,0.48,91.41,18.19,Healthy
+5205,Tomato,Yellowish,6.72,49.2,21.99,Healthy
+5206,Tomato,Dark Green,3.11,94.55,22.99,Mild Infection
+5207,Tomato,Green,5.55,85.75,28.34,Mild Infection
+5208,Potato,Green,7.39,86.05,20.05,Severe Infection
+5209,Cucumber,Yellowish,8.77,67.81,27.09,Mild Infection
+5210,Cucumber,Dark Green,4.04,88.14,29.27,Mild Infection
+5211,Potato,Dark Green,3.75,78.54,38.39,Mild Infection
+5212,Potato,Green,0.04,70.52,35.52,Healthy
+5213,Pepper,Yellowish,9.11,58.12,29.81,Healthy
+5214,Cucumber,Dark Green,5.89,47.01,20.05,Healthy
+5215,Tomato,Green,9.27,54.65,37.79,Healthy
+5216,Cucumber,Yellowish,7.37,88.97,26.45,Severe Infection
+5217,Potato,Yellowish,4.54,46.74,38.41,Healthy
+5218,Potato,Yellowish,3.39,48.47,31.75,Healthy
+5219,Pepper,Green,8.41,62.8,18.33,Mild Infection
+5220,Pepper,Dark Green,4.48,47.65,23.21,Healthy
+5221,Tomato,Dark Green,8.33,54.77,29.76,Healthy
+5222,Cucumber,Yellowish,7.71,53.67,24.69,Healthy
+5223,Pepper,Dark Green,7.75,53.32,21.72,Healthy
+5224,Potato,Yellowish,3.31,82.47,27.56,Mild Infection
+5225,Cucumber,Green,2.8,42.46,24.52,Healthy
+5226,Cucumber,Dark Green,5.22,55.9,24.81,Healthy
+5227,Pepper,Yellowish,9.77,44.21,35.83,Healthy
+5228,Cucumber,Green,4.18,41.3,19.76,Healthy
+5229,Potato,Green,8.46,79.68,19.94,Severe Infection
+5230,Cucumber,Green,4.04,73.6,36.05,Mild Infection
+5231,Cucumber,Dark Green,5.38,68.16,30.07,Mild Infection
+5232,Tomato,Yellowish,0.18,76.77,31.86,Healthy
+5233,Pepper,Green,8.47,54.58,28.89,Healthy
+5234,Cucumber,Green,4.94,49.87,34.84,Healthy
+5235,Potato,Green,3.48,61.85,23.91,Mild Infection
+5236,Cucumber,Yellowish,6.02,70.53,37.89,Mild Infection
+5237,Pepper,Yellowish,7.25,60.34,32.27,Mild Infection
+5238,Potato,Yellowish,4.29,88.66,31.56,Mild Infection
+5239,Pepper,Dark Green,2.08,91.83,34.61,Healthy
+5240,Potato,Dark Green,7.66,84.53,33.3,Severe Infection
+5241,Pepper,Yellowish,2.11,79.41,26.5,Healthy
+5242,Cucumber,Green,3.44,72.46,33.3,Mild Infection
+5243,Cucumber,Green,3.83,88.63,28.39,Mild Infection
+5244,Cucumber,Yellowish,3.25,73.23,37.36,Mild Infection
+5245,Potato,Yellowish,8.76,46.18,25.65,Healthy
+5246,Tomato,Dark Green,8.35,44.3,35.34,Healthy
+5247,Cucumber,Dark Green,5.2,86.99,33.11,Mild Infection
+5248,Pepper,Green,2.85,63.06,22.27,Healthy
+5249,Pepper,Dark Green,7.91,69.22,35.72,Mild Infection
+5250,Cucumber,Yellowish,8.74,50.55,19.1,Healthy
+5251,Cucumber,Yellowish,4.09,53.57,33.3,Healthy
+5252,Potato,Green,3.01,56.39,18.26,Healthy
+5253,Pepper,Yellowish,8.77,60.68,29.77,Mild Infection
+5254,Cucumber,Yellowish,0.71,76.56,25.46,Healthy
+5255,Potato,Green,6.34,79.58,20.07,Severe Infection
+5256,Pepper,Green,1.29,82.03,29.87,Healthy
+5257,Pepper,Yellowish,5.6,77.78,24.47,Mild Infection
+5258,Tomato,Yellowish,2.32,49.19,26.96,Healthy
+5259,Tomato,Green,7.02,72.81,19.91,Mild Infection
+5260,Cucumber,Green,8.97,43.26,24.72,Healthy
+5261,Tomato,Yellowish,8.34,82.36,21.11,Severe Infection
+5262,Pepper,Green,3.75,51.72,31.55,Healthy
+5263,Tomato,Dark Green,6.24,41.67,39.97,Healthy
+5264,Cucumber,Dark Green,9.25,43.27,24.01,Healthy
+5265,Pepper,Green,2.63,76.39,39.99,Healthy
+5266,Potato,Green,1.49,78.3,21.62,Healthy
+5267,Cucumber,Dark Green,0.7,61.22,33.71,Healthy
+5268,Potato,Green,7.16,42.45,39.35,Healthy
+5269,Tomato,Dark Green,6.26,57.53,27.87,Healthy
+5270,Potato,Yellowish,6.73,59.52,19.6,Healthy
+5271,Pepper,Green,0.76,56.77,39.78,Healthy
+5272,Potato,Green,4.58,64.65,27.83,Mild Infection
+5273,Tomato,Green,2.82,79.36,33.87,Healthy
+5274,Tomato,Yellowish,1.21,57.43,33.95,Healthy
+5275,Tomato,Yellowish,6.46,57.37,31.07,Healthy
+5276,Pepper,Yellowish,6.89,44.28,26.22,Healthy
+5277,Pepper,Dark Green,1.06,40.43,34.57,Healthy
+5278,Pepper,Green,5.03,40.15,27.52,Healthy
+5279,Cucumber,Yellowish,1.69,56.28,33.63,Healthy
+5280,Cucumber,Yellowish,2.1,71.45,30.85,Healthy
+5281,Pepper,Yellowish,0.95,65.56,31.54,Healthy
+5282,Potato,Dark Green,4.64,91.1,26.32,Mild Infection
+5283,Pepper,Dark Green,1.6,73.49,24.34,Healthy
+5284,Pepper,Yellowish,6.98,69.28,19.67,Mild Infection
+5285,Tomato,Green,7.2,50.4,28.33,Healthy
+5286,Tomato,Dark Green,6.1,61.75,25.09,Mild Infection
+5287,Pepper,Yellowish,4.65,55.65,25.99,Healthy
+5288,Cucumber,Dark Green,0.78,94.39,38.88,Healthy
+5289,Potato,Green,0.21,52.51,22.97,Healthy
+5290,Pepper,Green,0.71,76.89,31.26,Healthy
+5291,Tomato,Yellowish,7.87,51.57,24.39,Healthy
+5292,Potato,Dark Green,4.16,42.43,26.67,Healthy
+5293,Potato,Dark Green,7.04,85.48,20.16,Severe Infection
+5294,Pepper,Dark Green,2.48,57.05,38.52,Healthy
+5295,Tomato,Dark Green,7.86,55.13,29.16,Healthy
+5296,Potato,Yellowish,2.49,86.13,30.81,Healthy
+5297,Potato,Dark Green,4.39,79.04,18.24,Mild Infection
+5298,Cucumber,Green,1.02,85.36,26.85,Healthy
+5299,Potato,Green,3.37,42.82,26.36,Healthy
+5300,Potato,Yellowish,2.21,80.86,19.12,Healthy
+5301,Tomato,Dark Green,1.53,58.55,18.31,Healthy
+5302,Potato,Dark Green,4.55,43.77,29.24,Healthy
+5303,Cucumber,Green,7.39,68.06,20.81,Mild Infection
+5304,Tomato,Dark Green,4.98,54.46,26.26,Healthy
+5305,Potato,Dark Green,0.19,53.3,26.77,Healthy
+5306,Pepper,Green,3.58,52.53,28.78,Healthy
+5307,Pepper,Dark Green,1.53,41.24,23.36,Healthy
+5308,Cucumber,Green,4.49,65.71,26.89,Mild Infection
+5309,Pepper,Green,2.9,86.76,33.54,Healthy
+5310,Potato,Green,2.79,90.68,27.31,Healthy
+5311,Pepper,Green,3.3,80.79,26.5,Mild Infection
+5312,Potato,Dark Green,9.57,52.84,39.88,Healthy
+5313,Cucumber,Green,9.13,77.86,24.49,Severe Infection
+5314,Potato,Yellowish,6.03,84.04,38.2,Severe Infection
+5315,Cucumber,Dark Green,6.68,83.54,22.25,Severe Infection
+5316,Potato,Yellowish,7.82,60.7,32.79,Mild Infection
+5317,Tomato,Green,2.87,72.44,22.41,Healthy
+5318,Cucumber,Dark Green,9.22,66.32,33.38,Mild Infection
+5319,Pepper,Dark Green,9.31,89.62,38.18,Severe Infection
+5320,Potato,Green,3.59,62.02,37.15,Mild Infection
+5321,Cucumber,Dark Green,4.12,46.49,19.24,Healthy
+5322,Tomato,Dark Green,6.98,83.05,28.02,Severe Infection
+5323,Tomato,Yellowish,5.8,48.8,26.76,Healthy
+5324,Pepper,Dark Green,3.26,72.29,28.48,Mild Infection
+5325,Tomato,Green,0.21,44.11,38.12,Healthy
+5326,Pepper,Dark Green,2.56,65.43,27.08,Healthy
+5327,Tomato,Dark Green,6.6,55.11,20.41,Healthy
+5328,Pepper,Dark Green,9.0,82.19,22.55,Severe Infection
+5329,Cucumber,Yellowish,7.81,69.26,35.8,Mild Infection
+5330,Tomato,Yellowish,9.66,90.14,29.05,Severe Infection
+5331,Cucumber,Green,1.41,87.58,29.0,Healthy
+5332,Potato,Green,1.47,75.62,27.28,Healthy
+5333,Potato,Green,0.74,40.96,34.15,Healthy
+5334,Tomato,Yellowish,5.19,83.62,20.92,Mild Infection
+5335,Cucumber,Green,3.37,54.33,21.58,Healthy
+5336,Cucumber,Green,4.58,71.64,20.88,Mild Infection
+5337,Pepper,Yellowish,8.39,86.31,24.9,Severe Infection
+5338,Pepper,Dark Green,6.22,79.96,29.22,Severe Infection
+5339,Pepper,Dark Green,4.57,82.25,27.35,Mild Infection
+5340,Pepper,Green,3.49,85.75,32.51,Mild Infection
+5341,Potato,Yellowish,8.41,75.33,38.48,Severe Infection
+5342,Potato,Dark Green,2.22,67.05,34.91,Healthy
+5343,Cucumber,Yellowish,1.97,53.35,39.82,Healthy
+5344,Tomato,Green,9.71,90.89,21.23,Severe Infection
+5345,Tomato,Yellowish,6.34,88.65,22.72,Severe Infection
+5346,Potato,Green,7.66,94.23,21.97,Severe Infection
+5347,Pepper,Dark Green,7.94,49.66,27.27,Healthy
+5348,Pepper,Dark Green,3.99,69.56,39.89,Mild Infection
+5349,Pepper,Green,4.32,89.83,18.91,Mild Infection
+5350,Tomato,Dark Green,2.11,82.26,19.96,Healthy
+5351,Cucumber,Green,5.17,41.1,23.56,Healthy
+5352,Potato,Green,8.69,66.85,33.66,Mild Infection
+5353,Cucumber,Green,2.37,58.01,20.99,Healthy
+5354,Tomato,Dark Green,3.05,93.43,28.26,Mild Infection
+5355,Tomato,Dark Green,5.94,56.76,23.64,Healthy
+5356,Potato,Yellowish,0.32,54.28,32.55,Healthy
+5357,Cucumber,Yellowish,7.65,56.14,37.31,Healthy
+5358,Tomato,Yellowish,6.49,67.59,24.04,Mild Infection
+5359,Tomato,Dark Green,9.94,87.46,28.46,Severe Infection
+5360,Tomato,Yellowish,7.71,66.16,29.81,Mild Infection
+5361,Cucumber,Dark Green,1.63,62.51,37.7,Healthy
+5362,Potato,Dark Green,8.9,46.54,18.33,Healthy
+5363,Pepper,Green,8.59,80.13,35.84,Severe Infection
+5364,Potato,Dark Green,1.15,56.17,33.63,Healthy
+5365,Tomato,Green,5.91,86.64,26.09,Mild Infection
+5366,Potato,Yellowish,7.36,89.72,29.61,Severe Infection
+5367,Potato,Yellowish,4.83,92.23,37.13,Mild Infection
+5368,Pepper,Green,3.66,48.5,26.81,Healthy
+5369,Cucumber,Green,7.28,76.6,39.52,Severe Infection
+5370,Tomato,Dark Green,2.88,58.43,18.76,Healthy
+5371,Pepper,Dark Green,2.1,68.43,23.79,Healthy
+5372,Potato,Green,7.79,67.3,27.2,Mild Infection
+5373,Cucumber,Dark Green,5.63,71.6,36.09,Mild Infection
+5374,Potato,Green,3.7,51.95,33.71,Healthy
+5375,Pepper,Yellowish,7.17,50.12,24.51,Healthy
+5376,Potato,Dark Green,7.94,84.1,34.46,Severe Infection
+5377,Tomato,Dark Green,8.62,71.53,22.85,Mild Infection
+5378,Tomato,Green,5.58,60.52,21.27,Mild Infection
+5379,Tomato,Dark Green,6.31,92.99,38.03,Severe Infection
+5380,Potato,Yellowish,6.06,89.95,20.13,Severe Infection
+5381,Tomato,Dark Green,2.12,91.62,20.7,Healthy
+5382,Pepper,Yellowish,8.7,63.87,24.11,Mild Infection
+5383,Cucumber,Green,0.92,73.77,29.7,Healthy
+5384,Cucumber,Dark Green,8.93,94.97,36.38,Severe Infection
+5385,Cucumber,Green,0.03,45.67,23.0,Healthy
+5386,Pepper,Yellowish,6.77,45.97,28.4,Healthy
+5387,Pepper,Green,0.8,77.24,22.38,Healthy
+5388,Cucumber,Green,3.31,55.91,23.58,Healthy
+5389,Potato,Dark Green,5.12,68.13,27.68,Mild Infection
+5390,Potato,Yellowish,1.66,61.29,23.53,Healthy
+5391,Cucumber,Yellowish,6.67,80.8,34.65,Severe Infection
+5392,Cucumber,Yellowish,4.84,72.34,30.56,Mild Infection
+5393,Potato,Dark Green,6.0,59.93,34.23,Healthy
+5394,Potato,Green,5.68,56.71,25.41,Healthy
+5395,Pepper,Dark Green,8.43,91.29,34.5,Severe Infection
+5396,Potato,Yellowish,6.16,61.44,26.64,Mild Infection
+5397,Pepper,Yellowish,8.7,57.16,38.02,Healthy
+5398,Cucumber,Yellowish,0.33,57.86,24.45,Healthy
+5399,Potato,Yellowish,4.71,64.77,25.15,Mild Infection
+5400,Tomato,Dark Green,8.98,46.85,36.87,Healthy
+5401,Potato,Green,3.74,61.86,22.78,Mild Infection
+5402,Cucumber,Dark Green,4.77,49.69,31.36,Healthy
+5403,Pepper,Dark Green,7.63,41.77,32.17,Healthy
+5404,Cucumber,Green,9.28,88.73,34.04,Severe Infection
+5405,Pepper,Dark Green,0.07,67.68,18.31,Healthy
+5406,Potato,Green,1.77,45.54,23.72,Healthy
+5407,Cucumber,Yellowish,7.36,90.01,18.18,Severe Infection
+5408,Pepper,Green,2.02,55.35,30.75,Healthy
+5409,Cucumber,Green,6.16,67.76,39.46,Mild Infection
+5410,Cucumber,Green,3.11,92.77,22.58,Mild Infection
+5411,Cucumber,Dark Green,9.93,87.67,29.42,Severe Infection
+5412,Tomato,Yellowish,4.69,56.48,31.71,Healthy
+5413,Potato,Green,9.85,40.05,34.66,Healthy
+5414,Cucumber,Green,4.1,65.31,37.88,Mild Infection
+5415,Cucumber,Dark Green,8.21,58.76,22.13,Healthy
+5416,Pepper,Green,1.21,69.53,34.01,Healthy
+5417,Potato,Yellowish,6.81,48.15,32.38,Healthy
+5418,Tomato,Dark Green,9.9,89.49,36.0,Severe Infection
+5419,Potato,Dark Green,1.29,44.77,25.41,Healthy
+5420,Pepper,Dark Green,9.78,64.32,19.25,Mild Infection
+5421,Potato,Green,7.67,59.14,33.82,Healthy
+5422,Potato,Dark Green,0.63,40.93,31.6,Healthy
+5423,Potato,Green,3.48,75.76,24.87,Mild Infection
+5424,Cucumber,Green,4.16,93.82,39.24,Mild Infection
+5425,Pepper,Green,5.32,56.64,23.91,Healthy
+5426,Pepper,Dark Green,2.11,66.88,26.98,Healthy
+5427,Cucumber,Dark Green,6.75,58.76,29.92,Healthy
+5428,Potato,Green,2.85,65.44,30.23,Healthy
+5429,Pepper,Yellowish,6.69,74.38,23.56,Mild Infection
+5430,Cucumber,Dark Green,0.11,90.38,39.08,Healthy
+5431,Potato,Green,0.15,77.57,32.16,Healthy
+5432,Pepper,Green,0.16,48.0,36.42,Healthy
+5433,Tomato,Yellowish,4.4,51.04,20.37,Healthy
+5434,Tomato,Green,5.67,46.56,32.28,Healthy
+5435,Cucumber,Yellowish,9.25,41.75,28.32,Healthy
+5436,Cucumber,Green,7.84,74.37,35.16,Mild Infection
+5437,Pepper,Green,1.77,86.48,28.57,Healthy
+5438,Tomato,Dark Green,5.39,67.2,28.78,Mild Infection
+5439,Cucumber,Dark Green,8.34,52.75,37.83,Healthy
+5440,Cucumber,Green,3.92,73.89,28.44,Mild Infection
+5441,Pepper,Yellowish,4.45,77.09,26.9,Mild Infection
+5442,Cucumber,Dark Green,2.27,65.4,18.47,Healthy
+5443,Tomato,Dark Green,5.42,63.34,36.93,Mild Infection
+5444,Pepper,Dark Green,4.46,65.81,27.67,Mild Infection
+5445,Cucumber,Yellowish,8.91,69.62,23.51,Mild Infection
+5446,Pepper,Yellowish,1.71,86.7,37.24,Healthy
+5447,Tomato,Green,0.19,74.67,24.63,Healthy
+5448,Cucumber,Green,7.63,91.11,33.78,Severe Infection
+5449,Pepper,Yellowish,1.72,52.88,29.47,Healthy
+5450,Cucumber,Yellowish,2.05,57.68,21.51,Healthy
+5451,Pepper,Yellowish,5.05,80.06,28.52,Mild Infection
+5452,Tomato,Dark Green,8.91,77.45,37.74,Severe Infection
+5453,Potato,Yellowish,1.66,78.51,29.05,Healthy
+5454,Tomato,Dark Green,2.38,56.04,24.22,Healthy
+5455,Tomato,Green,4.73,87.74,31.88,Mild Infection
+5456,Tomato,Yellowish,3.8,73.4,27.15,Mild Infection
+5457,Tomato,Green,4.52,72.4,32.25,Mild Infection
+5458,Cucumber,Green,4.19,44.61,25.64,Healthy
+5459,Tomato,Yellowish,5.06,60.07,24.02,Mild Infection
+5460,Pepper,Yellowish,1.6,54.67,39.27,Healthy
+5461,Tomato,Yellowish,6.99,94.13,18.44,Severe Infection
+5462,Tomato,Green,6.66,83.62,38.29,Severe Infection
+5463,Pepper,Dark Green,0.84,67.58,37.21,Healthy
+5464,Cucumber,Green,9.42,77.41,32.72,Severe Infection
+5465,Potato,Yellowish,0.54,92.49,38.27,Healthy
+5466,Cucumber,Dark Green,7.79,84.72,31.45,Severe Infection
+5467,Potato,Green,5.84,67.32,18.91,Mild Infection
+5468,Tomato,Dark Green,5.85,73.2,35.61,Mild Infection
+5469,Potato,Yellowish,6.67,65.07,34.47,Mild Infection
+5470,Tomato,Green,9.56,79.23,21.61,Severe Infection
+5471,Potato,Dark Green,8.83,43.26,32.47,Healthy
+5472,Pepper,Dark Green,8.74,66.62,39.52,Mild Infection
+5473,Cucumber,Dark Green,8.06,53.8,34.25,Healthy
+5474,Pepper,Yellowish,7.13,60.24,19.71,Mild Infection
+5475,Tomato,Dark Green,6.45,42.56,18.1,Healthy
+5476,Cucumber,Dark Green,0.54,55.47,38.98,Healthy
+5477,Cucumber,Yellowish,0.8,63.49,30.2,Healthy
+5478,Tomato,Yellowish,2.54,63.25,35.61,Healthy
+5479,Cucumber,Green,0.6,83.26,39.43,Healthy
+5480,Tomato,Green,7.12,67.02,37.19,Mild Infection
+5481,Potato,Green,1.66,44.9,33.27,Healthy
+5482,Pepper,Green,3.5,53.75,27.18,Healthy
+5483,Potato,Dark Green,1.42,46.96,30.44,Healthy
+5484,Potato,Green,9.27,63.9,28.74,Mild Infection
+5485,Potato,Yellowish,6.89,66.82,30.72,Mild Infection
+5486,Pepper,Dark Green,0.72,85.16,27.58,Healthy
+5487,Potato,Dark Green,6.34,60.73,20.21,Mild Infection
+5488,Potato,Dark Green,8.68,88.83,39.07,Severe Infection
+5489,Tomato,Dark Green,3.66,60.91,36.01,Mild Infection
+5490,Potato,Green,5.03,60.08,37.9,Mild Infection
+5491,Pepper,Yellowish,0.53,72.53,31.93,Healthy
+5492,Cucumber,Dark Green,8.55,83.75,19.09,Severe Infection
+5493,Potato,Dark Green,1.94,87.41,37.66,Healthy
+5494,Potato,Green,8.93,93.66,37.1,Severe Infection
+5495,Tomato,Yellowish,5.45,69.79,32.22,Mild Infection
+5496,Cucumber,Dark Green,6.48,81.0,29.12,Severe Infection
+5497,Cucumber,Green,3.99,93.31,31.39,Mild Infection
+5498,Tomato,Dark Green,5.68,61.75,35.99,Mild Infection
+5499,Pepper,Dark Green,5.63,49.72,37.03,Healthy
+5500,Tomato,Green,1.94,43.98,24.5,Healthy
+5501,Tomato,Dark Green,6.43,61.05,21.46,Mild Infection
+5502,Potato,Yellowish,7.46,55.11,28.55,Healthy
+5503,Tomato,Green,7.47,56.11,25.61,Healthy
+5504,Pepper,Dark Green,8.89,60.7,24.53,Mild Infection
+5505,Cucumber,Green,6.6,76.87,39.78,Severe Infection
+5506,Cucumber,Yellowish,3.44,67.54,28.03,Mild Infection
+5507,Cucumber,Dark Green,9.73,81.78,36.77,Severe Infection
+5508,Cucumber,Dark Green,6.77,79.39,26.67,Severe Infection
+5509,Tomato,Yellowish,9.52,94.66,34.04,Severe Infection
+5510,Tomato,Yellowish,4.59,89.66,35.92,Mild Infection
+5511,Tomato,Dark Green,5.24,60.37,18.45,Mild Infection
+5512,Tomato,Green,9.11,68.89,39.43,Mild Infection
+5513,Potato,Yellowish,3.61,60.29,27.33,Mild Infection
+5514,Pepper,Yellowish,8.53,68.82,30.59,Mild Infection
+5515,Cucumber,Green,4.35,47.27,33.71,Healthy
+5516,Tomato,Dark Green,3.55,42.75,28.72,Healthy
+5517,Pepper,Green,2.45,78.21,34.93,Healthy
+5518,Potato,Green,9.37,86.68,18.22,Severe Infection
+5519,Potato,Green,0.09,57.7,23.42,Healthy
+5520,Cucumber,Green,5.09,79.1,24.68,Mild Infection
+5521,Potato,Green,7.9,65.44,31.23,Mild Infection
+5522,Cucumber,Yellowish,0.62,43.63,29.7,Healthy
+5523,Tomato,Green,7.13,64.91,29.28,Mild Infection
+5524,Cucumber,Yellowish,3.27,46.69,30.23,Healthy
+5525,Tomato,Yellowish,6.2,75.58,28.87,Severe Infection
+5526,Cucumber,Dark Green,5.34,80.69,33.53,Mild Infection
+5527,Potato,Yellowish,4.13,88.05,27.51,Mild Infection
+5528,Potato,Yellowish,8.92,72.04,19.56,Mild Infection
+5529,Tomato,Dark Green,9.53,81.16,34.69,Severe Infection
+5530,Cucumber,Green,3.31,72.83,27.41,Mild Infection
+5531,Pepper,Dark Green,1.05,70.95,28.54,Healthy
+5532,Pepper,Green,4.09,82.2,37.92,Mild Infection
+5533,Pepper,Green,1.59,87.6,24.52,Healthy
+5534,Pepper,Dark Green,5.83,62.1,30.67,Mild Infection
+5535,Pepper,Yellowish,3.1,45.77,36.88,Healthy
+5536,Cucumber,Dark Green,0.91,46.48,39.08,Healthy
+5537,Potato,Dark Green,8.5,42.56,33.51,Healthy
+5538,Pepper,Green,6.3,91.07,30.99,Severe Infection
+5539,Potato,Yellowish,9.06,56.32,25.79,Healthy
+5540,Potato,Yellowish,1.27,93.71,37.84,Healthy
+5541,Cucumber,Yellowish,4.72,62.54,39.8,Mild Infection
+5542,Tomato,Green,3.21,66.24,21.54,Mild Infection
+5543,Pepper,Yellowish,6.26,47.67,35.09,Healthy
+5544,Pepper,Dark Green,7.0,53.97,36.91,Healthy
+5545,Cucumber,Dark Green,4.74,73.53,20.0,Mild Infection
+5546,Tomato,Dark Green,9.11,51.46,32.55,Healthy
+5547,Pepper,Dark Green,0.24,62.95,39.18,Healthy
+5548,Potato,Yellowish,1.4,69.51,34.54,Healthy
+5549,Tomato,Green,9.29,61.43,29.25,Mild Infection
+5550,Cucumber,Dark Green,2.91,49.5,25.87,Healthy
+5551,Cucumber,Yellowish,7.14,61.83,24.67,Mild Infection
+5552,Potato,Dark Green,4.05,71.85,31.58,Mild Infection
+5553,Cucumber,Green,6.94,77.54,36.65,Severe Infection
+5554,Potato,Yellowish,1.68,79.45,34.82,Healthy
+5555,Potato,Green,5.29,66.68,23.64,Mild Infection
+5556,Potato,Dark Green,4.59,77.81,28.35,Mild Infection
+5557,Pepper,Green,3.19,61.58,25.97,Mild Infection
+5558,Tomato,Yellowish,1.81,67.32,31.2,Healthy
+5559,Pepper,Dark Green,8.33,55.11,34.07,Healthy
+5560,Potato,Dark Green,7.12,80.16,29.27,Severe Infection
+5561,Pepper,Green,0.7,75.83,23.7,Healthy
+5562,Potato,Yellowish,7.28,65.4,23.64,Mild Infection
+5563,Tomato,Yellowish,8.75,40.77,34.98,Healthy
+5564,Cucumber,Yellowish,0.15,92.29,31.15,Healthy
+5565,Tomato,Yellowish,1.04,47.87,38.34,Healthy
+5566,Potato,Dark Green,3.09,52.44,36.63,Healthy
+5567,Cucumber,Dark Green,2.25,42.12,20.82,Healthy
+5568,Cucumber,Yellowish,0.32,88.32,19.57,Healthy
+5569,Pepper,Dark Green,4.43,60.39,22.06,Mild Infection
+5570,Tomato,Green,5.89,94.01,20.12,Mild Infection
+5571,Pepper,Dark Green,1.16,69.59,32.57,Healthy
+5572,Pepper,Yellowish,7.62,55.8,38.68,Healthy
+5573,Potato,Dark Green,5.78,59.42,38.9,Healthy
+5574,Pepper,Dark Green,5.09,77.33,23.08,Mild Infection
+5575,Potato,Dark Green,3.72,78.16,26.68,Mild Infection
+5576,Cucumber,Green,3.64,49.74,31.95,Healthy
+5577,Tomato,Dark Green,3.64,81.61,31.43,Mild Infection
+5578,Pepper,Green,2.25,82.69,28.7,Healthy
+5579,Tomato,Green,2.29,49.1,35.1,Healthy
+5580,Cucumber,Green,8.32,76.11,18.41,Severe Infection
+5581,Cucumber,Green,7.23,68.35,23.75,Mild Infection
+5582,Potato,Dark Green,7.52,79.85,24.27,Severe Infection
+5583,Potato,Green,0.45,55.58,28.97,Healthy
+5584,Potato,Green,2.27,62.43,33.51,Healthy
+5585,Pepper,Yellowish,9.48,75.52,20.59,Severe Infection
+5586,Potato,Yellowish,7.71,94.98,28.91,Severe Infection
+5587,Pepper,Yellowish,3.01,51.77,18.13,Healthy
+5588,Cucumber,Green,3.12,64.34,28.86,Mild Infection
+5589,Tomato,Yellowish,6.69,57.47,25.94,Healthy
+5590,Potato,Dark Green,8.63,52.77,37.74,Healthy
+5591,Tomato,Yellowish,7.07,63.83,26.29,Mild Infection
+5592,Tomato,Green,2.52,50.79,32.77,Healthy
+5593,Cucumber,Dark Green,4.11,78.46,32.19,Mild Infection
+5594,Cucumber,Yellowish,0.89,91.83,39.7,Healthy
+5595,Cucumber,Yellowish,5.96,60.48,35.08,Mild Infection
+5596,Tomato,Yellowish,8.33,81.66,20.6,Severe Infection
+5597,Potato,Yellowish,7.0,71.75,37.57,Mild Infection
+5598,Cucumber,Dark Green,9.55,67.17,19.21,Mild Infection
+5599,Potato,Green,0.26,78.36,29.14,Healthy
+5600,Pepper,Green,2.29,86.85,29.53,Healthy
+5601,Tomato,Yellowish,5.07,59.99,23.62,Healthy
+5602,Potato,Green,6.51,71.62,37.58,Mild Infection
+5603,Cucumber,Dark Green,5.23,62.09,35.58,Mild Infection
+5604,Tomato,Dark Green,6.77,45.34,20.91,Healthy
+5605,Potato,Dark Green,4.93,93.85,33.66,Mild Infection
+5606,Potato,Green,2.87,45.75,27.88,Healthy
+5607,Tomato,Green,5.57,81.99,29.24,Mild Infection
+5608,Potato,Dark Green,6.73,65.32,20.55,Mild Infection
+5609,Potato,Yellowish,7.54,93.32,18.85,Severe Infection
+5610,Potato,Dark Green,5.85,43.62,31.69,Healthy
+5611,Cucumber,Dark Green,4.5,90.06,24.69,Mild Infection
+5612,Cucumber,Yellowish,3.75,45.51,38.51,Healthy
+5613,Tomato,Yellowish,5.14,61.3,31.2,Mild Infection
+5614,Cucumber,Yellowish,8.19,43.05,24.26,Healthy
+5615,Potato,Dark Green,8.34,87.05,20.02,Severe Infection
+5616,Potato,Green,1.32,56.65,28.88,Healthy
+5617,Pepper,Green,5.38,84.02,32.7,Mild Infection
+5618,Cucumber,Dark Green,6.48,56.5,21.53,Healthy
+5619,Tomato,Green,4.34,48.45,21.96,Healthy
+5620,Cucumber,Green,0.77,88.96,36.9,Healthy
+5621,Potato,Dark Green,2.75,67.23,31.4,Healthy
+5622,Cucumber,Dark Green,0.25,72.72,25.15,Healthy
+5623,Tomato,Green,8.05,45.87,38.31,Healthy
+5624,Pepper,Yellowish,2.97,54.08,18.7,Healthy
+5625,Cucumber,Yellowish,0.56,63.15,39.32,Healthy
+5626,Potato,Dark Green,2.43,66.44,18.07,Healthy
+5627,Tomato,Yellowish,9.49,93.13,38.06,Severe Infection
+5628,Pepper,Dark Green,9.82,59.34,37.93,Healthy
+5629,Pepper,Dark Green,0.81,82.44,22.92,Healthy
+5630,Pepper,Yellowish,7.02,87.23,26.88,Severe Infection
+5631,Potato,Dark Green,5.24,86.91,24.93,Mild Infection
+5632,Cucumber,Dark Green,1.66,59.46,37.61,Healthy
+5633,Potato,Dark Green,1.95,71.73,32.46,Healthy
+5634,Pepper,Green,6.68,92.06,23.43,Severe Infection
+5635,Cucumber,Dark Green,7.37,64.65,38.63,Mild Infection
+5636,Cucumber,Dark Green,5.92,71.31,33.24,Mild Infection
+5637,Cucumber,Green,9.06,62.01,33.18,Mild Infection
+5638,Pepper,Yellowish,8.01,71.43,23.58,Mild Infection
+5639,Pepper,Yellowish,5.96,77.89,21.85,Mild Infection
+5640,Pepper,Yellowish,8.91,81.41,29.39,Severe Infection
+5641,Pepper,Yellowish,5.06,90.46,30.02,Mild Infection
+5642,Pepper,Yellowish,8.7,69.96,21.09,Mild Infection
+5643,Potato,Yellowish,2.41,94.65,20.03,Healthy
+5644,Potato,Dark Green,8.61,61.74,28.26,Mild Infection
+5645,Potato,Green,9.53,91.22,26.75,Severe Infection
+5646,Potato,Yellowish,4.84,42.31,37.95,Healthy
+5647,Tomato,Green,4.69,71.16,21.29,Mild Infection
+5648,Potato,Yellowish,0.02,40.85,24.0,Healthy
+5649,Tomato,Dark Green,9.45,80.06,35.57,Severe Infection
+5650,Potato,Dark Green,7.75,54.0,38.33,Healthy
+5651,Pepper,Dark Green,7.12,78.26,38.33,Severe Infection
+5652,Potato,Yellowish,3.86,79.22,18.89,Mild Infection
+5653,Pepper,Green,6.55,41.27,20.93,Healthy
+5654,Potato,Yellowish,4.22,72.75,27.89,Mild Infection
+5655,Cucumber,Green,2.52,60.48,20.38,Healthy
+5656,Cucumber,Dark Green,6.51,79.64,19.07,Severe Infection
+5657,Potato,Green,2.24,44.5,24.62,Healthy
+5658,Tomato,Green,0.46,90.14,26.1,Healthy
+5659,Potato,Yellowish,2.74,69.21,26.98,Healthy
+5660,Potato,Green,3.3,85.05,39.92,Mild Infection
+5661,Potato,Green,4.7,60.95,27.68,Mild Infection
+5662,Pepper,Dark Green,6.89,45.79,34.92,Healthy
+5663,Pepper,Green,2.11,80.4,28.35,Healthy
+5664,Pepper,Yellowish,0.11,92.69,30.95,Healthy
+5665,Pepper,Yellowish,0.46,94.61,19.58,Healthy
+5666,Pepper,Green,4.1,93.31,25.01,Mild Infection
+5667,Pepper,Yellowish,5.19,41.33,37.75,Healthy
+5668,Pepper,Dark Green,4.23,87.34,38.97,Mild Infection
+5669,Cucumber,Green,9.36,84.86,26.87,Severe Infection
+5670,Tomato,Green,3.68,46.32,39.04,Healthy
+5671,Tomato,Yellowish,8.36,41.0,33.89,Healthy
+5672,Tomato,Dark Green,8.66,67.96,27.03,Mild Infection
+5673,Pepper,Yellowish,3.82,92.19,38.68,Mild Infection
+5674,Tomato,Dark Green,3.65,54.08,32.53,Healthy
+5675,Pepper,Dark Green,2.04,46.69,20.56,Healthy
+5676,Potato,Green,1.6,74.1,21.24,Healthy
+5677,Pepper,Dark Green,1.62,83.01,35.87,Healthy
+5678,Pepper,Yellowish,3.1,62.86,36.3,Mild Infection
+5679,Pepper,Yellowish,6.72,49.88,32.58,Healthy
+5680,Cucumber,Yellowish,7.62,57.86,36.37,Healthy
+5681,Cucumber,Dark Green,2.09,69.37,19.36,Healthy
+5682,Cucumber,Yellowish,7.18,44.73,36.55,Healthy
+5683,Pepper,Dark Green,3.72,70.89,31.05,Mild Infection
+5684,Pepper,Dark Green,3.25,55.05,21.84,Healthy
+5685,Pepper,Green,3.83,74.86,30.52,Mild Infection
+5686,Cucumber,Yellowish,2.83,44.99,32.68,Healthy
+5687,Tomato,Dark Green,2.07,73.42,21.38,Healthy
+5688,Tomato,Green,7.4,50.38,30.52,Healthy
+5689,Tomato,Dark Green,6.21,56.6,29.27,Healthy
+5690,Tomato,Dark Green,0.08,81.88,39.74,Healthy
+5691,Potato,Yellowish,9.12,54.08,20.64,Healthy
+5692,Potato,Green,2.75,49.93,18.85,Healthy
+5693,Cucumber,Yellowish,0.52,56.16,19.25,Healthy
+5694,Potato,Dark Green,4.01,64.27,19.44,Mild Infection
+5695,Potato,Yellowish,4.24,90.33,27.1,Mild Infection
+5696,Tomato,Yellowish,3.94,40.57,32.0,Healthy
+5697,Pepper,Green,5.58,76.17,36.36,Mild Infection
+5698,Pepper,Yellowish,5.44,65.38,28.18,Mild Infection
+5699,Cucumber,Yellowish,5.88,41.06,29.04,Healthy
+5700,Cucumber,Yellowish,3.17,76.76,23.02,Mild Infection
+5701,Tomato,Green,5.96,59.14,25.62,Healthy
+5702,Pepper,Yellowish,0.01,94.07,30.75,Healthy
+5703,Pepper,Dark Green,8.29,71.36,26.05,Mild Infection
+5704,Cucumber,Green,5.46,41.87,36.06,Healthy
+5705,Pepper,Yellowish,2.08,53.8,31.06,Healthy
+5706,Tomato,Dark Green,5.33,75.01,37.39,Mild Infection
+5707,Tomato,Dark Green,2.46,81.97,32.62,Healthy
+5708,Pepper,Green,2.45,64.0,18.97,Healthy
+5709,Pepper,Dark Green,6.94,43.8,21.24,Healthy
+5710,Cucumber,Dark Green,0.53,74.86,22.89,Healthy
+5711,Cucumber,Dark Green,2.26,42.61,31.48,Healthy
+5712,Tomato,Green,8.53,66.13,22.93,Mild Infection
+5713,Tomato,Yellowish,6.64,65.19,20.9,Mild Infection
+5714,Tomato,Dark Green,5.48,63.81,22.35,Mild Infection
+5715,Potato,Yellowish,9.54,41.27,19.12,Healthy
+5716,Cucumber,Yellowish,7.37,66.04,35.65,Mild Infection
+5717,Tomato,Dark Green,7.31,47.84,36.44,Healthy
+5718,Cucumber,Yellowish,7.72,47.19,32.08,Healthy
+5719,Tomato,Dark Green,0.19,40.73,33.06,Healthy
+5720,Potato,Dark Green,7.66,74.96,21.26,Mild Infection
+5721,Potato,Dark Green,6.89,85.45,23.76,Severe Infection
+5722,Cucumber,Green,4.63,58.69,29.06,Healthy
+5723,Potato,Yellowish,9.17,72.47,34.35,Mild Infection
+5724,Potato,Dark Green,4.93,79.55,35.62,Mild Infection
+5725,Pepper,Yellowish,5.97,64.09,36.53,Mild Infection
+5726,Tomato,Green,4.04,50.19,39.22,Healthy
+5727,Pepper,Yellowish,7.51,46.08,38.29,Healthy
+5728,Potato,Dark Green,7.58,82.31,27.43,Severe Infection
+5729,Potato,Yellowish,4.2,53.43,34.04,Healthy
+5730,Cucumber,Green,9.33,59.22,38.28,Healthy
+5731,Potato,Dark Green,9.18,83.9,27.53,Severe Infection
+5732,Tomato,Dark Green,2.28,80.94,28.27,Healthy
+5733,Cucumber,Dark Green,6.05,63.4,34.62,Mild Infection
+5734,Pepper,Dark Green,0.44,55.53,28.59,Healthy
+5735,Cucumber,Dark Green,0.11,94.44,26.95,Healthy
+5736,Cucumber,Dark Green,7.88,75.89,31.47,Severe Infection
+5737,Cucumber,Yellowish,3.23,82.0,33.14,Mild Infection
+5738,Tomato,Green,8.35,93.38,27.34,Severe Infection
+5739,Pepper,Yellowish,5.81,72.46,22.22,Mild Infection
+5740,Pepper,Green,4.17,61.93,20.63,Mild Infection
+5741,Cucumber,Dark Green,3.05,45.43,27.15,Healthy
+5742,Pepper,Green,5.3,60.66,34.67,Mild Infection
+5743,Pepper,Green,5.3,54.31,38.72,Healthy
+5744,Potato,Green,6.74,60.08,20.2,Mild Infection
+5745,Cucumber,Green,6.27,66.14,22.24,Mild Infection
+5746,Pepper,Green,5.08,65.54,35.98,Mild Infection
+5747,Pepper,Yellowish,7.86,91.17,37.58,Severe Infection
+5748,Pepper,Dark Green,4.44,69.98,22.93,Mild Infection
+5749,Potato,Yellowish,0.18,89.28,27.12,Healthy
+5750,Tomato,Dark Green,0.25,49.59,31.68,Healthy
+5751,Tomato,Dark Green,3.07,45.54,27.32,Healthy
+5752,Potato,Green,0.81,87.81,23.23,Healthy
+5753,Tomato,Green,6.83,55.36,38.49,Healthy
+5754,Tomato,Yellowish,4.02,75.48,36.67,Mild Infection
+5755,Cucumber,Yellowish,5.4,48.49,36.1,Healthy
+5756,Potato,Green,5.75,94.34,35.24,Mild Infection
+5757,Tomato,Yellowish,0.71,62.98,23.79,Healthy
+5758,Cucumber,Yellowish,2.5,88.91,32.86,Healthy
+5759,Potato,Green,6.89,91.88,33.9,Severe Infection
+5760,Tomato,Dark Green,3.48,83.94,21.01,Mild Infection
+5761,Potato,Green,4.59,66.93,20.46,Mild Infection
+5762,Tomato,Green,5.14,94.87,25.13,Mild Infection
+5763,Pepper,Dark Green,9.49,59.54,20.4,Healthy
+5764,Potato,Green,0.04,67.65,31.67,Healthy
+5765,Potato,Dark Green,1.74,59.88,26.73,Healthy
+5766,Pepper,Yellowish,9.36,84.22,35.6,Severe Infection
+5767,Potato,Yellowish,0.69,40.98,22.76,Healthy
+5768,Tomato,Dark Green,8.38,81.61,20.43,Severe Infection
+5769,Pepper,Green,1.19,51.0,20.1,Healthy
+5770,Tomato,Dark Green,3.53,59.26,22.94,Healthy
+5771,Cucumber,Dark Green,3.39,70.07,34.36,Mild Infection
+5772,Tomato,Yellowish,4.51,84.55,28.59,Mild Infection
+5773,Potato,Green,5.48,68.01,38.79,Mild Infection
+5774,Tomato,Yellowish,8.12,49.92,33.93,Healthy
+5775,Potato,Yellowish,3.38,68.85,22.9,Mild Infection
+5776,Cucumber,Yellowish,1.23,58.45,25.42,Healthy
+5777,Pepper,Dark Green,3.44,42.56,20.44,Healthy
+5778,Tomato,Yellowish,2.76,45.51,34.6,Healthy
+5779,Pepper,Green,7.81,44.79,24.31,Healthy
+5780,Pepper,Dark Green,6.8,75.59,38.18,Severe Infection
+5781,Potato,Yellowish,8.95,45.99,23.52,Healthy
+5782,Pepper,Green,4.14,75.18,32.6,Mild Infection
+5783,Pepper,Green,4.73,83.14,32.93,Mild Infection
+5784,Tomato,Dark Green,8.73,58.49,24.48,Healthy
+5785,Cucumber,Yellowish,2.15,68.32,20.88,Healthy
+5786,Pepper,Green,9.5,61.18,36.4,Mild Infection
+5787,Potato,Yellowish,3.51,60.76,35.35,Mild Infection
+5788,Potato,Yellowish,9.04,41.84,26.49,Healthy
+5789,Cucumber,Dark Green,0.25,51.36,39.34,Healthy
+5790,Cucumber,Yellowish,9.18,57.68,18.82,Healthy
+5791,Pepper,Yellowish,0.65,70.35,24.03,Healthy
+5792,Pepper,Dark Green,7.61,46.36,19.57,Healthy
+5793,Cucumber,Green,9.29,58.86,27.2,Healthy
+5794,Potato,Yellowish,0.22,47.98,33.38,Healthy
+5795,Tomato,Green,4.01,74.3,28.6,Mild Infection
+5796,Cucumber,Dark Green,8.87,67.76,37.48,Mild Infection
+5797,Potato,Yellowish,6.78,61.06,29.58,Mild Infection
+5798,Potato,Yellowish,5.01,53.87,26.39,Healthy
+5799,Cucumber,Dark Green,0.54,81.92,27.45,Healthy
+5800,Tomato,Dark Green,3.81,65.08,35.9,Mild Infection
+5801,Pepper,Green,2.16,89.05,38.1,Healthy
+5802,Cucumber,Dark Green,9.51,56.8,33.31,Healthy
+5803,Pepper,Green,7.48,41.57,37.45,Healthy
+5804,Tomato,Green,1.72,61.82,27.15,Healthy
+5805,Pepper,Green,0.8,71.83,26.01,Healthy
+5806,Potato,Dark Green,2.82,50.91,34.47,Healthy
+5807,Pepper,Green,0.98,46.51,34.63,Healthy
+5808,Potato,Dark Green,7.72,55.38,30.56,Healthy
+5809,Potato,Green,1.17,42.47,21.7,Healthy
+5810,Pepper,Yellowish,4.68,93.36,30.14,Mild Infection
+5811,Pepper,Dark Green,3.33,70.63,32.54,Mild Infection
+5812,Tomato,Dark Green,1.97,43.84,23.63,Healthy
+5813,Pepper,Green,3.84,69.53,30.34,Mild Infection
+5814,Tomato,Green,5.19,75.86,20.96,Mild Infection
+5815,Tomato,Dark Green,0.6,81.43,34.74,Healthy
+5816,Cucumber,Dark Green,8.22,93.57,22.25,Severe Infection
+5817,Pepper,Dark Green,4.97,54.55,20.86,Healthy
+5818,Pepper,Green,8.05,78.44,37.89,Severe Infection
+5819,Tomato,Dark Green,9.29,88.34,36.33,Severe Infection
+5820,Pepper,Yellowish,3.11,82.27,31.02,Mild Infection
+5821,Cucumber,Green,8.93,42.11,21.57,Healthy
+5822,Pepper,Yellowish,8.58,46.29,29.73,Healthy
+5823,Cucumber,Green,5.08,51.86,26.78,Healthy
+5824,Potato,Dark Green,5.09,86.15,38.01,Mild Infection
+5825,Tomato,Yellowish,2.49,46.15,30.44,Healthy
+5826,Pepper,Green,0.52,74.87,23.65,Healthy
+5827,Pepper,Green,9.65,68.29,35.57,Mild Infection
+5828,Potato,Yellowish,1.27,94.27,24.73,Healthy
+5829,Cucumber,Green,2.96,87.19,32.92,Healthy
+5830,Tomato,Green,6.67,79.32,34.02,Severe Infection
+5831,Cucumber,Green,2.28,80.66,32.51,Healthy
+5832,Tomato,Green,7.33,86.55,32.74,Severe Infection
+5833,Pepper,Yellowish,0.68,64.73,34.7,Healthy
+5834,Potato,Dark Green,2.91,94.85,35.16,Healthy
+5835,Cucumber,Yellowish,5.78,76.7,37.71,Mild Infection
+5836,Tomato,Yellowish,7.02,48.82,33.74,Healthy
+5837,Potato,Yellowish,4.34,56.51,34.64,Healthy
+5838,Cucumber,Yellowish,2.22,68.36,30.53,Healthy
+5839,Cucumber,Green,4.36,90.72,32.45,Mild Infection
+5840,Pepper,Yellowish,3.4,84.99,24.39,Mild Infection
+5841,Pepper,Dark Green,4.54,49.06,18.93,Healthy
+5842,Potato,Dark Green,5.33,82.44,38.23,Mild Infection
+5843,Potato,Yellowish,0.93,72.38,35.12,Healthy
+5844,Tomato,Dark Green,6.71,72.65,37.51,Mild Infection
+5845,Cucumber,Yellowish,8.14,43.47,37.87,Healthy
+5846,Potato,Green,8.89,93.54,24.33,Severe Infection
+5847,Cucumber,Green,1.2,81.67,30.4,Healthy
+5848,Cucumber,Dark Green,7.58,59.62,35.43,Healthy
+5849,Tomato,Green,9.38,40.82,35.8,Healthy
+5850,Cucumber,Yellowish,6.29,44.47,18.46,Healthy
+5851,Potato,Dark Green,3.32,94.28,26.76,Mild Infection
+5852,Cucumber,Green,8.86,53.26,21.4,Healthy
+5853,Cucumber,Green,7.0,47.61,20.63,Healthy
+5854,Cucumber,Green,8.5,65.92,20.62,Mild Infection
+5855,Tomato,Green,6.45,92.73,27.72,Severe Infection
+5856,Pepper,Green,0.64,59.25,27.77,Healthy
+5857,Tomato,Green,4.81,53.24,28.13,Healthy
+5858,Pepper,Yellowish,9.75,46.69,19.43,Healthy
+5859,Tomato,Green,7.56,62.96,33.44,Mild Infection
+5860,Cucumber,Dark Green,4.15,52.51,20.24,Healthy
+5861,Tomato,Green,6.16,79.7,37.45,Severe Infection
+5862,Potato,Yellowish,2.45,88.07,39.95,Healthy
+5863,Potato,Dark Green,0.98,85.27,23.08,Healthy
+5864,Cucumber,Dark Green,0.04,56.28,37.16,Healthy
+5865,Cucumber,Yellowish,6.9,65.62,23.25,Mild Infection
+5866,Tomato,Yellowish,7.72,64.2,26.34,Mild Infection
+5867,Potato,Dark Green,9.16,78.74,37.59,Severe Infection
+5868,Cucumber,Yellowish,9.25,53.18,36.91,Healthy
+5869,Pepper,Green,5.49,58.37,23.99,Healthy
+5870,Tomato,Dark Green,0.49,94.64,20.89,Healthy
+5871,Pepper,Green,6.78,85.77,36.62,Severe Infection
+5872,Cucumber,Green,9.68,68.11,38.1,Mild Infection
+5873,Tomato,Yellowish,5.48,57.04,22.32,Healthy
+5874,Cucumber,Yellowish,4.44,63.22,31.61,Mild Infection
+5875,Tomato,Green,3.73,77.36,37.21,Mild Infection
+5876,Pepper,Yellowish,0.28,63.71,26.83,Healthy
+5877,Cucumber,Green,1.51,84.41,32.6,Healthy
+5878,Pepper,Yellowish,5.89,45.89,26.62,Healthy
+5879,Potato,Yellowish,9.47,49.64,35.04,Healthy
+5880,Tomato,Yellowish,0.38,48.56,39.12,Healthy
+5881,Cucumber,Yellowish,3.07,40.26,37.22,Healthy
+5882,Potato,Dark Green,0.8,57.43,32.39,Healthy
+5883,Tomato,Green,9.28,82.55,29.63,Severe Infection
+5884,Pepper,Dark Green,9.79,87.84,27.88,Severe Infection
+5885,Pepper,Green,8.48,58.1,37.49,Healthy
+5886,Tomato,Green,8.37,74.34,19.6,Mild Infection
+5887,Potato,Dark Green,5.77,43.89,26.8,Healthy
+5888,Pepper,Green,0.6,93.58,27.67,Healthy
+5889,Cucumber,Dark Green,3.09,71.08,27.85,Mild Infection
+5890,Pepper,Green,5.44,58.63,34.65,Healthy
+5891,Pepper,Dark Green,8.51,69.89,23.24,Mild Infection
+5892,Cucumber,Yellowish,3.58,51.38,31.72,Healthy
+5893,Cucumber,Yellowish,0.96,64.93,33.98,Healthy
+5894,Cucumber,Green,1.6,94.08,35.79,Healthy
+5895,Pepper,Dark Green,7.27,68.78,37.78,Mild Infection
+5896,Potato,Yellowish,2.26,62.2,26.9,Healthy
+5897,Pepper,Dark Green,2.08,71.62,22.67,Healthy
+5898,Pepper,Green,6.74,50.43,18.7,Healthy
+5899,Pepper,Dark Green,9.72,70.88,32.01,Mild Infection
+5900,Tomato,Yellowish,4.77,62.99,23.41,Mild Infection
+5901,Pepper,Dark Green,7.64,70.13,18.53,Mild Infection
+5902,Potato,Green,2.11,74.41,19.14,Healthy
+5903,Potato,Yellowish,5.66,55.89,31.8,Healthy
+5904,Potato,Green,2.45,70.21,24.01,Healthy
+5905,Tomato,Dark Green,1.87,86.7,31.56,Healthy
+5906,Tomato,Yellowish,6.59,88.02,34.34,Severe Infection
+5907,Tomato,Dark Green,7.97,54.41,39.55,Healthy
+5908,Pepper,Yellowish,2.97,86.62,34.7,Healthy
+5909,Tomato,Dark Green,7.23,50.23,20.44,Healthy
+5910,Pepper,Dark Green,0.77,85.1,39.9,Healthy
+5911,Cucumber,Yellowish,8.78,63.35,36.42,Mild Infection
+5912,Pepper,Dark Green,3.34,85.29,21.39,Mild Infection
+5913,Potato,Yellowish,5.79,52.45,30.74,Healthy
+5914,Cucumber,Dark Green,2.74,73.74,24.0,Healthy
+5915,Cucumber,Green,7.63,46.27,25.65,Healthy
+5916,Potato,Green,6.01,45.64,36.75,Healthy
+5917,Potato,Dark Green,4.53,82.6,22.6,Mild Infection
+5918,Tomato,Dark Green,7.37,92.66,35.13,Severe Infection
+5919,Potato,Green,0.73,63.28,38.31,Healthy
+5920,Potato,Yellowish,5.19,51.84,25.13,Healthy
+5921,Pepper,Dark Green,4.03,86.12,30.84,Mild Infection
+5922,Pepper,Yellowish,6.12,53.56,35.67,Healthy
+5923,Cucumber,Dark Green,3.62,81.43,30.17,Mild Infection
+5924,Potato,Yellowish,9.88,88.37,18.86,Severe Infection
+5925,Potato,Yellowish,6.06,77.46,18.84,Severe Infection
+5926,Pepper,Green,8.9,45.82,24.11,Healthy
+5927,Pepper,Green,7.14,62.74,19.6,Mild Infection
+5928,Tomato,Yellowish,4.34,73.77,29.23,Mild Infection
+5929,Pepper,Green,5.89,52.84,38.71,Healthy
+5930,Cucumber,Dark Green,4.8,90.23,36.64,Mild Infection
+5931,Tomato,Dark Green,1.76,93.32,29.06,Healthy
+5932,Tomato,Green,8.98,43.76,18.28,Healthy
+5933,Potato,Yellowish,6.17,59.35,23.12,Healthy
+5934,Potato,Dark Green,6.35,94.54,39.63,Severe Infection
+5935,Tomato,Dark Green,1.02,67.01,33.01,Healthy
+5936,Tomato,Dark Green,1.96,44.14,19.61,Healthy
+5937,Potato,Yellowish,4.67,60.86,28.24,Mild Infection
+5938,Cucumber,Green,2.3,86.76,25.82,Healthy
+5939,Pepper,Green,9.69,51.67,28.41,Healthy
+5940,Potato,Dark Green,9.92,89.4,25.34,Severe Infection
+5941,Potato,Yellowish,9.27,42.91,36.82,Healthy
+5942,Cucumber,Green,1.05,46.24,18.73,Healthy
+5943,Tomato,Yellowish,7.79,93.35,32.69,Severe Infection
+5944,Pepper,Green,5.96,69.43,35.54,Mild Infection
+5945,Potato,Dark Green,8.23,70.86,29.74,Mild Infection
+5946,Cucumber,Green,1.0,62.61,34.79,Healthy
+5947,Cucumber,Green,3.63,60.43,18.87,Mild Infection
+5948,Potato,Green,0.78,46.56,38.33,Healthy
+5949,Tomato,Yellowish,3.91,78.89,25.25,Mild Infection
+5950,Tomato,Yellowish,3.89,73.08,32.78,Mild Infection
+5951,Pepper,Dark Green,4.18,94.44,22.71,Mild Infection
+5952,Pepper,Dark Green,3.8,82.91,25.46,Mild Infection
+5953,Tomato,Yellowish,8.89,62.23,31.74,Mild Infection
+5954,Potato,Yellowish,4.96,94.0,33.44,Mild Infection
+5955,Pepper,Yellowish,3.12,92.49,22.53,Mild Infection
+5956,Potato,Yellowish,9.89,55.9,28.31,Healthy
+5957,Pepper,Green,0.17,63.26,32.73,Healthy
+5958,Potato,Dark Green,3.75,88.39,36.86,Mild Infection
+5959,Cucumber,Yellowish,4.6,40.68,26.79,Healthy
+5960,Pepper,Yellowish,8.85,89.17,39.25,Severe Infection
+5961,Potato,Yellowish,7.84,51.05,35.38,Healthy
+5962,Cucumber,Yellowish,6.13,90.16,22.28,Severe Infection
+5963,Cucumber,Yellowish,3.43,88.53,39.04,Mild Infection
+5964,Cucumber,Green,7.93,50.36,29.01,Healthy
+5965,Pepper,Green,3.41,76.29,25.12,Mild Infection
+5966,Tomato,Yellowish,1.56,65.68,35.86,Healthy
+5967,Cucumber,Green,6.56,43.53,22.27,Healthy
+5968,Tomato,Yellowish,5.37,53.9,25.2,Healthy
+5969,Cucumber,Dark Green,1.45,84.61,35.02,Healthy
+5970,Cucumber,Dark Green,6.33,82.62,25.42,Severe Infection
+5971,Pepper,Green,8.31,73.48,21.36,Mild Infection
+5972,Tomato,Green,0.5,55.49,36.5,Healthy
+5973,Tomato,Yellowish,9.12,60.35,24.27,Mild Infection
+5974,Pepper,Dark Green,5.27,43.52,33.72,Healthy
+5975,Cucumber,Yellowish,5.01,57.21,30.63,Healthy
+5976,Potato,Dark Green,7.56,65.09,22.52,Mild Infection
+5977,Cucumber,Green,6.63,77.55,38.7,Severe Infection
+5978,Cucumber,Green,6.0,85.51,25.92,Severe Infection
+5979,Tomato,Green,7.44,69.45,23.07,Mild Infection
+5980,Pepper,Yellowish,9.99,62.62,23.91,Mild Infection
+5981,Cucumber,Yellowish,9.71,42.4,22.78,Healthy
+5982,Tomato,Yellowish,9.72,88.41,22.71,Severe Infection
+5983,Potato,Green,5.73,45.56,20.47,Healthy
+5984,Tomato,Dark Green,4.34,60.17,39.51,Mild Infection
+5985,Tomato,Green,4.42,54.58,30.55,Healthy
+5986,Cucumber,Green,6.52,68.47,36.89,Mild Infection
+5987,Pepper,Dark Green,0.16,43.47,27.34,Healthy
+5988,Cucumber,Yellowish,1.81,66.58,25.3,Healthy
+5989,Potato,Green,9.13,85.81,31.52,Severe Infection
+5990,Tomato,Yellowish,5.08,46.66,18.13,Healthy
+5991,Cucumber,Green,8.77,78.22,24.78,Severe Infection
+5992,Pepper,Dark Green,3.01,40.85,35.97,Healthy
+5993,Cucumber,Dark Green,8.71,44.72,34.06,Healthy
+5994,Tomato,Yellowish,6.43,90.96,35.54,Severe Infection
+5995,Pepper,Dark Green,3.49,63.76,31.09,Mild Infection
+5996,Pepper,Yellowish,2.92,78.8,32.96,Healthy
+5997,Potato,Green,2.13,77.48,25.69,Healthy
+5998,Pepper,Dark Green,8.3,54.96,19.94,Healthy
+5999,Potato,Dark Green,7.39,52.09,19.42,Healthy
